@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YAMAHA经典插件合集]]></title> 
+			<path>/products/music-production/steinberg/vst/yamahaclassicaccessories_series/YAMAHAclassicaccessories.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/other/FC5-S.jpg</thumb_image>
+			<overview><![CDATA[<p>利用VCM技术在数字平台上还原了Yamaha经典的模拟插件&mdash;&mdash;经典通道条插件，<br />
+经典开盘机，经典效果器软件包。</p>]]></overview>
+			<description><![CDATA[<p>利用VCM技术在数字平台上还原了Yamaha经典的模拟插件&mdash;&mdash;经典通道条插件，<br />
+经典开盘机，经典效果器软件包。</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[GuitarEffects.html<!#>OpeningMachine.html<!#>Software.html<!#>SupportVST3.0.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/other/FC5-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/other/FC5-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/other/FC5.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

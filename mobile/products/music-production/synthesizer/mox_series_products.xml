@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MOX8]]></title> 
+			<path>/products/music-production/synthesizer/mox_series/MOX8.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox8/mox8_1_v-S.jpg</thumb_image>
+			<overview><![CDATA[<p>基于Phrase的音乐制作合成器工作站</p>]]></overview>
+			<description><![CDATA[<p>基于Phrase的音乐制作合成器工作站</p>]]></description>
+			<price>9800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[88Keys.html<!#>CHSKeyboard.html<!#>InitialTouchKeyboard.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox8/mox8_1_v-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox8/mox8_1_v-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox8/mox8_1_v.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MOX6]]></title> 
+			<path>/products/music-production/synthesizer/mox_series/MOX6.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox6/mox6_1_v-S.jpg</thumb_image>
+			<overview><![CDATA[<p>基于Phrase的音乐制作合成器工作站</p>]]></overview>
+			<description><![CDATA[<p>基于Phrase的音乐制作合成器工作站</p>]]></description>
+			<price>8400</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[61Keys.html<!#>SemiWeightKeyboard.html<!#>InitialTouchKeyboard.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox6/mox6_1_v-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox6/mox6_1_v-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/synthesizer/mox_series/mox6/mox6_1_v.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

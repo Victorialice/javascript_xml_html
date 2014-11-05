@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CH-500 ]]></title> 
+			<path>/products/musical-instruments/percussions/tubularbell/CH-500.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/tubularbell/ch-500-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>68600</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/tubularbell/ch-500-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/tubularbell/ch-500-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/tubularbell/ch-500.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

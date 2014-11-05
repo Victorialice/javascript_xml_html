@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=2,initial-scale=1"/>
+    <title>搜索结果－雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+    <link href="css/expand_view.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/product_search_result.js"></script>
+    <script type="text/javascript" src="js/expand_view.js"></script>
+</head>
+
+<body>
+<div style="display: none">
+	<div class="header"></div>
+    <div class="download result" id="list_view">
+        <h2><a href="#" class="back_link"><img src="images/icon04.png"/></a><span class="header_title">钢琴</span></h2>
+        <div class="title">
+            <strong>YU系列</strong>
+            <a href="#" class="up now" id="order_asc">价格<img src="images/up.png"/></a><a href="#" class="down" id="order_desc">价格<img src="images/down.png"/></a>
+        </div>
+        <div id="result_container"></div>
+        <a href="#" class="result_demo" style="display: none">
+            <dl class="appStore">
+                <dt><img src=""/></dt>
+                <dd><strong>YU131DS</strong></dd>
+                <dd><span>建议零售价: <span>35300</span></span></dd>
+                <dd>YU系列的顶级产品，完全满足专业 院校与专业演奏者的需求。</dd>
+                <img class="arrow" src="images/icon01.png"/>
+            </dl>
+        </a>
+    </div>
+
+    <!-- product detail view begin...-->
+    <div id="detail_view" class="Product" style="display: none">
+        <h2><a href="#"><img src="images/icon04.png"/></a><span>钢琴</span></h2>
+        <dl class="productView">
+            <dt>
+                <div class="detail_img"><img src=""/></div>
+                <a class="scale" href="#" target="yamaha_scale"></a>
+            </dt>
+            <dd><strong>MODUSF5</strong><span class="color01 is_new color-box">新品</span><span class="color02 is_recommend color-box">推荐</span><span class="mul_color"><img src="images/colorIcon.png"/>多种颜色</span></dd>
+            <dd>[<span>MODUS</span>系列]</dd>
+            <dd><p class="price-box">建议零售价: <span>35300</span></p></dd>
+            <dd>美的电子钢琴，结合了精巧的设计，功能和简单。 </dd>
+            <h3 class="more_photo" expand-group="product_detail">更多图片</h3>
+            <div class="productImg">
+                <h4>颜色</h4>
+                <ul>
+                    <li><div><img src=""/></div></li>
+                    <li><img src=""/></li>
+                    <li><img src=""/></li>
+                </ul>
+                <h4>外观</h4>
+                <ul>
+                    <li><img src=""/></li>
+                    <li><img src=""/></li>
+                    <li><img src=""/></li>
+                </ul>
+            </div>
+            <div class="clear space"></div>
+            <h3 expand-group="product_detail">系列介绍</h3>
+            <div class="series_description"></div>
+            <div class="clear space"></div>
+            <h3 expand-group="product_detail">产品规格</h3>
+            <div class="product_spec"></div>
+            <div class="clear space"></div>
+            <h3 expand-group="product_detail">客户支持</h3>
+            <div class="link">
+                <ul>
+                    <li><a href="contact.html">联系雅马哈</a></li>
+                    <li class="linkLine"><img src="images/linkLine.png"/></li>
+                    <li><a href="dealers.html">联系经销商</a></li>
+                </ul>
+            </div>
+        </dl>
+    </div>
+    <!-- product detail view ending-->
+    <div class="foot"></div>
+</div>
+</body>
+</html>

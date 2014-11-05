@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-2310S]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/standard/YFH-2310S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310S-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>10900</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310S-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310S-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310S.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-2310]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/standard/YFH-2310.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>10100</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-2310.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MC7]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/muteattachment/MC7.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/MC7-S.gif</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>1080</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/MC7-S.gif</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/MC7-M.gif</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/MC7.gif</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[ST9]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/muteattachment/ST9.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/7.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>860</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/7.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/ST9-M.gif</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/ST9.gif</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

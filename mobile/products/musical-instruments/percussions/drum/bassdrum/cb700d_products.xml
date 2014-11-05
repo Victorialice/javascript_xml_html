@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-732D]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb700d/CB-732D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb732d_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>12000</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb732d_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb732d_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb732d_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-736D]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb700d/CB-736D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb736d_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>13400</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb736d_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb736d_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb736d_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-740D]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb700d/CB-740D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb740d_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>16700</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb740d_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb740d_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb740d_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

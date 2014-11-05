@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YTS-280]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/tenorsax/standard/YTS-280.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS280-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>9780</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS280-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS280-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS280-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YTS-26]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/tenorsax/standard/YTS-26.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS26-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>8380</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS26-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS26-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS26-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+</products>

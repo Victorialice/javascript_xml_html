@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CI1]]></title> 
+			<path>/products/music-production/audiointerface/usb/ci_series/CI1.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci1/top1-S.jpg</thumb_image>
+			<overview><![CDATA[<p>CI1是一款入门级USB声卡，<br />
+让您通过最简单的方式制作音乐，<br />
+录制高品质的声音</p>]]></overview>
+			<description><![CDATA[<p>CI系列音频接口是Steinberg推出的一款价廉物美的产品，通过USB线供电，同时还配备了为初学</p>
+<p>者特别挑选的简单易用的高品质入门软件。这一系列产品十分适合那些想要用电脑自己进行音乐</p>
+<p>录音的用户，是音乐爱好者，吉他手，歌手以及电子音乐制作人的得力助手。</p>
+<p>&nbsp;<br />
+&nbsp;</p>]]></description>
+			<price>980</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[lightweightPortable.html<!#>video.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci1/top1-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci1/top1-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci1/top1.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CI2]]></title> 
+			<path>/products/music-production/audiointerface/usb/ci_series/CI2.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci2/top2-S.jpg</thumb_image>
+			<overview><![CDATA[<p>CI2是一款整合了控制器和音频接口的USB声卡，<br />
+配合Cubase AI 5音频工作站，<br />
+无论是新手或是专业音乐人和制作人都会对它的表现感到满意</p>]]></overview>
+			<description><![CDATA[<p>CI2是一款整合了控制器和音频接口的USB声卡，<br />
+配合Cubase AI 5音频工作站，<br />
+无论是新手或是专业音乐人和制作人都会对它的表现感到满意</p>]]></description>
+			<price>1950</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[lightweightPortable.html<!#>video.html<!#>withController.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci2/top2-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci2/top2-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci2/top2.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CI2+]]></title> 
+			<path>/products/music-production/audiointerface/usb/ci_series/CI2-.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci22/top-S.jpg</thumb_image>
+			<overview><![CDATA[<p>CI2+是一款整合了控制器和音频接口的USB声卡，<br />
+配合Cubase Essential 5，<br />
+它会是您最佳的移动录音与音乐制作的解决方案，操作简便，乐趣无限。</p>]]></overview>
+			<description><![CDATA[<p>CI2+是一款整合了控制器和音频接口的USB声卡，<br />
+配合Cubase Essential 5，<br />
+它会是您最佳的移动录音与音乐制作的解决方案，操作简便，乐趣无限。</p>]]></description>
+			<price>2570</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[lightweightPortable.html<!#>withController.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci22/top-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci22/top-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/ci_series/ci22/top.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

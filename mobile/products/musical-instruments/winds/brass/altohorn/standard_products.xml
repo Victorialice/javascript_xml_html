@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YAH-203]]></title> 
+			<path>/products/musical-instruments/winds/brass/altohorn/standard/YAH-203.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>15400</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YAH-203S]]></title> 
+			<path>/products/musical-instruments/winds/brass/altohorn/standard/YAH-203S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203s_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>16400</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203s_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203s_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/altohorn/yah-203s_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

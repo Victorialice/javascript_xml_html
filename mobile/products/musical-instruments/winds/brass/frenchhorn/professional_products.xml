@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YHR-667DII]]></title> 
+			<path>/products/musical-instruments/winds/brass/frenchhorn/professional/YHR-667DII.html</path>
+			<if_new>No</if_new> 
+			<thumb_image></thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image></small_image>
+					<middle_image></middle_image>
+					<large_image></large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YHR-667D]]></title> 
+			<path>/products/musical-instruments/winds/brass/frenchhorn/professional/YHR-667D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image></thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>40000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YHR-668II]]></title> 
+			<path>/products/musical-instruments/winds/brass/frenchhorn/professional/YHR-668II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-668II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>44000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-668II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-668II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-668II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

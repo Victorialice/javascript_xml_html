@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='家庭音响'>
+<serie_trunk id='aduio-family' name='家庭影院' path='/products/audio-visual/aduio-family/' >
+<serie_leaf id='aventagedspz' name='AVENTAGE' path='/mobile/products/audio-visual/aduio-family/aventagedspz_products.xml'>
+</serie_leaf>
+<serie_leaf id='av-receivers' name='AV放大器' path='/mobile/products/audio-visual/aduio-family/av-receivers_products.xml'>
+</serie_leaf>
+<serie_leaf id='dvd-palyer' name='DVD/BD播放器' path='/mobile/products/audio-visual/aduio-family/dvd-palyer_products.xml'>
+</serie_leaf>
+<serie_leaf id='digitalsoundprojector' name='数字投音机' path='/mobile/products/audio-visual/aduio-family/digitalsoundprojector_products.xml'>
+</serie_leaf>
+<serie_trunk id='hometheatre' name='家庭影院系统' path='/products/audio-visual/aduio-family/hometheatre/'>
+<serie_leaf id='htibpackage' name='HTiB音响套装' path='/mobile/products/audio-visual/aduio-family/hometheatre/htibpackage_products.xml'>
+</serie_leaf>
+<serie_leaf id='hometheatreset' name='Casual Theatre' path='/mobile/products/audio-visual/aduio-family/hometheatre/hometheatreset_products.xml'>
+</serie_leaf>
+<serie_leaf id='hometheatrepackage' name='Soundbar音响' path='/mobile/products/audio-visual/aduio-family/hometheatre/hometheatrepackage_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_leaf id='accessoriesforaduiofamily' name='配件' path='/mobile/products/audio-visual/aduio-family/accessoriesforaduiofamily_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='hifi-components' name='HiFi产品' path='/products/audio-visual/hifi-components/' >
+<serie_leaf id='integrated-amplifier' name='Integrated Amplifier' path='/mobile/products/audio-visual/hifi-components/integrated-amplifier_products.xml'>
+</serie_leaf>
+<serie_leaf id='cd-player' name='CD 播放器' path='/mobile/products/audio-visual/hifi-components/cd-player_products.xml'>
+</serie_leaf>
+<serie_leaf id='network-player' name='数字播放器' path='/mobile/products/audio-visual/hifi-components/network-player_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='speaker-system' name='音箱' path='/products/audio-visual/speaker-system/' >
+<serie_trunk id='homeaudio' name='家用音箱' path='/products/audio-visual/speaker-system/homeaudio/'>
+<serie_leaf id='soavo-series' name='Soavo系列' path='/mobile/products/audio-visual/speaker-system/homeaudio/soavo-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='other-products' name='其他产品' path='/mobile/products/audio-visual/speaker-system/homeaudio/other-products_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_leaf id='speaker-packages' name='音箱套装' path='/mobile/products/audio-visual/speaker-system/speaker-packages_products.xml'>
+</serie_leaf>
+<serie_leaf id='custominstallation' name='定制音箱' path='/mobile/products/audio-visual/speaker-system/custominstallation_products.xml'>
+</serie_leaf>
+<serie_leaf id='subwoofers' name='重低音音箱' path='/mobile/products/audio-visual/speaker-system/subwoofers_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='hifi-system' name='台式音响' path='/mobile/products/audio-visual/hifi-system_products.xml'>
+<serie_leaf id='hifi-system' name='台式音响' path='/mobile/products/audio-visual/hifi-system_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='desktop-audio' name='桌面音响' path='/mobile/products/audio-visual/desktop-audio_products.xml'>
+<serie_leaf id='desktop-audio' name='桌面音响' path='/mobile/products/audio-visual/desktop-audio_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='earphone' name='耳机' path='/products/audio-visual/earphone/' >
+<serie_leaf id='pro_series' name='PRO系列' path='/mobile/products/audio-visual/earphone/pro_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='mt_series' name='MT系列' path='/mobile/products/audio-visual/earphone/mt_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='hph_series' name='HPH系列' path='/mobile/products/audio-visual/earphone/hph_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='eph_series' name='EPH系列' path='/mobile/products/audio-visual/earphone/eph_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='accessories' name='配件' path='/products/audio-visual/accessories/' >
+<serie_leaf id='baseaccessories' name='底座' path='/mobile/products/audio-visual/accessories/baseaccessories_products.xml'>
+</serie_leaf>
+<serie_leaf id='bracketaccessories' name='支架/其它' path='/mobile/products/audio-visual/accessories/bracketaccessories_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>

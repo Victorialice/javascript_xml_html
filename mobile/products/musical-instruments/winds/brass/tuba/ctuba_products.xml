@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCB-621]]></title> 
+			<path>/products/musical-instruments/winds/brass/tuba/ctuba/YCB-621.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/tuba/YCB_621-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>65000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/tuba/YCB_621-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/tuba/YCB_621-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/tuba/YCB_621.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

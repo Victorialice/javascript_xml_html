@@ -1,0 +1,191 @@
+1. http://localhost/mobilesite/  点 "钢琴"
+
+2. http://localhost/mobilesite/product_search.html?path=%2Fmobile%2Fproducts%2Fmusical-instruments%2Fpianos%2Fpianos_series.xml&name=%E9%92%A2%E7%90%B4
+<------------------  js ---------------------
+http://localhost/mobilesite/js/search.js
+http://localhost/mobilesite/js/common.js
+http://localhost/mobilesite/js/expand_view.js
+http://localhost/mobilesite/js/easing.js
+http://localhost/mobilesite/js/raphael.js
+http://localhost/mobilesite/js/content_scroller.js
+http://localhost/mobilesite/js/series_inspector.js
+http://localhost/mobilesite/js/product_search.js
+------------------  js --------------------->
+
+./js/product_search.js:7:prepare = function()
+prepare = function()
+{
+  currentURL = window.location.href;
+  var params = decodeParams(currentURL);
+  if(!validateParams(params,["path","name"]))
+  {
+    window.location.href = "index.html"
+      return;
+  }
+
+  name = params.name;
+
+  $("title").text(name + TITLE_SUFFIX);
+  $("#header_title").text(name);
+
+  loadData(URL_PREFIX + params["path"]);
+}
+
+<------------------  loadData ---------------------------
+loadData
+function (url)
+{
+    $.get(url,
+          null,
+          function(data,status)
+          {
+              if(status != "success")
+              {
+                  alert("Error occured when get data from " + url + "!");
+                  return;
+              }
+
+              var $trunkContainer = $(".products");
+              $trunkContainer.empty();
+              seriesInspector = [];
+
+              var $fTrunkContainer = $(".features");
+              $fTrunkContainer.empty();
+              featureInspector = [];
+
+              var $trunks = $("series > serie_trunk",$(data));
+              $trunks.each(function(i,trunk)
+              {
+                  var inspector = new SeriesInspector($(trunk),"series",i,true);
+                  if(inspector.$view != null)
+                  {
+                      $trunkContainer.append(inspector.$view); // <div class="productImg" style="display: block;">
+                      seriesInspector.push(inspector);
+                  }
+
+                  var fInspector = new FeatureInspector($(trunk),"features",i,true);
+                  if(fInspector.$view != null)
+                  {
+                      $fTrunkContainer.append(fInspector.$view);
+                      featureInspector.push(fInspector);
+                  }
+              });
+
+              hideLoading();
+              ContentScroller.initialize();
+              ExpandViewGroup.initialize();
+
+              if(name == "家庭音响")
+              {
+                  $(".feature_search").hide();
+              }
+          },
+          null);
+}
+------------------  loadData  -------------------------->
+
+<------------------ SeriesInspector ---------------------------
+SeriesInspector
+function ($trunk,expandId,index,isRoot)
+{
+    this.$trunk = $trunk;
+    this.isRoot = isRoot;
+    this.expandId = expandId;
+    this.index = index;
+
+    this.subInspectors = [];
+
+    if(this.isRoot)
+    {
+        this.$view = $("div.root_demo").clone();
+        this.$view.removeClass("root_demo");
+    }else{
+        this.$view = $(".trunk_demo").clone();
+        this.$view.removeClass("trunk_demo");
+    }
+    this.$view.show();
+
+    $("h4 > span",this.$view).text(this.$trunk.attr("name"));
+    $("h4",this.$view).attr("expand-group",this.expandId);
+
+    this.$btnSearch = $("a.search",this.$view);
+
+    this.$subLeavesWrap = $(".sub_series:eq(0)",this.$view);
+    this.$subLeavesBox = $("<ul></ul>");
+    this.$subLeavesBox.addClass("searchList");
+    this.$subLeavesWrap.append(this.$subLeavesBox);
+    this.$subTrunkBox = $(".sub_series:eq(1)",this.$view);
+
+    var $subTrunks = $("> serie_trunk",$trunk);
+    var $subLeaves = $("> serie_leaf",$trunk);
+
+    if($subTrunks.length == 0 && $subLeaves.length == 0)
+    {
+        this.$view = null;
+        return;
+    }
+
+    this.renderLeaves($subLeaves);
+    this.renderTrunks($subTrunks);
+
+    var self = this;
+    this.$btnSearch.click(function()
+    {
+        var $data = self.$selectedLeaf.data;
+
+        var pathes = [];
+        var seriesName = null;
+        if($data.attr("id") == "all")
+        {
+            seriesName = self.$trunk.attr("name");
+
+            $allLeaves = $("serie_leaf",self.$trunk);
+            $allLeaves.each(function(i,leaf)
+            {
+                pathes.push($(leaf).attr("path"));
+            });
+        }else{
+            seriesName = $data.attr("name");
+            pathes.push($data.attr("path"));
+        }
+
+        search(seriesName,pathes,null);
+
+        return false;
+    });
+}
+------------------  SeriesInspector  -------------------------->
+
+<------------------ FeatureInspector ---------------------------
+
+------------------  FeatureInspector -------------------------->
+
+./js/series_inspector.js:3:var SeriesInspector = function($trunk,expandId,index,isRoot)
+./js/content_scroller.js:36:ContentScroller.initialize = function()
+./js/expand_view.js:158:ExpandViewGroup.initialize = function()
+./js/series_inspector.js:3:var SeriesInspector = function($trunk,expandId,index,isRoot)
+./js/series_inspector.js:210:FeatureInspector = function($trunk,expandId,index,isRoot)
+
+
+
+<------------------  ExpandViewGroup ---------------------------
+ExpandViewGroup.initialize
+function ()
+{
+    var $groupHeaders = $("*[expand-group]");
+    $groupHeaders.each(function(index,header)
+    {
+        var $header = $(header);
+        var groupId = $header.attr("expand-group");
+        var group = ExpandViewGroup.getGroup(groupId); // expand-group="series"  expand-group="features"
+        if(group == null)
+            group = ExpandViewGroup.addGroup(groupId);
+
+        var viewId = groupId + "_" + group.count();
+        $header.attr("id",viewId);
+        var $content = $("#"+viewId+" + *");
+        var view = ExpandView.addView(viewId,$header,$content);
+        group.addView(view);
+    });
+}
+------------------  ExpandViewGroup --------------------------->

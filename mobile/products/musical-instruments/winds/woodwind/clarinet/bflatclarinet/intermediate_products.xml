@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCL-450]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/intermediate/YCL-450.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450-S.jpg</thumb_image>
+			<overview><![CDATA[<p>YCL-450采用了V系列的喇叭口和小筒的设计，它的音色非常专业，令人惊叹。新的喇叭口设计可以改善音准和发音，特别是在所有的低音区内，新的小筒设计增强了450型的反应和灵活性，使声音更集中。</p>]]></overview>
+			<description><![CDATA[<p>YCL-450采用了V系列的喇叭口和小筒的设计，它的音色非常专业，令人惊叹。新的喇叭口设计可以改善音准和发音，特别是在所有的低音区内，新的小筒设计增强了450型的反应和灵活性，使声音更集中。</p>]]></description>
+			<price>9700</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YCL-450N]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/intermediate/YCL-450N.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450N-S.jpg</thumb_image>
+			<overview><![CDATA[<p>YCL-450的特征也采用了V系列的喇叭口和小筒的设计，它的音色非常专业，令人惊叹。新的喇叭口设计可以改善音准和发音，特别是在所有的低音区内，新的小筒设计增强了450型的反应和灵活性，使声音更集中。</p>]]></overview>
+			<description><![CDATA[<p>YCL-450的特征也采用了V系列的喇叭口和小筒的设计，它的音色非常专业，令人惊叹。新的喇叭口设计可以改善音准和发音，特别是在所有的低音区内，新的小筒设计增强了450型的反应和灵活性，使声音更集中。</p>]]></description>
+			<price>9100</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450N-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450N-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-450N.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

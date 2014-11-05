@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[O-15A]]></title> 
+			<path>/products/musical-instruments/percussions/hammer/snaredrumhammer/O-15A.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/hammer/O-15A-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>90</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/hammer/O-15A-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/hammer/O-15A-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/hammer/O-15A.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

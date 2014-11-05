@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-8310Z]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/custom/YFH-8310Z.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8310z_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[CustomProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8310z_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8310z_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8310z_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-8315G]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/custom/YFH-8315G.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8315g_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[CustomProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8315g_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8315g_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/yfh-8315g_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-6310Z]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/custom/YFH-6310Z.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH_6310Z120.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>19000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH_6310Z120.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH_6310Z290.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH_6310Z.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

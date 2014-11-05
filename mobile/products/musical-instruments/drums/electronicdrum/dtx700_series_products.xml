@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX700K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx700_series/DTX700K.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx700k/dtx700k-s.jpg</thumb_image>
+			<overview><![CDATA[<p>全新的DTX-PAD打击板与新开发的音源DTX700的组合，<br />
+使你无论是在家练习打鼓还是参加现场演奏都能应对自如。</p>]]></overview>
+			<description><![CDATA[<p>全新的DTX-PAD打击板与新开发的音源DTX700的组合，<br />
+使你无论是在家练习打鼓还是参加现场演奏都能应对自如。</p>]]></description>
+			<price>22700</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx700k/dtx700k-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx700k/dtx700k-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx700k/dtx700k.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX750K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx700_series/DTX750K.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx750k/dtx750k-s.jpg</thumb_image>
+			<overview><![CDATA[<p>全新的DTX-PAD打击板与新开发的音源DTX700的组合，<br />
+使你无论是在家练习打鼓还是参加现场演奏都能应对自如。</p>]]></overview>
+			<description><![CDATA[<p>全新的DTX-PAD打击板与新开发的音源DTX700的组合，<br />
+使你无论是在家练习打鼓还是参加现场演奏都能应对自如。</p>]]></description>
+			<price>31300</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx750k/dtx750k-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx750k/dtx750k-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx700_series/dtx750k/dtx750k.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

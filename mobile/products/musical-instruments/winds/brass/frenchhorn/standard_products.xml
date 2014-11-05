@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YHR-322II]]></title> 
+			<path>/products/musical-instruments/winds/brass/frenchhorn/standard/YHR-322II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-322II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>20000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-322II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-322II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-322II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YHR-314II]]></title> 
+			<path>/products/musical-instruments/winds/brass/frenchhorn/standard/YHR-314II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-314II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>18500</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-314II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-314II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/frenchhorn/YHR-314II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

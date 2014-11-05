@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCL-681II]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/clarinet/trebleclarinet/professional/YCL-681II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-681II-S.jpg</thumb_image>
+			<overview><![CDATA[<p>YCL-681II有非常吸引人的柔和音色，是需要一流音质的专业乐手们的理想选择，而且价位适中。</p>]]></overview>
+			<description><![CDATA[]]></description>
+			<price>28300</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-681II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-681II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-681II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

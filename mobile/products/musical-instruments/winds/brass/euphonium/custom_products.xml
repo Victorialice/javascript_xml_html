@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YEP-842S]]></title> 
+			<path>/products/musical-instruments/winds/brass/euphonium/custom/YEP-842S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/euphonium/YEP-842S-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/euphonium/YEP-842S-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/euphonium/YEP-842S-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/euphonium/YEP-842S.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-631G]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/professional/YFH-631G.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631G-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>Bb调富鲁格号，配有扳机式第3调音管。</p>]]></description>
+			<price>18000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631G-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631G-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631G.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YFH-631GS]]></title> 
+			<path>/products/musical-instruments/winds/brass/flugelhorn/professional/YFH-631GS.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631GS-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>Bb调富鲁格号，配有扳机式第3调音管。</p>]]></description>
+			<price>19000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631GS-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631GS-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/flugelhorn/YFH-631GS.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

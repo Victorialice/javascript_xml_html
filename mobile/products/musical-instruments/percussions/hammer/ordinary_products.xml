@@ -1,0 +1,90 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MR-3040]]></title> 
+			<path>/products/musical-instruments/percussions/hammer/ordinary/MR-3040.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/hammer/MR-3040-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>450</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/hammer/MR-3040-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/hammer/MR-3040-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/hammer/MR-3040.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MR-920]]></title> 
+			<path>/products/musical-instruments/percussions/hammer/ordinary/MR-920.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/hammer/MR920m.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>260</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/hammer/MR920m.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/hammer/MR920l.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/hammer/MR920.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

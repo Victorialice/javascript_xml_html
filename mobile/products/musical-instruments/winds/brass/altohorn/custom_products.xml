@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YAH-803S]]></title> 
+			<path>/products/musical-instruments/winds/brass/altohorn/custom/YAH-803S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/altohorn/yah-803s_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/altohorn/yah-803s_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/altohorn/yah-803s_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/altohorn/yah-803s_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YAH-803]]></title> 
+			<path>/products/musical-instruments/winds/brass/altohorn/custom/YAH-803.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/altohorn/yah803_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[CustomProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/altohorn/yah803_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/altohorn/yah803_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/altohorn/yah803_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+</products>

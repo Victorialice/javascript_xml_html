@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='电子键盘'>
+<serie_trunk id='digitalkeyboards' name='电子琴' path='/products/musical-instruments/keyboards/digitalkeyboards/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='76Keys.html'  title='76键大键盘' />
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='ForChinaMarket.html'  title='专为中国市场研发' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+<property-value value='ForTeaching.html'  title='教学用琴' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='price' title='价格'>
+<property-value value='1000'  title='1000元以下' />
+<property-value value='1999'  title='1000-1999元' />
+<property-value value='2999'  title='2000-2999元' />
+<property-value value='3999'  title='3000-3999元' />
+<property-value value='4000'  title='4000元以上' />
+</property-key>
+<serie_leaf id='psr_series' name='PSR系列' path='/mobile/products/musical-instruments/keyboards/digitalkeyboards/psr_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='kb_series' name='KB系列' path='/mobile/products/musical-instruments/keyboards/digitalkeyboards/kb_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='dgx_series' name='DGX系列' path='/mobile/products/musical-instruments/keyboards/digitalkeyboards/dgx_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='np_series' name='NP系列' path='/mobile/products/musical-instruments/keyboards/digitalkeyboards/np_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='music_station' name='音乐工作站' path='/mobile/products/musical-instruments/keyboards/digitalkeyboards/music_station_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='digitalpianos' name='电钢琴' path='/products/musical-instruments/keyboards/digitalpianos/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='ForChinaMarket.html'  title='专为中国市场研发' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+<property-value value='DigitalKeyboardFunction.html'  title='具有电子琴功能' />
+<property-value value='InsteadOfPiano.html'  title='钢琴替代用琴' />
+</property-key>
+<property-key key='placeoforigin' title='原产地点'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='price' title='价格'>
+<property-value value='04000'  title='4000元以下' />
+<property-value value='06999'  title='4000-6999元' />
+<property-value value='09999'  title='7000-9999元' />
+<property-value value='10000'  title='10000元以上' />
+</property-key>
+<serie_leaf id='p_series' name='P系列' path='/mobile/products/musical-instruments/keyboards/digitalpianos/p_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='kbp_series' name='KBP系列' path='/mobile/products/musical-instruments/keyboards/digitalpianos/kbp_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='dgx_series' name='DGX系列' path='/mobile/products/musical-instruments/keyboards/digitalpianos/dgx_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='arius_series' name='ARIUS系列' path='/mobile/products/musical-instruments/keyboards/digitalpianos/arius_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='clavinova_series' name='CLAVINOVA系列' path='/mobile/products/musical-instruments/keyboards/digitalpianos/clavinova_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='modus_series' name='MODUS系列' path='/mobile/products/musical-instruments/keyboards/digitalpianos/modus_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='electronicorgans' name='双排键电子琴' path='/products/musical-instruments/keyboards/electronicorgans/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='FSVKeyBoard.html'  title='FSV键盘' />
+<property-value value='FSKeyBoard.html'  title='FS键盘' />
+<property-value value='BasicKeyBoard.html'  title='基本键盘' />
+<property-value value='ColorTouchScreen.html'  title='彩色触屏' />
+<property-value value='LevelTouchKey.html'  title='水平触键' />
+<property-value value='SecondExpressionPedal.html'  title='第二表情踏板' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业院校' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+<property-value value='Beginner.html'  title='初学者' />
+<property-value value='Artist.html'  title='艺术家' />
+</property-key>
+<property-key key='price' title='价格'>
+<property-value value='020000'  title='2万元以下' />
+<property-value value='100000'  title='2-10万元' />
+<property-value value='100001'  title='10万元以上' />
+</property-key>
+<serie_leaf id='stagea_mini_series' name='STAGEA MINI系列' path='/mobile/products/musical-instruments/keyboards/electronicorgans/stagea_mini_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='stagea_series' name='STAGEA系列' path='/mobile/products/musical-instruments/keyboards/electronicorgans/stagea_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='digitalpercussions' name='数码打击板' path='/mobile/products/musical-instruments/keyboards/digitalpercussions_products.xml'>
+<serie_leaf id='digitalpercussions' name='数码打击板' path='/mobile/products/musical-instruments/keyboards/digitalpercussions_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='keyboardsaccessories' name='配件' path='/products/musical-instruments/keyboards/keyboardsaccessories/' >
+<serie_leaf id='usb-midi' name='USB MIDI系列' path='/mobile/products/musical-instruments/keyboards/keyboardsaccessories/usb-midi_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>

@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[HS10W]]></title> 
+			<path>/products/music-production/monitorspeakers/hs_series/HS10W.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>Yes</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[HS80M]]></title> 
+			<path>/products/music-production/monitorspeakers/hs_series/HS80M.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>Yes</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[HS50M]]></title> 
+			<path>/products/music-production/monitorspeakers/hs_series/HS50M.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>Yes</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/monitorspeakers/HS.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

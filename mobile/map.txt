@@ -1,0 +1,24 @@
+<<<----------------------
+http://localhost/mobilesite/product_search_result.html?name=%E7%94%B5%E5%AD%90%E9%94%AE%E7%9B%98&series_name=PSR%E7%B3%BB%E5%88%97&back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fkeyboards%252Fkeyboards_series.xml%26name%3D%25E7%2594%25B5%25E5%25AD%2590%25E9%2594%25AE%25E7%259B%2598&pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fkeyboards%2Fdigitalkeyboards%2Fpsr_series_products.xml%22%5D&conditions=%7B%22order%22%3A%22asc%22%7D
+http://www.yamaha.com.cn/mobile/products/musical-instruments/keyboards/digitalkeyboards/psr_series_products.xml
+---------------------->>>
+
+<<<----------------------  **** simple but useful ****
+http://localhost/mobilesite/product_search_result.html?name=%E7%94%B5%E5%AD%90%E9%94%AE%E7%9B%98&series_name=%E6%95%B0%E7%A0%81%E6%89%93%E5%87%BB%E6%9D%BF&back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fkeyboards%252Fkeyboards_series.xml%26name%3D%25E7%2594%25B5%25E5%25AD%2590%25E9%2594%25AE%25E7%259B%2598&pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fkeyboards%2Fdigitalpercussions_products.xml%22%5D&conditions=%7B%22order%22%3A%22asc%22%7D
+  name=%E7%94%B5%E5%AD%90%E9%94%AE%E7%9B%98&
+  series_name=%E6%95%B0%E7%A0%81%E6%89%93%E5%87%BB%E6%9D%BF&
+  back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fkeyboards%252Fkeyboards_series.xml%26name%3D%25E7%2594%25B5%25E5%25AD%2590%25E9%2594%25AE%25E7%259B%2598&
+  pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fkeyboards%2Fdigitalpercussions_products.xml%22%5D&
+  conditions=%7B%22order%22%3A%22asc%22%7D
+
+http://www.yamaha.com.cn/mobile/products/musical-instruments/keyboards/digitalpercussions_products.xml
+
+
+http://localhost/mobilesite/product_search_result.html?name=%E7%94%B5%E5%AD%90%E9%94%AE%E7%9B%98&series_name=%E6%95%B0%E7%A0%81%E6%89%93%E5%87%BB%E6%9D%BF&back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fkeyboards%252Fkeyboards_series.xml%26name%3D%25E7%2594%25B5%25E5%25AD%2590%25E9%2594%25AE%25E7%259B%2598&pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fkeyboards%2Fdigitalpercussions_products.xml%22%5D&conditions=%7B%22order%22%3A%22asc%22%7D
+  name=%E7%94%B5%E5%AD%90%E9%94%AE%E7%9B%98&
+  series_name=%E6%95%B0%E7%A0%81%E6%89%93%E5%87%BB%E6%9D%BF&
+  back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fkeyboards%252Fkeyboards_series.xml%26name%3D%25E7%2594%25B5%25E5%25AD%2590%25E9%2594%25AE%25E7%259B%2598&
+  pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fkeyboards%2Fdigitalpercussions_products.xml%22%5D&
+  conditions=%7B%22order%22%3A%22asc%22%7D
+
+---------------------->>>

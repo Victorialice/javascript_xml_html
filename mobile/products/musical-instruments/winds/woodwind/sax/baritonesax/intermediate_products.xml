@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YBS-32E]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/baritonesax/intermediate/YBS-32.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/tenorandbaritone/YBS-32-S.jpg</thumb_image>
+			<overview><![CDATA[<p>雅马哈32系列萨克斯以适中的价格提供专业的品质。许多设计是基于更昂贵的专业型和Custom(定制型)萨克斯，并享有许多同样的功能。32萨克斯具有非常出色的回响，音色、音准以及稳定的演奏性能。</p>]]></overview>
+			<description><![CDATA[]]></description>
+			<price>52100</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/tenorandbaritone/YBS-32-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/tenorandbaritone/YBS-32-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/tenorandbaritone/YBS-32.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

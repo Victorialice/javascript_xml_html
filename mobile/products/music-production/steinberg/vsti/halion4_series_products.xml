@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[HALion 4]]></title> 
+			<path>/products/music-production/steinberg/vsti/halion4_series/HALion-4.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halion/halion4/HALion-4-s.jpg</thumb_image>
+			<overview><![CDATA[<p>HALion 4是一款VST采样器与声音创造系统，<br />
+通过将下一代采样环境下的强大工具与顶级合成器引擎紧密融合，<br />
+开辟了一块专业声音升级的新大陆。</p>]]></overview>
+			<description><![CDATA[<p>HALion 4是一款VST采样器与声音创造系统，<br />
+通过将下一代采样环境下的强大工具与顶级合成器引擎紧密融合，<br />
+开辟了一块专业声音升级的新大陆。</p>]]></description>
+			<price>3690</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[Sampler.html<!#>Software.html<!#>IntegratedAudio.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halion/halion4/HALion-4-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halion/halion4/HALion-4-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halion/halion4/HALion-4.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

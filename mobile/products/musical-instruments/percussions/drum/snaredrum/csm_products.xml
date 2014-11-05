@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CSM-1465A]]></title> 
+			<path>/products/musical-instruments/percussions/drum/snaredrum/csm/CSM-1465A.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/CSC-1455-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>5800</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/CSC-1455-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/CSC-1455-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/CSC-1455.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

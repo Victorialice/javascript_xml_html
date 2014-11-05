@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[QD-8130]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gz/qd800/qd8130.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qd8130/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>14400</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qd8130/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qd8130/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qd8130/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[QT-8130]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gz/qd800/qt8130.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qt8130/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>16600</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qt8130/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qt8130/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/qt8130/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[ST-8130]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gz/qd800/st8130.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/st8130/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>18000</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/st8130/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/st8130/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/qd800/st8130/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

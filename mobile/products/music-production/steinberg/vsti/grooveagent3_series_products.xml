@@ -1,0 +1,60 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[Groove Agent 3]]></title> 
+			<path>/products/music-production/steinberg/vsti/grooveagent3_series/Groove-Agent-3.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/grooveagent3/Groove-Agent-3--s.jpg</thumb_image>
+			<overview><![CDATA[<p>Groove Agent 3是Steinberg成功出品的第三代VST虚拟鼓音源，<br />
+内含大量鼓与打击乐的音色，多种演奏技术，众多预制鼓，<br />
+节拍，节奏模式供您选择</p>]]></overview>
+			<description><![CDATA[<p>Groove Agent 3 是Steinberg成功出品的Groove Agent虚拟鼓手VST乐器的第三代版本，它较之前的版本做了很大的提升。Groove Agent 3 在之前版本的Classic Agent引擎的基础上又新增了两个部分： Special Agent 和 Percussion Agent。 Special Agent 给您带来真实的录音室鼓手以及全新的原声套鼓， 而Percussion Agent则更专注于激情焕发的打击乐groove和节拍。在新的Dual模式下，您可以从这三种agent中选择任意两个组合使用，来创造虚拟鼓和打击乐的声音工程&mdash;&mdash;一切都只需要在这一个VST乐器中即可实现。</p>]]></description>
+			<price>2790</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[DrumSoundSource.html<!#>Software.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/grooveagent3/Groove-Agent-3--s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/grooveagent3/Groove-Agent-3--m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/grooveagent3/Groove-Agent-3-.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

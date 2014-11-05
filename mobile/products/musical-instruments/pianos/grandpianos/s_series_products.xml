@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[S6B]]></title> 
+			<path>/products/musical-instruments/pianos/grandpianos/s_series/S6B.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s6bb_a_0001_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>顶级钢琴的典范，S6适合专业练习和小场合演奏会。</p>]]></overview>
+			<description><![CDATA[<p>顶级钢琴的典范，S6适合专业练习和小场合演奏会。</p>]]></description>
+			<price>520000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+	<recommendedsites><![CDATA[Concert.html]]></recommendedsites>
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s6bb_a_0001_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s6bb_a_0001_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s6bb_a_0001_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[S4B]]></title> 
+			<path>/products/musical-instruments/pianos/grandpianos/s_series/S4B.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s4bb_a_0001_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>S4具有大型三角钢琴的音乐效果，富有音乐家所要求的音色美学及光面乌黑色镜面处理</p>]]></overview>
+			<description><![CDATA[<p>S4具有大型三角钢琴的音乐效果，富有音乐家所要求的音色美学及光面乌黑色镜面处理</p>]]></description>
+			<price>420000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+	<recommendedsites><![CDATA[Concert.html]]></recommendedsites>
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s4bb_a_0001_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s4bb_a_0001_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/grandpianos/s-series/s4bb_a_0001_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

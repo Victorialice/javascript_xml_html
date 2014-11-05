@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-840C]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb800b/CB-840B.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb840c_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>41600</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb840c_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb840c_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb840c_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

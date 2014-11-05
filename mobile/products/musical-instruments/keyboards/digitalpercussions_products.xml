@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[DD-65]]></title> 
+			<path>/products/musical-instruments/keyboards/digitalpercussions/DD-65.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_o_0001_f-s.gif</thumb_image>
+			<overview><![CDATA[<p>紧凑的设计，专为需要小型原声鼓替代品的您而设计。</p>]]></overview>
+			<description><![CDATA[<p>紧凑的设计，专为需要小型原声鼓替代品的您而设计。</p>]]></description>
+			<price>2750</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_o_0001_f-s.gif</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_o_0001_f-m.gif</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_o_0001_f.gif</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_a_0001_f-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_a_0001_f-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/digitalpercussion/dd-65_a_0001_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

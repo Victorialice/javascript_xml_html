@@ -1,0 +1,489 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX430K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx400_series/DTX430K.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/dtx430k/dtx430k_thumbnail.jpg</thumb_image>
+			<overview><![CDATA[<p>DTX430K的配备非常适合初学者。除了Yamaha电子鼓大鼓打板提供了真鼓的大鼓触感之外，值得一提的是，其所搭配的HH65脚踏钹控制器(hi-hat Controller)可产生逼真半开(half-open )声音效果，相当物超所值。</p>]]></overview>
+			<description><![CDATA[<p>DTX430K的配备非常适合初学者。除了Yamaha电子鼓大鼓打板提供了真鼓的大鼓触感之外，值得一提的是，其所搭配的HH65脚踏钹控制器(hi-hat Controller)可产生逼真半开(half-open )声音效果，相当物超所值。</p>]]></description>
+			<price>4499</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (右)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (左)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (背)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>Cymbal 及 Hi-Hat 打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>Cymbal 及 Hi-Hat 打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>HH65 (半开效果) Hi-Hat 控制器</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>KP65大鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>KP65大鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>FP6110A 大鼓踏板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>与PCY90AT 铜钹连接(独立贩售)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>與DTX-MULTI 12 手打板連接(獨立販售)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX400K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx400_series/DTX400K.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/dtx400k/dtx400k_thumbnail.jpg</thumb_image>
+			<overview><![CDATA[<p>DTX400电子鼓系列拥有10组专业鼓组可选择，而像是鼓边敲击(Rimshot)及真实动态反应(dynamic response)等细部的声音特色，全来自于Yamaha传统鼓组。</p>]]></overview>
+			<description><![CDATA[<p>DTX400电子鼓系列拥有10组专业鼓组可选择，而像是鼓边敲击(Rimshot)及真实动态反应(dynamic response)等细部的声音特色，全来自于Yamaha传统鼓组。</p>]]></description>
+			<price>3999</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (右)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (左)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (背)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>Cymbal 及 Hi-Hat 打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>Cymbal 及 Hi-Hat 打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>HH65 (半开效果) Hi-Hat 控制器</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>KP65大鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>KP65大鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>FP6110A 大鼓踏板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>与PCY90AT 铜钹连接(独立贩售)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>與DTX-MULTI 12 手打板連接(獨立販售)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX450K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx400_series/DTX450K.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/dtx450k/dtx450k_thumbnail.jpg</thumb_image>
+			<overview><![CDATA[<p>DTX400电子鼓系列拥有10组专业鼓组可选择，而像是鼓边敲击(Rimshot)及真实动态反应(dynamic response)等细部的声音特色，全来自于Yamaha传统鼓组。</p>]]></overview>
+			<description><![CDATA[<p>DTX400电子鼓系列拥有10组专业鼓组可选择，而像是鼓边敲击(Rimshot)及真实动态反应(dynamic response)等细部的声音特色，全来自于Yamaha传统鼓组。</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_1_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_2_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_3_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (右)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_4_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (左)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_5_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>DTX400U音源器 (背)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_6_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_7_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_8_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>小鼓 / 中音鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_9_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>Cymbal 及 Hi-Hat 打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_10_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>Cymbal 及 Hi-Hat 打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_11_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>HH65 (半开效果) Hi-Hat 控制器</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_12_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>KP65大鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_13_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>KP65大鼓打板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_14_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>FP6110A 大鼓踏板</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_15_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_16_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>与PCY90AT 铜钹连接(独立贩售)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_17_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description>與DTX-MULTI 12 手打板連接(獨立販售)</color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx400_series/detail/detail_18_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

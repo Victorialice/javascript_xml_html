@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[PM9]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/mute/PM9.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/PM9-S.gif</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>690</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/PM9-S.gif</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/PM9-M.gif</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/PM9.gif</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[PM1]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/mute/PM1.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/pm1_for_tuba_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/pm1_for_tuba_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/pm1_for_tuba_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/pm1_for_tuba_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[PM6]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/mute/PM6.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/pm6_for_flugel_horn_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/pm6_for_flugel_horn_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/pm6_for_flugel_horn_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/pm6_for_flugel_horn_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[PM7]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/mute/PM7.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/PM7-S.gif</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>690</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/PM7-S.gif</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/PM7-M.gif</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/PM7.gif</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

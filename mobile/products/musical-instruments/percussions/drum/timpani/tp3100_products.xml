@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[TP-3123]]></title> 
+			<path>/products/musical-instruments/percussions/drum/timpani/tp3100/TP-3123.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>26400</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[TP-3126]]></title> 
+			<path>/products/musical-instruments/percussions/drum/timpani/tp3100/TP-3126.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>27500</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[TP-3129]]></title> 
+			<path>/products/musical-instruments/percussions/drum/timpani/tp3100/TP-3129.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>29200</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[TP-3132]]></title> 
+			<path>/products/musical-instruments/percussions/drum/timpani/tp3100/TP-3132.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>31400</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/timpani/tp3123_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

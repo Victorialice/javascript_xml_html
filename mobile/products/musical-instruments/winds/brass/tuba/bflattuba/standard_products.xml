@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YBB-201S]]></title> 
+			<path>/products/musical-instruments/winds/brass/tuba/bflattuba/standard/YBB-201S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201S-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>39000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201S-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201S-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201S.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YBB-201]]></title> 
+			<path>/products/musical-instruments/winds/brass/tuba/bflattuba/standard/YBB-201.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>38000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/tuba/YBB-201.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YBB-105]]></title> 
+			<path>/products/musical-instruments/winds/brass/tuba/bflattuba/standard/YBB-105.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>28500</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YBB-105S]]></title> 
+			<path>/products/musical-instruments/winds/brass/tuba/bflattuba/standard/YBB-105S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105S-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>29500</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105S-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105S-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/tuba/YBB-105S.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCL-221II]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/clarinet/bassclarinet/standard/YCL-221II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-221II-S.jpg</thumb_image>
+			<overview><![CDATA[<p>这款是最新的设计： 采用ABS树脂材料制作，音质和专业型的木质型号非常接近</p>]]></overview>
+			<description><![CDATA[]]></description>
+			<price>19500</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-221II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-221II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-221II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

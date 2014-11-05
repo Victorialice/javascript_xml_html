@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX950K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx900_series/DTX950K.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx950k/dtx950k-ss.jpg</thumb_image>
+			<overview><![CDATA[<p>被誉为节奏王者的DTX-PAD，高品质音源DTX900，真实镲片和耐久底鼓打击板，<br />
+这一切构成了雅马哈革命性的顶级套鼓&mdash;&mdash;旗舰电子套鼓DTX900系列。</p>]]></overview>
+			<description><![CDATA[<p>被誉为节奏王者的DTX-PAD，高品质音源DTX900，真实镲片和耐久底鼓打击板，<br />
+这一切构成了雅马哈革命性的顶级套鼓&mdash;&mdash;旗舰电子套鼓DTX900系列。</p>]]></description>
+			<price>64890</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx950k/dtx950k-ss.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx950k/dtx950k-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx950k/dtx950k.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[DTX900K]]></title> 
+			<path>/products/musical-instruments/drums/electronicdrum/dtx900_series/DTX900K.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx900k/dtx900k-s.jpg</thumb_image>
+			<overview><![CDATA[<p>被誉为节奏王者的DTX-PAD，高品质音源DTX900，<br />
+真实镲片和耐久底鼓打击板，<br />
+这一切构成了雅马哈革命性的顶级套鼓&mdash;&mdash;旗舰电子套鼓DTX900系列。</p>]]></overview>
+			<description><![CDATA[<p>被誉为节奏王者的DTX-PAD，高品质音源DTX900，<br />
+真实镲片和耐久底鼓打击板，<br />
+这一切构成了雅马哈革命性的顶级套鼓&mdash;&mdash;旗舰电子套鼓DTX900系列。</p>]]></description>
+			<price>52580</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx900k/dtx900k-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx900k/dtx900k-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/drums/electronicDrum/dtx900/dtx900k/dtx900k.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[Nuendo SyncStation]]></title> 
+			<path>/products/music-production/steinberg/synchronizer/nuendosyncstation/Nuendo-SyncStation.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/synchronizer/nuendosyncstation/SyncStation_back_RGB-S.jpg</thumb_image>
+			<overview><![CDATA[<p>Nuendo SyncStaion是广播配音，音乐以及或其制作的理想工具，它为外部音频/视频系统设备间提供完美的同步互联。</p>]]></overview>
+			<description><![CDATA[<p>Nuendo SyncStaion是广播配音，音乐以及或其制作的理想工具，它为外部音频/视频系统设备间提供完美的同步互联。可靠的同步功能，精确的相位同步，以及简单直接的硬件操控，这些功能对AV工作室与制作设备都是至关重要的。Nuendo SyncStation由Colin Broad设计，可安装于19寸机架，它能让Nuedno锁定三电平同步，发送最高192kHz的word clock信号与外部设备通过Sony 9-pin，MMC或timecode进行互相之间的通信。Nuendo SyncStation上的每一个功能都能在Nuendo中进行完美匹配控制，并且还提供了许多特别的功能，如pull up/down，clock操控，GPIO连接以及Varispeed。在设计制造时，它即被定为为提供，极速时间同步，超低同步以及可靠的操作的一款同步设备，同时亦能与Nuendo完美结合，适于任何类型的工作室使用。</p>]]></description>
+			<price>30870</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Hardware.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/synchronizer/nuendosyncstation/SyncStation_back_RGB-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/synchronizer/nuendosyncstation/SyncStation_back_RGB-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/synchronizer/nuendosyncstation/SyncStation_back_RGB.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

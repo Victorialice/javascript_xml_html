@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCL-650WCC]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/professional/YCL-650WCC.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-650-S.jpg</thumb_image>
+			<overview><![CDATA[<p>650型，是那些对单簧管的性能要求很严格，但又需要考虑预算开支的人来说绝佳的选择。这个型号的喇叭，小筒，音孔和其它特征都和SEV型的技术规格十分接近，所以它音色柔和，圆润而又深沉。这款单簧管采用上选非洲黑檀木木料，并且以大量的手工工序制作为自豪，650型的特征是手工调整音孔，音准准确，音色均衡。它还有一个特征就是它的按键手感都由大师级的工匠调整得十分完美。</p>]]></overview>
+			<description><![CDATA[<p>650型，是那些对单簧管的性能要求很严格，但又需要考虑预算开支的人来说绝佳的选择。这个型号的喇叭，小筒，音孔和其它特征都和SEV型的技术规格十分接近，所以它音色柔和，圆润而又深沉。这款单簧管采用上选非洲黑檀木木料，并且以大量的手工工序制作为自豪，650型的特征是手工调整音孔，音准准确，音色均衡。它还有一个特征就是它的按键手感都由大师级的工匠调整得十分完美。</p>]]></description>
+			<price>12400</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-650-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-650-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/clarinet/YCL-650.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

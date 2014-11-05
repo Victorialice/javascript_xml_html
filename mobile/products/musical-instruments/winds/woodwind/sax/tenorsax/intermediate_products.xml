@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YTS-380]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/tenorsax/intermediate/YTS-380.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS380-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>13880</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[IntermediateProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS380-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS380-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS380-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YTS-480]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/tenorsax/intermediate/YTS-480.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS480-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>16880</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[IntermediateProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS480-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS480-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/TenorSax188/YTS480-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+</products>

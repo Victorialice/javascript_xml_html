@@ -1,0 +1,58 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MOTIF RACK XS]]></title> 
+			<path>/products/music-production/soundsource/MOTIF-RACK-XS.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-production/musicalproduction/soundsource/motifrackxs/MOTIF_RACK_XS_Front-S.jpg</thumb_image>
+			<overview><![CDATA[<div>随时激发你的灵感！MOTIF-RACK XS是一款硬件音源，内含大量令人不可思议的好音色，令人振奋的节奏以及深入细节的控制，帮助您把创意达到新的高度&mdash;&mdash;无论在任何时间，或是任何地点。</div>]]></overview>
+			<description><![CDATA[<p>大量真实生动的音色-一共有1152个音色以及65套鼓, 强大的琶音功能-能同时以四种类型回放，共有6633中选择 5个事实控制钮，让您在演出和录音时实时调节音色 .通过电脑上的MOTIF-RACK XS编辑器，方便，直观地进行设置编辑 .与Cubase系列音频/MIDI录音软件完全整合 （注：附赠Cubase AI软件）&nbsp;<br />
+&nbsp;<br />
+&nbsp;</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-production/musicalproduction/soundsource/motifrackxs/MOTIF_RACK_XS_Front-S.jpg</small_image>
+					<middle_image>/images/products/musical-production/musicalproduction/soundsource/motifrackxs/MOTIF_RACK_XS_Front-M.jpg</middle_image>
+					<large_image>/images/products/musical-production/musicalproduction/soundsource/motifrackxs/MOTIF_RACK_XS_Front.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

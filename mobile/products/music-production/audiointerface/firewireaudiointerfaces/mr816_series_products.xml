@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MR 816csx]]></title> 
+			<path>/products/music-production/audiointerface/firewireaudiointerfaces/mr816_series/MR-816csx.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816csx/MR816-CSX-Front-1-RGB-JPG-1-S.jpg</thumb_image>
+			<overview><![CDATA[<p>一流的高度整合DSP工作室硬件声卡</p>]]></overview>
+			<description><![CDATA[<p>MR816 CSX和MR816 X是一款使用了下一代综合技术制造的功能齐全的内置DSP效果器的火线音频接口。由Steinberg和Yamaha共同开发，零延迟的录音和监听环境是这两款MR接口的为设计核心，并与Cubase完美整合，带给您灵活简易的操作体验。</p>]]></description>
+			<price>11680</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[8Input.html<!#>built-inDSPEffect.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816csx/MR816-CSX-Front-1-RGB-JPG-1-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816csx/MR816-CSX-Front-1-RGB-JPG-1-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816csx/MR816-CSX-Front-1-RGB-JPG-1.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MR 816x]]></title> 
+			<path>/products/music-production/audiointerface/firewireaudiointerfaces/mr816_series/MR-816x.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816x/MR816-X-Front-CMYK-TIFF-S.jpg</thumb_image>
+			<overview><![CDATA[<p>高度整合DSP工作室硬件声卡</p>]]></overview>
+			<description><![CDATA[<p>MR816 CSX和MR816 X是一款使用了下一代综合技术制造的功能齐全的内置DSP效果器的火线音频接口。由Steinberg和Yamaha共同开发，零延迟的录音和监听环境是这两款MR接口的为设计核心，并与Cubase完美整合，带给您灵活简易的操作体验。</p>]]></description>
+			<price>10920</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[8Input.html<!#>built-inDSPEffect.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816x/MR816-X-Front-CMYK-TIFF-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816x/MR816-X-Front-CMYK-TIFF-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/mr816_series/mr816x/MR816-X-Front-CMYK-TIFF.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

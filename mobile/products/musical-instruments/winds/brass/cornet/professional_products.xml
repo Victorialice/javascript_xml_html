@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-6330II]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/professional/YCR-6330II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>适中重量Bb调短号。</p>]]></description>
+			<price>13400</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330SII.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-6330SII]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/professional/YCR-6330SII.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330SII-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>适中重量Bb调短号。</p>]]></description>
+			<price>13900</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330SII-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330SII-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-6330SII.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

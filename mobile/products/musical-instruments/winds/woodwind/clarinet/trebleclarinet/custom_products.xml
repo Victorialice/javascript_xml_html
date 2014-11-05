@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCL-881]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/clarinet/trebleclarinet/custom/YCL-881.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-881-S.jpg</thumb_image>
+			<overview><![CDATA[<p>这是我们最好的高音单簧管，经过和一些世界上最杰出的单簧管演奏家的合作设计制作。它的音色深沉，圆润，适合重奏与独奏。</p>]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-881-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-881-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/clarinet/others/YCL-881.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

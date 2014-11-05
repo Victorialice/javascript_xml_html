@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[WaveLab Elements 7]]></title> 
+			<path>/products/music-production/steinberg/wavelab/wavelab7_series/WaveLab-Elements-7.html</path>
+			<if_new>No</if_new> 
+			<thumb_image></thumb_image>
+			<overview><![CDATA[<p>播客发布和音乐人的理想之选</p>]]></overview>
+			<description><![CDATA[<p>播客发布和音乐人的理想之选</p>]]></description>
+			<price>1070</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[WaveLab 7]]></title> 
+			<path>/products/music-production/steinberg/wavelab/wavelab7_series/WaveLab-7.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/wavelab/wavelab7_series/WaveLab-7-s.jpg</thumb_image>
+			<overview><![CDATA[<p>WaveLab诞生于1995年，是市面上最早出现的母带处理软件之一。<br />
+这么多年来，WaveLab已经在软件母带处理上建立了好几座里程碑，<br />
+然而它依然坚持它的核心原则：为母带处理，音频编辑和音频修复提供最好的工作流程体验。<br />
+Steinberg全功能音频编辑与母带处理套装</p>]]></overview>
+			<description><![CDATA[<p>WaveLab诞生于1995年，是市面上最早出现的母带处理软件之一。<br />
+这么多年来，WaveLab已经在软件母带处理上建立了好几座里程碑，<br />
+然而它依然坚持它的核心原则：为母带处理，音频编辑和音频修复提供最好的工作流程体验。<br />
+Steinberg全功能音频编辑与母带处理套装</p>]]></description>
+			<price>5400</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/wavelab/wavelab7_series/WaveLab-7-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/wavelab/wavelab7_series/WaveLab-7-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/wavelab/wavelab7_series/WaveLab-7.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

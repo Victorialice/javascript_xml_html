@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MX49]]></title> 
+			<path>/products/music-production/synthesizer/mx_series/MX49.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx49/MX49_front_s.jpg</thumb_image>
+			<overview><![CDATA[<p>MX49合成器，49键，拥有Motif XS声音音质，可通过USB线进行音频、Midi数据传输，并提供高级DAW / VST控制器功能。</p>]]></overview>
+			<description><![CDATA[<p>MX49合成器，49键，拥有Motif XS声音音质，可通过USB线进行音频、Midi数据传输，并提供高级DAW / VST控制器功能。</p>]]></description>
+			<price>4600</price> 
+			<recommend>Yes</recommend>
+			
+	<performance><![CDATA[SemiWeightKeyboard.html<!#>InitialTouchKeyboard.html]]></performance>
+
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx49/MX49_front_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx49/MX49_front_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx49/MX49_front_1.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MX61]]></title> 
+			<path>/products/music-production/synthesizer/mx_series/MX61.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx61/MX61_front_s.jpg</thumb_image>
+			<overview><![CDATA[<p>MX61合成器，61键，拥有Motif XS声音音质，可通过USB线进行音频、Midi数据传输，并提供高级DAW / VST控制器功能。</p>]]></overview>
+			<description><![CDATA[<p>MX61合成器，61键，拥有Motif XS声音音质，可通过USB线进行音频、Midi数据传输，并提供高级DAW / VST控制器功能。</p>]]></description>
+			<price>5300</price> 
+			<recommend>Yes</recommend>
+			
+	<performance><![CDATA[61Keys.html<!#>SemiWeightKeyboard.html<!#>InitialTouchKeyboard.html]]></performance>
+
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx61/MX61_front_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx61/MX61_front_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/synthesizer/mx_seris/mx61/MX61_front_1.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

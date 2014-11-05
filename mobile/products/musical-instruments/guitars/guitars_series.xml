@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='吉他'>
+<serie_trunk id='acousticguitar' name='原声吉他' path='/products/musical-instruments/guitars/acousticguitar/' >
+<property-key key='price' title='价格'>
+<property-value value='00999'  title='700-1000元' />
+<property-value value='01999'  title='1000-2000元' />
+<property-value value='02999'  title='2000-3000元' />
+<property-value value='04999'  title='3000-5000元' />
+<property-value value='10000'  title='5000-10000元' />
+<property-value value='10001'  title='10000元以上' />
+</property-key>
+<serie_trunk id='classicalguitar' name='古典吉他' path='/products/musical-instruments/guitars/acousticguitar/classicalguitar/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='The12String.html'  title='12弦' />
+<property-value value='TheSingle.html'  title='全单' />
+<property-value value='Plywood.html'  title='合板' />
+<property-value value='LeftHand.html'  title='左手' />
+<property-value value='ElectricBox.html'  title='电箱' />
+<property-value value='CuttingAngle.html'  title='缺角' />
+<property-value value='Silent.html'  title='静音' />
+<property-value value='PlaneSingle.html'  title='面单' />
+</property-key>
+<serie_leaf id='cg-series' name='CG系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/classicalguitar/cg-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='c-series' name='C系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='gc-series' name='GC系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/classicalguitar/gc-series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='folkguitar' name='民谣吉他' path='/products/musical-instruments/guitars/acousticguitar/folkguitar/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='The12String.html'  title='12弦' />
+<property-value value='TheSingle.html'  title='全单' />
+<property-value value='Plywood.html'  title='合板' />
+<property-value value='LeftHand.html'  title='左手' />
+<property-value value='ElectricBox.html'  title='电箱' />
+<property-value value='CuttingAngle.html'  title='缺角' />
+<property-value value='Limited.html'  title='限定版' />
+<property-value value='Silent.html'  title='静音' />
+<property-value value='PlaneSingle.html'  title='面单' />
+</property-key>
+<serie_leaf id='apx-series' name='APX-Series' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/apx-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='a-series' name='A系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/a-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='cpx-series' name='CPX系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/cpx-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='fgfgxfs-series' name='FG/FGX/FS系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/fgfgxfs-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='f-series' name='F系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/f-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='jrgl-series' name='JR/GL系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/jrgl-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='l-series' name='L系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/folkguitar/l-series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='silentnylonstringguitar' name='静音/尼龙弦吉他' path='/products/musical-instruments/guitars/acousticguitar/silentnylonstringguitar/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='The12String.html'  title='12弦' />
+<property-value value='TheSingle.html'  title='全单' />
+<property-value value='Plywood.html'  title='合板' />
+<property-value value='LeftHand.html'  title='左手' />
+<property-value value='ElectricBox.html'  title='电箱' />
+<property-value value='CuttingAngle.html'  title='缺角' />
+<property-value value='Silent.html'  title='静音' />
+<property-value value='PlaneSingle.html'  title='面单' />
+</property-key>
+<serie_leaf id='nx_series' name='NX系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/silentnylonstringguitar/nx_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='slg_series' name='SLG系列' path='/mobile/products/musical-instruments/guitars/acousticguitar/silentnylonstringguitar/slg_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='electricguitar' name='电吉他' path='/products/musical-instruments/guitars/electricguitar/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='LeftHand.html'  title='左手' />
+<property-value value='LimitedEdition.html'  title='限定版' />
+</property-key>
+<property-key key='price' title='价格'>
+<property-value value='00999'  title='700-1000元' />
+<property-value value='01999'  title='1000-2000元' />
+<property-value value='02999'  title='2000-3000元' />
+<property-value value='04999'  title='3000-5000元' />
+<property-value value='10000'  title='5000-10000元' />
+<property-value value='10001'  title='10000元以上' />
+</property-key>
+<serie_leaf id='pacifica-series' name='PACIFICA系列' path='/mobile/products/musical-instruments/guitars/electricguitar/pacifica-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='sa-aex-series' name='SA/AEX系列' path='/mobile/products/musical-instruments/guitars/electricguitar/sa-aex-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='sg-series' name='SG系列' path='/mobile/products/musical-instruments/guitars/electricguitar/sg-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='rgx-series' name='RGX系列' path='/mobile/products/musical-instruments/guitars/electricguitar/rgx-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='eg-series' name='EG系列' path='/mobile/products/musical-instruments/guitars/electricguitar/eg-series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='electricgbass' name='电贝司' path='/products/musical-instruments/guitars/electricgbass/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='LeftHand.html'  title='左手' />
+<property-value value='LimitedEdition.html'  title='限定版' />
+</property-key>
+<property-key key='price' title='价格'>
+<property-value value='00999'  title='700-1000元' />
+<property-value value='01999'  title='1000-2000元' />
+<property-value value='02999'  title='2000-3000元' />
+<property-value value='04999'  title='3000-5000元' />
+<property-value value='10000'  title='5000-10000元' />
+<property-value value='10001'  title='10000元以上' />
+</property-key>
+<serie_leaf id='attitude-series' name='Attitude系列' path='/mobile/products/musical-instruments/guitars/electricgbass/attitude-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='bb-series' name='BB系列' path='/mobile/products/musical-instruments/guitars/electricgbass/bb-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='rbx-series' name='RBX系列' path='/mobile/products/musical-instruments/guitars/electricgbass/rbx-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='trbx-series' name='TRBX系列' path='/mobile/products/musical-instruments/guitars/electricgbass/trbx-series_products.xml'>
+</serie_leaf>
+<serie_leaf id='trb-series' name='TRB系列' path='/mobile/products/musical-instruments/guitars/electricgbass/trb-series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='guitarspeaker' name='吉他音箱' path='/mobile/products/musical-instruments/guitars/guitarspeaker_products.xml'>
+<serie_leaf id='guitarspeaker' name='吉他音箱' path='/mobile/products/musical-instruments/guitars/guitarspeaker_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>

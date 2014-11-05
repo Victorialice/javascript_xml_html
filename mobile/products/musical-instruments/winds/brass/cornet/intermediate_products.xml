@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-4330GII]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/intermediate/YCR-4330GII.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GII_f_0001/s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>9400</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[IntermediateProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GII_f_0001/s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GII_f_0001/m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GII_f_0001/l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-4330GSII]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/intermediate/YCR-4330GSII.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GSII_f_0001/s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>10300</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[IntermediateProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GSII_f_0001/s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GSII_f_0001/m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-Intermediate/YCR-4330GSII_f_0001/l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-4330GS]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/intermediate/YCR-4330GS.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-4330GS-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>10300</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-4330GS-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-4330GS-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-4330GS.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

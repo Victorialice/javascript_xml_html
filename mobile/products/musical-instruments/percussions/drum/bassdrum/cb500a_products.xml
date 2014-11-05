@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-524A]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb500a/CB-524A.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb524a_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>5500</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb524a_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb524a_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb524a_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-528A]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb500a/CB-528A.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb528a_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>6900</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb528a_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb528a_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb528a_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-532A]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb500a/CB-532A.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb532a_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>8700</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb532a_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb532a_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb532a_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

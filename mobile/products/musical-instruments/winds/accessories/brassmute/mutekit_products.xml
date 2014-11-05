@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[SB7-9]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/mutekit/SB7-9.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/SB7-9-S.gif</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>1610</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/SB7-9-S.gif</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/SB7-9-M.gif</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/SB7-9.gif</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[SB5-9]]></title> 
+			<path>/products/musical-instruments/winds/accessories/brassmute/mutekit/SB5-9.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/accessories/brassmute/SB5-9-S.gif</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>2020</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/accessories/brassmute/SB5-9-S.gif</small_image>
+					<middle_image>/images/products/musical-instruments/winds/accessories/brassmute/SB5-9-M.gif</middle_image>
+					<large_image>/images/products/musical-instruments/winds/accessories/brassmute/SB5-9.gif</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

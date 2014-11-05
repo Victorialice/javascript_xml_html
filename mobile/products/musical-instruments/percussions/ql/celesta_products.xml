@@ -1,0 +1,162 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YG-250D]]></title> 
+			<path>/products/musical-instruments/percussions/ql/celesta/YG-250D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YG-250D-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>7300</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YG-250D-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YG-250D-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YG-250D.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YG-1210]]></title> 
+			<path>/products/musical-instruments/percussions/ql/celesta/YG-1210.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yg1210_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>13500</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yg1210_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yg1210_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yg1210_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YG-2500]]></title> 
+			<path>/products/musical-instruments/percussions/ql/celesta/YG-2500.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yg2500_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>40400</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yg2500_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yg2500_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yg2500_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YG-50D]]></title> 
+			<path>/products/musical-instruments/percussions/ql/celesta/YG-50D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YG-50D-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>5800</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YG-50D-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YG-50D-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YG-50D.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

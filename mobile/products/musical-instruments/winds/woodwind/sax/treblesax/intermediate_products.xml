@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YSS-475II]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/treblesax/intermediate/YSS-475II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/YSS-475II-S.jpg</thumb_image>
+			<overview><![CDATA[<p>雅马哈高音萨克斯YSS-475Ⅱ，一体式的直管，小型构造设计的左手小指键、右手小指键等采用初学者也能容易使用的设计，以较低的价格提供专业品质。</p>]]></overview>
+			<description><![CDATA[<p>将在875EX、Custom（定制型）设计开发中积累的技术毫无保留地注入到该型号中。另外，重新考虑了键重量的平衡、键的位置，减轻乐器整体的重量。在音质提高的同时，更具可操作性，乐器的把持也更为便利，随处可见新的设计。 该款型号具有非常出色的回响、音准和可操作性。</p>]]></description>
+			<price>19800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[IntermediateProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/YSS-475II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/YSS-475II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/YSS-475II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

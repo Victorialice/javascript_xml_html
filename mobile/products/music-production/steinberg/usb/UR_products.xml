@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[UR22]]></title> 
+			<path>/products/music-production/steinberg/usb/UR/UR22.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_22/ur22_s.jpg</thumb_image>
+			<overview><![CDATA[<p>UR22将高品质话放和转换器集成在一个2进2出的USB音频/MIDI接口中，紧凑型的设计让您无论在哪儿，都能享受高品质的声音体验。</p>]]></overview>
+			<description><![CDATA[<p>UR22具备D-PRE话放，录音采样精度和频率高达24bit/192kHZ,同时也具备一个独立的耳机输出，并支持幻象供电。2进2出的紧凑型金属外壳设计非常适合移动中的音乐人，DJ等。</p>]]></description>
+			<price>1250</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[Hardware.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_22/ur22_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_22/ur22_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_22/steinberg_ur22_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[UR44]]></title> 
+			<path>/products/music-production/steinberg/usb/UR/UR44.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_44/ur44-l.jpg</thumb_image>
+			<overview><![CDATA[<p>同时兼具了高功能性和便携性的UR44, 是一款应用范围广泛的强大的音频/MIDI接口</p>]]></overview>
+			<description><![CDATA[<div>同时兼具了高功能性和便携性的UR44, 是一款应用范围广泛的强大的音频/MIDI接口。4个话放，6个输入，4个输出，MIDI接口，集成DSP供电以及与iPad的连接功能都体现了它的高度灵活性。</div>
+<p>&nbsp;</p>]]></description>
+			<price>2480</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[Software.html<!#>Hardware.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_44/ur44_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_44/ur44_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ur_series/ur_44/ur44-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CI1]]></title> 
+			<path>/products/music-production/steinberg/usb/UR/UR28M.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ci_series/ci1/top1-S.jpg</thumb_image>
+			<overview><![CDATA[<p>CI1是一款入门级USB声卡，<br />
+让您通过最简单的方式制作音乐，<br />
+录制高品质的声音</p>]]></overview>
+			<description><![CDATA[<p>CI1是一款入门级USB声卡，<br />
+让您通过最简单的方式制作音乐，<br />
+录制高品质的声音</p>]]></description>
+			<price>980</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Hardware.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ci_series/ci1/top1-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ci_series/ci1/top1-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/usb/ci_series/ci1/top1.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

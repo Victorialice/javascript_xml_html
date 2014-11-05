@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[SVC210]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/silentcello/SVC210.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SVC-210-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>25300</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/strings/SVC-210-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SVC-210-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SVC-210.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[SVC110]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/silentcello/SVC110.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SVC-110-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>23000</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/strings/SVC-110-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SVC-110-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SVC-110.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[SVC50]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/silentcello/SVC50.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SVC-50-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>17800</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/strings/SVC-50-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SVC-50-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SVC-50.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

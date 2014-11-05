@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[SV200]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/silentviolin/SV200.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SV-200-BR-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>12500</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>棕色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-200-BR-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-200-BR-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-200-BR.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>红色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-200-CR-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-200-CR-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-200-CR.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>蓝色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-200-OB-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-200-OB-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-200-OB.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>黑色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-200-PE-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-200-PE-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-200-PE.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[SV130S]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/silentviolin/SV130S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SV-130S-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-130S-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-130S-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-130S.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[SV130]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/silentviolin/SV130.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SV-130-BR-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>7700</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>棕色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-130-BR-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-130-BR-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-130-BR.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>红色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-130-CAR-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-130-CAR-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-130-CAR.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>蓝色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-130-NB-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-130-NB-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-130-NB.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>黑色</color_description>
+					<small_image>/images/products/musical-instruments/strings/SV-130-PE-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SV-130-PE-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SV-130-PE.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YFG-812CII]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/bassoon/custom/YFG-812CII.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YFG-812II]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/bassoon/custom/YFG-812II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-812II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-812II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-812II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-812II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YFG-811II]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/bassoon/custom/YFG-811II.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/bassoon/YFL-811II.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

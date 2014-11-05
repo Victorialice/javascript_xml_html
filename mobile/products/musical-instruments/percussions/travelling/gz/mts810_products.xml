@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MTS-810]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gz/mts810/mts810.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gz/mts810/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>2000</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts810/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts810/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts810/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

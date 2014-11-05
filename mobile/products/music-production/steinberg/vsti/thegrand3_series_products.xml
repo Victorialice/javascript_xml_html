@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[The Grand 3]]></title> 
+			<path>/products/music-production/steinberg/vsti/thegrand3_series/The-Grand-3.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/thegrand3/The-Grand-3-s.jpg</thumb_image>
+			<overview><![CDATA[<p>The Grand 3是Steinberg推出的第三代虚拟钢琴音，<br />
+除了三种高品质三角钢琴录音采样外，<br />
+它还包含Yamaha CP80电三角钢琴的音色和Nordiska Pianofabriken的立式钢琴音色。</p>]]></overview>
+			<description><![CDATA[<p>The Grand 3是Steinberg推出的第三代虚拟钢琴音，<br />
+除了三种高品质三角钢琴录音采样外，<br />
+它还包含Yamaha CP80电三角钢琴的音色和Nordiska Pianofabriken的立式钢琴音色。</p>]]></description>
+			<price>2770</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[PianoSoundSource.html<!#>Software.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/thegrand3/The-Grand-3-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/thegrand3/The-Grand-3-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/thegrand3/The-Grand-3.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

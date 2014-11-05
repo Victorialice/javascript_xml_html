@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MT-4012]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/zjg/mt4000/mt4012.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/zjg/mt2000/color_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>3000</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>雪白</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_1_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>喜庆红</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_2_l.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MT-4013]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/zjg/mt4000/mt4013.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/zjg/mt2000/color_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>3100</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>雪白</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_1_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>喜庆红</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/zjg/mt4000/color_2_l.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

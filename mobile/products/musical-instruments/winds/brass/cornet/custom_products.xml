@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-8335]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/custom/YCR-8335.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>加重型Bb调短号，配有扳机式第1和第3调音管。</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+	<placeoforigin><![CDATA[]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YCR-8335S]]></title> 
+			<path>/products/musical-instruments/winds/brass/cornet/custom/YCR-8335S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335S-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>加重型Bb调短号，配有扳机式第1和第3调音管。</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[CustomProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335S-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335S-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/brass/cornet/YCR-8335S.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

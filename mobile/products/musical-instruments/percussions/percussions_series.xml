@@ -1,0 +1,125 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='打击乐器'>
+<serie_trunk id='drum' name='鼓类' path='/products/musical-instruments/percussions/drum/' >
+<serie_trunk id='tomdrum' name='嗵嗵鼓' path='/products/musical-instruments/percussions/drum/tomdrum/'>
+<serie_leaf id='ct8' name='CT8' path='/mobile/products/musical-instruments/percussions/drum/tomdrum/ct8_products.xml'>
+</serie_leaf>
+<serie_leaf id='ct8000' name='CT-8000' path='/mobile/products/musical-instruments/percussions/drum/tomdrum/ct8000_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='bassdrum' name='大军鼓' path='/products/musical-instruments/percussions/drum/bassdrum/'>
+<serie_leaf id='cb500a' name='CB-500A系列' path='/mobile/products/musical-instruments/percussions/drum/bassdrum/cb500a_products.xml'>
+</serie_leaf>
+<serie_leaf id='cb600b' name='CB-600B系列' path='/mobile/products/musical-instruments/percussions/drum/bassdrum/cb600b_products.xml'>
+</serie_leaf>
+<serie_leaf id='cb700d' name='CB-700D系列' path='/mobile/products/musical-instruments/percussions/drum/bassdrum/cb700d_products.xml'>
+</serie_leaf>
+<serie_leaf id='cb800b' name='CB-800B系列' path='/mobile/products/musical-instruments/percussions/drum/bassdrum/cb800b_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='timpani' name='定音鼓' path='/products/musical-instruments/percussions/drum/timpani/'>
+<serie_leaf id='tp3100' name='TP-3100系列' path='/mobile/products/musical-instruments/percussions/drum/timpani/tp3100_products.xml'>
+</serie_leaf>
+<serie_leaf id='tp5000' name='TP-5000系列' path='/mobile/products/musical-instruments/percussions/drum/timpani/tp5000_products.xml'>
+</serie_leaf>
+<serie_leaf id='tp7000' name='TP-7000系列' path='/mobile/products/musical-instruments/percussions/drum/timpani/tp7000_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='snaredrum' name='小军鼓' path='/products/musical-instruments/percussions/drum/snaredrum/'>
+<serie_leaf id='csc' name='CSC系列' path='/mobile/products/musical-instruments/percussions/drum/snaredrum/csc_products.xml'>
+</serie_leaf>
+<serie_leaf id='csm' name='CSM系列' path='/mobile/products/musical-instruments/percussions/drum/snaredrum/csm_products.xml'>
+</serie_leaf>
+<serie_leaf id='css' name='CSS系列' path='/mobile/products/musical-instruments/percussions/drum/snaredrum/css_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='tubularbell' name='管钟' path='/mobile/products/musical-instruments/percussions/tubularbell_products.xml'>
+<serie_leaf id='tubularbell' name='管钟' path='/mobile/products/musical-instruments/percussions/tubularbell_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='travelling' name='行进打击乐' path='/products/musical-instruments/percussions/travelling/' >
+<serie_trunk id='djg' name='行进大军鼓' path='/products/musical-instruments/percussions/travelling/djg/'>
+<serie_leaf id='mb800' name='MB-800' path='/mobile/products/musical-instruments/percussions/travelling/djg/mb800_products.xml'>
+</serie_leaf>
+<serie_leaf id='mb2000' name='MB-2000' path='/mobile/products/musical-instruments/percussions/travelling/djg/mb2000_products.xml'>
+</serie_leaf>
+<serie_leaf id='mb4000' name='MB-4000' path='/mobile/products/musical-instruments/percussions/travelling/djg/mb4000_products.xml'>
+</serie_leaf>
+<serie_leaf id='mb6000' name='MB-6000' path='/mobile/products/musical-instruments/percussions/travelling/djg/mb6000_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='zjg' name='行进中军鼓' path='/products/musical-instruments/percussions/travelling/zjg/'>
+<serie_leaf id='mt2000' name='MT-2000' path='/mobile/products/musical-instruments/percussions/travelling/zjg/mt2000_products.xml'>
+</serie_leaf>
+<serie_leaf id='mt4000' name='MT-4000' path='/mobile/products/musical-instruments/percussions/travelling/zjg/mt4000_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='xjg' name='行进小军鼓' path='/products/musical-instruments/percussions/travelling/xjg/'>
+<serie_leaf id='ms2000' name='MS-2000' path='/mobile/products/musical-instruments/percussions/travelling/xjg/ms2000_products.xml'>
+</serie_leaf>
+<serie_leaf id='ms4000' name='MS-4000' path='/mobile/products/musical-instruments/percussions/travelling/xjg/ms4000_products.xml'>
+</serie_leaf>
+<serie_leaf id='ms6300' name='MS-6300' path='/mobile/products/musical-instruments/percussions/travelling/xjg/ms6300_products.xml'>
+</serie_leaf>
+<serie_leaf id='ms9200' name='MS-9200' path='/mobile/products/musical-instruments/percussions/travelling/xjg/ms9200_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='gz' name='行进鼓组' path='/products/musical-instruments/percussions/travelling/gz/'>
+<serie_leaf id='mts810' name='MTS-810' path='/mobile/products/musical-instruments/percussions/travelling/gz/mts810_products.xml'>
+</serie_leaf>
+<serie_leaf id='mts9200' name='MTS-9200' path='/mobile/products/musical-instruments/percussions/travelling/gz/mts9200_products.xml'>
+</serie_leaf>
+<serie_leaf id='qd800' name='QD/QT/ST-800' path='/mobile/products/musical-instruments/percussions/travelling/gz/qd800_products.xml'>
+</serie_leaf>
+<serie_leaf id='qd6300' name='QD-6300' path='/mobile/products/musical-instruments/percussions/travelling/gz/qd6300_products.xml'>
+</serie_leaf>
+<serie_leaf id='tr2000' name='TR-2000' path='/mobile/products/musical-instruments/percussions/travelling/gz/tr2000_products.xml'>
+</serie_leaf>
+<serie_leaf id='tr4012' name='TR-4012' path='/mobile/products/musical-instruments/percussions/travelling/gz/tr4012_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='gdx' name='固定器' path='/products/musical-instruments/percussions/travelling/gdx/'>
+<serie_leaf id='mbh' name='MBH' path='/mobile/products/musical-instruments/percussions/travelling/gdx/mbh_products.xml'>
+</serie_leaf>
+<serie_leaf id='msh' name='MSH' path='/mobile/products/musical-instruments/percussions/travelling/gdx/msh_products.xml'>
+</serie_leaf>
+<serie_leaf id='mss' name='MSS' path='/mobile/products/musical-instruments/percussions/travelling/gdx/mss_products.xml'>
+</serie_leaf>
+<serie_leaf id='mth' name='MTH' path='/mobile/products/musical-instruments/percussions/travelling/gdx/mth_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='ql' name='琴类' path='/products/musical-instruments/percussions/ql/' >
+<serie_leaf id='xylophone' name='木琴' path='/mobile/products/musical-instruments/percussions/ql/xylophone_products.xml'>
+</serie_leaf>
+<serie_leaf id='celesta' name='钢片琴' path='/mobile/products/musical-instruments/percussions/ql/celesta_products.xml'>
+</serie_leaf>
+<serie_leaf id='vibraphone' name='颤音琴' path='/mobile/products/musical-instruments/percussions/ql/vibraphone_products.xml'>
+</serie_leaf>
+<serie_leaf id='marimba' name='马林巴' path='/mobile/products/musical-instruments/percussions/ql/marimba_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='hammer' name='琴槌' path='/products/musical-instruments/percussions/hammer/' >
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/percussions/hammer/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='snaredrumhammer' name='小军鼓槌' path='/mobile/products/musical-instruments/percussions/hammer/snaredrumhammer_products.xml'>
+</serie_leaf>
+<serie_leaf id='ordinary' name='普通型' path='/mobile/products/musical-instruments/percussions/hammer/ordinary_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>

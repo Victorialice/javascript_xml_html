@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[Attitude III]]></title> 
+			<path>/products/musical-instruments/guitars/electricgbass/attitude-series/Attitude-Limited-III.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3--pe-S.jpg</thumb_image>
+			<overview><![CDATA[<p>Yamaha专为Billy Sheehan量身定制的贝司，你也可以拥有。</p>]]></overview>
+			<description><![CDATA[<p>Yamaha专为Billy Sheehan量身定制的贝司，你也可以拥有。</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>黑色</color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3--pe-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3--pe-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3--pe.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>音速蓝</color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3-blue-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3-blue-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricgbass/attitude_series/attitudelimited3/ATTITUDE3-blue.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

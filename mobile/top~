@@ -1,0 +1,58 @@
+http://localhost/mobilesite/
+<------------------  js ---------------------
+http://localhost/mobilesite/js/search.js
+http://localhost/mobilesite/js/common.js
+http://localhost/mobilesite/js/expand_view.js
+http://localhost/mobilesite/js/easing.js
+http://localhost/mobilesite/js/raphael.js
+http://localhost/mobilesite/js/content_scroller.js
+------------------  js --------------------->
+
+<----------------- prepare ------------------
+prepare
+function ()
+        {
+            $.get("http://www.yamaha.com.cn/mobile/hotspots.xml?a=123",
+                    null,
+                    function(data,status)
+                    {
+                        if(status != "success")
+                        {
+                            alert("Error occured when get data from http://www.yamaha.com.cn/mobile/hotspots.xml!");
+                            return;
+                        }
+
+                        var $hotspots = $("hotspot",data);
+                        var $hsContainer = $("#hotspot_container");
+                        var $hsContent = $(".content",$hsContainer);
+                        $hsContainer.empty();
+
+                        $hotspots.each(function(i,hotspotItem)
+                        {
+                            var $hostspotItem = $(hotspotItem);
+                            $hsContent = $hsContent.clone();
+                            $("a",$hsContent).attr("href","http://www.yamaha.com.cn" + $hostspotItem.attr("link"));
+                            $("img",$hsContent).attr("src","http://www.yamaha.com.cn" + $hostspotItem.attr("thumbnail"));
+
+                            var title = $("title",$hostspotItem).text();
+//                            title = title.length > 16 ? title.substr(0,16) + "..." : title;
+                            $(".hs_title",$hsContent).text(title);
+
+                            var overview = $("overview",$hostspotItem).text();
+                            var $temp = $("<div></div>");
+                            $temp.html(overview);
+                            $("span",$hsContent).html($temp.text());
+//                            overview = $("span",$hsContent).text();
+//                            overview = overview.length > 35 ? overview.substr(0,35) + "..." : overview;
+//                            $("span",$hsContent).html(overview);
+
+                            $hsContainer.append($hsContent);
+                        });
+
+                        hideLoading();
+                        ContentScroller.initialize();
+                        ExpandView.initialize();
+                    },
+                    "xml");
+        }
+----------------- prepare ------------------>

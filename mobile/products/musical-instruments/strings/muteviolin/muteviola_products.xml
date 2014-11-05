@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[SVV200]]></title> 
+			<path>/products/musical-instruments/strings/muteviolin/muteviola/SVV200.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/strings/SVV-200-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>16000</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/strings/SVV-200-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/strings/SVV-200-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/strings/SVV-200.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

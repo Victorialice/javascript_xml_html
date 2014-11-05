@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YAS-26]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/altosax/standard/YAS-26.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/AltoSax188/YAS26-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>5980</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/AltoSax188/YAS26-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/AltoSax188/YAS26-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/AltoSax188/YAS26-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YAS-200DT]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/altosax/standard/YAS-200DT.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DT-S.jpg</thumb_image>
+			<overview><![CDATA[<p>便于吹奏以及准确的音程。 切身体会音乐带来的快乐！</p>]]></overview>
+			<description><![CDATA[<p>YAS-200DR是可以为初学演奏者提供稳定性操作的乐器。 具有萨克斯的明快音色和真实的音程感。 使用充满光泽感的金漆喷涂进行表面处理，其技术之高令人赞叹。 （价格合理）是以&ldquo;体验演奏乐趣为首要条件&rdquo;人士的绝佳之选。</p>]]></description>
+			<price>7080</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DT-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DT-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DT.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YAS-200DR]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/altosax/standard/YAS-200DR.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DR-S.jpg</thumb_image>
+			<overview><![CDATA[<p>便于吹奏以及准确的音程。切身体会音乐带来的快乐！</p>]]></overview>
+			<description><![CDATA[<p>YAS-200DR是可以为初学演奏者提供稳定性操作的乐器。具有萨克斯的明快音色和真实的音程感。使用充满光泽感的金漆喷涂进行表面处理，其技术之高令人赞叹。（价格合理）是以&ldquo;体验演奏乐趣为首要条件&rdquo;人士的绝佳之选。</p>]]></description>
+			<price>7080</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DR-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DR-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/YAS-200DR.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+</products>

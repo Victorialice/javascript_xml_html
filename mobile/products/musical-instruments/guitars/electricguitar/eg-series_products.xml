@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[EGR121U]]></title> 
+			<path>/products/musical-instruments/guitars/electricguitar/eg-series/EGR121U.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/erg121u/ERG121-S.jpg</thumb_image>
+			<overview><![CDATA[<p>还在为寻找电吉他配件发愁吗？EG系列套装包含你所希望的所有</p>]]></overview>
+			<description><![CDATA[<p>还在为寻找电吉他配件发愁吗？EG系列套装包含你所希望的所有</p>]]></description>
+			<price>1700</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/erg121u/ERG121-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/erg121u/ERG121-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/erg121u/ERG121-L.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[EG112UP]]></title> 
+			<path>/products/musical-instruments/guitars/electricguitar/eg-series/EG112UP.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/eg112up/EG112-s.jpg</thumb_image>
+			<overview><![CDATA[<p>还在为寻找电吉他配件发愁吗？EG系列套装包含你所希望的所有</p>]]></overview>
+			<description><![CDATA[<p>还在为寻找电吉他配件发愁吗？EG系列套装包含你所希望的所有</p>]]></description>
+			<price>1800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/eg112up/EG112-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/eg112up/EG112-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricguitar/eg_series/eg112up/EG112-L.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

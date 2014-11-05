@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='钢琴'>
+<serie_trunk id='grandpianos' name='三角钢琴' path='/products/musical-instruments/pianos/grandpianos/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='AutomaticPlaying.html'  title='自动演奏' />
+<property-value value='Silent.html'  title='静音' />
+</property-key>
+<property-key key='recommendedsites' title='推荐位置'>
+<property-value value='Family.html'  title='家庭' />
+<property-value value='Concert.html'  title='音乐会' />
+</property-key>
+<serie_leaf id='smallsize_series' name='小型系列' path='/mobile/products/musical-instruments/pianos/grandpianos/smallsize_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='cx_series' name='CX系列' path='/mobile/products/musical-instruments/pianos/grandpianos/cx_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='s_series' name='S系列' path='/mobile/products/musical-instruments/pianos/grandpianos/s_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='cf_series' name='CF系列' path='/mobile/products/musical-instruments/pianos/grandpianos/cf_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='e3_series' name='自动演奏Disklavier™ E3系列' path='/mobile/products/musical-instruments/pianos/grandpianos/e3_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='uprightpiano' name='立式钢琴' path='/products/musical-instruments/pianos/uprightpiano/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+<property-value value='Silent.html'  title='静音' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业院校' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+<property-value value='Artist.html'  title='艺术家' />
+</property-key>
+<property-key key='price' title='价格'>
+<property-value value='29999'  title='20000-30000元' />
+<property-value value='19999'  title='20000元以下' />
+<property-value value='50000'  title='30000-50000元' />
+<property-value value='50001'  title='50000元以上' />
+</property-key>
+<serie_leaf id='yd_series' name='YD系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/yd_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='ye_series' name='YE系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/ye_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='ya_series' name='YA系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/ya_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='yu_series' name='YU系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/yu_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='yc_series' name='YC系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/yc_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='yf_series' name='YF系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/yf_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='yz_series' name='YZ系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/yz_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='u_series' name='U系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/u_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='yus_series' name='YUS系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/yus_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='silent_series' name='静音系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/silent_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='radius_series' name='Radius系列' path='/mobile/products/musical-instruments/pianos/uprightpiano/radius_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>

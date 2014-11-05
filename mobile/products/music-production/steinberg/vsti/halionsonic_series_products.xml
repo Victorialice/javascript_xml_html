@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[HALion Sonic]]></title> 
+			<path>/products/music-production/steinberg/vsti/halionsonic_series/HALion-Sonic.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halionsonic/HALion-Sonic-s.jpg</thumb_image>
+			<overview><![CDATA[<p>HALion Sonic是Steinberg和YAMAHA联合制作的一款音色插件VST工作站，<br />
+包含最新的采样技术、合成技术、世界级的音色库以及智能用户操作界面，<br />
+在工作室或是舞台上都有卓越超群的表现。</p>]]></overview>
+			<description><![CDATA[<p>HALion Sonic是Steinberg和YAMAHA联合制作的一款音色插件VST工作站，<br />
+包含最新的采样技术、合成技术、世界级的音色库以及智能用户操作界面，<br />
+在工作室或是舞台上都有卓越超群的表现。</p>]]></description>
+			<price>2700</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Sampler.html<!#>Software.html<!#>IntegratedAudio.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halionsonic/HALion-Sonic-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halionsonic/HALion-Sonic-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/vsti/halionsonic/HALion-Sonic.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

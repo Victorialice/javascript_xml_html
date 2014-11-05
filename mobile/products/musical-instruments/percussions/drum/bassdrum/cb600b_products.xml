@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-628B]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb600b/CB-628B.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb628b_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>8100</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb628b_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb628b_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb628b_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-632B]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb600b/CB-632B.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb632b_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>9900</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb632b_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb632b_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb632b_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CB-636B]]></title> 
+			<path>/products/musical-instruments/percussions/drum/bassdrum/cb600b/CB-636B.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/cb636b_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>价格仅为大军鼓价格，鼓架需另外购买。</p>]]></description>
+			<price>10000</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/cb636b_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/cb636b_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/cb636b_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MBH-225]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mbh/mbh225.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh225/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>2000</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh225/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh225/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh225/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MBH-425]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mbh/mbh425.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh425/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>2500</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh425/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh425/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh425/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MBH-825]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mbh/mbh825.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh825/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>3300</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh825/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh825/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh825/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MBH-915]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>6400</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_1_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mbh/mbh915/feature_2_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,59 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CMC系列]]></title> 
+			<path>/products/music-production/steinberg/thecontroller/CMC_series/CMC.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/Steinberg/thecontroller/cmc/CMC_CH_S.jpg</thumb_image>
+			<overview><![CDATA[<p>CMC全系列一共6款控制器，使用USB供电，是适合您创作风格的灵活的，可扩展的Cubase/Nuendo控制器。</p>]]></overview>
+			<description><![CDATA[<p>CMC全系列一共6款控制器，使用USB供电，是适合您创作风格的灵活的，可扩展的Cubase/Nuendo控制器。当您购买后在线注册CMC控制器的同时，您也将免费获得Cubase AI 6。CMC能够使您更加方便自如地控制Cubase/Nuendo中的电平、EQ、声像等各种参数，解放您的鼠标和键盘。</p>
+<p>&nbsp;</p>]]></description>
+			<price>960</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Hardware.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/Steinberg/thecontroller/cmc/CMC_CH_S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/Steinberg/thecontroller/cmc/CMC_CH_M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/Steinberg/thecontroller/cmc/CMC_CH_L.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

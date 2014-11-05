@@ -1,0 +1,587 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='管乐器'>
+<serie_trunk id='woodwind' name='木管乐器' path='/products/musical-instruments/winds/woodwind/' >
+<serie_trunk id='flute' name='长笛' path='/products/musical-instruments/winds/woodwind/flute/'>
+<property-key key='price' title='价格'>
+<property-value value='03999'  title='4000元以下' />
+<property-value value='14999'  title='4000-15000元' />
+<property-value value='25000'  title='15000-25000元' />
+<property-value value='25001'  title='25000元以上' />
+</property-key>
+<serie_trunk id='flute' name='长笛' path='/products/musical-instruments/winds/woodwind/flute/flute/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='适合人群'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/woodwind/flute/flute/standard_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/flute/flute/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/flute/flute/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/flute/flute/custom_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_leaf id='altoflute' name='中音长笛' path='/mobile/products/musical-instruments/winds/woodwind/flute/altoflute_products.xml'>
+</serie_leaf>
+<serie_leaf id='bassflute' name='低音长笛' path='/mobile/products/musical-instruments/winds/woodwind/flute/bassflute_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='piccolo' name='短笛' path='/products/musical-instruments/winds/woodwind/piccolo/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/piccolo/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/piccolo/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/piccolo/intermediate_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='clarinet' name='单簧管' path='/products/musical-instruments/winds/woodwind/clarinet/'>
+<property-key key='price' title='价格'>
+<property-value value='03999'  title='4000元以下' />
+<property-value value='14999'  title='4000-15000元' />
+<property-value value='25000'  title='15000-25000元' />
+<property-value value='25001'  title='25000元以上' />
+</property-key>
+<serie_trunk id='bflatclarinet' name='降B调单簧管' path='/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/bflatclarinet/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='trebleclarinet' name='高音单簧管' path='/products/musical-instruments/winds/woodwind/clarinet/trebleclarinet/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/trebleclarinet/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/trebleclarinet/professional_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='altoclarinet' name='中音单簧管' path='/products/musical-instruments/winds/woodwind/clarinet/altoclarinet/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/altoclarinet/professional_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='bassclarinet' name='低音单簧管' path='/products/musical-instruments/winds/woodwind/clarinet/bassclarinet/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/bassclarinet/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/woodwind/clarinet/bassclarinet/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='oboe' name='双簧管' path='/products/musical-instruments/winds/woodwind/oboe/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/oboe/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/oboe/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/woodwind/oboe/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='sax' name='萨克斯' path='/products/musical-instruments/winds/woodwind/sax/'>
+<property-key key='price' title='价格'>
+<property-value value='09999'  title='10000元以下' />
+<property-value value='19999'  title='10000-20000元' />
+<property-value value='30000'  title='20000-30000元' />
+<property-value value='30001'  title='30000元以上' />
+</property-key>
+<serie_trunk id='baritonesax' name='上低音萨克斯' path='/products/musical-instruments/winds/woodwind/sax/baritonesax/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/sax/baritonesax/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/sax/baritonesax/intermediate_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='altosax' name='中音萨克斯' path='/products/musical-instruments/winds/woodwind/sax/altosax/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/sax/altosax/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/sax/altosax/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/sax/altosax/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/woodwind/sax/altosax/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='tenorsax' name='次中音萨克斯' path='/products/musical-instruments/winds/woodwind/sax/tenorsax/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/sax/tenorsax/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/woodwind/sax/tenorsax/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/sax/tenorsax/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/woodwind/sax/tenorsax/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='treblesax' name='高音萨克斯' path='/products/musical-instruments/winds/woodwind/sax/treblesax/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/sax/treblesax/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/woodwind/sax/treblesax/intermediate_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='bassoon' name='大管' path='/products/musical-instruments/winds/woodwind/bassoon/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/woodwind/bassoon/custom_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='brass' name='铜管乐器' path='/products/musical-instruments/winds/brass/' >
+<serie_trunk id='trumpet' name='小号' path='/products/musical-instruments/winds/brass/trumpet/'>
+<serie_leaf id='rotaryvalvetrumpet' name='转阀式小号' path='/mobile/products/musical-instruments/winds/brass/trumpet/rotaryvalvetrumpet_products.xml'>
+</serie_leaf>
+<serie_trunk id='bflattrumpet' name='降B调小号' path='/products/musical-instruments/winds/brass/trumpet/bflattrumpet/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/trumpet/bflattrumpet/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='xeno' name='Xeno' path='/mobile/products/musical-instruments/winds/brass/trumpet/bflattrumpet/xeno_products.xml'>
+</serie_leaf>
+<serie_leaf id='xenoartistmodel' name='Xeno Artist Model' path='/mobile/products/musical-instruments/winds/brass/trumpet/bflattrumpet/xenoartistmodel_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/trumpet/bflattrumpet/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/brass/trumpet/bflattrumpet/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/trumpet/bflattrumpet/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='cornet' name='短号' path='/products/musical-instruments/winds/brass/cornet/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/cornet/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/cornet/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/brass/cornet/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/cornet/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='flugelhorn' name='富鲁格号' path='/products/musical-instruments/winds/brass/flugelhorn/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/flugelhorn/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/flugelhorn/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/flugelhorn/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='tuba' name='大号' path='/products/musical-instruments/winds/brass/tuba/'>
+<serie_leaf id='ctuba' name='C调大号' path='/mobile/products/musical-instruments/winds/brass/tuba/ctuba_products.xml'>
+</serie_leaf>
+<serie_leaf id='ftuba' name='F调大号' path='/mobile/products/musical-instruments/winds/brass/tuba/ftuba_products.xml'>
+</serie_leaf>
+<serie_trunk id='bflattuba' name='降B调大号' path='/products/musical-instruments/winds/brass/tuba/bflattuba/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/tuba/bflattuba/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/tuba/bflattuba/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/brass/tuba/bflattuba/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/tuba/bflattuba/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_leaf id='eflattuba' name='降E调大号' path='/mobile/products/musical-instruments/winds/brass/tuba/eflattuba_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='frenchhorn' name='圆号' path='/products/musical-instruments/winds/brass/frenchhorn/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/frenchhorn/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/frenchhorn/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/brass/frenchhorn/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/frenchhorn/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='trombone' name='长号' path='/products/musical-instruments/winds/brass/trombone/'>
+<serie_trunk id='basstrombone' name='低音长号' path='/products/musical-instruments/winds/brass/trombone/basstrombone/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/trombone/basstrombone/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/brass/trombone/basstrombone/intermediate_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='tenortrombone' name='次中音长号' path='/products/musical-instruments/winds/brass/trombone/tenortrombone/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/trombone/tenortrombone/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/trombone/tenortrombone/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='intermediate' name='中级型' path='/mobile/products/musical-instruments/winds/brass/trombone/tenortrombone/intermediate_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/trombone/tenortrombone/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='altohorn' name='中音号' path='/products/musical-instruments/winds/brass/altohorn/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/altohorn/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/altohorn/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='baritonehorn' name='次中音号' path='/products/musical-instruments/winds/brass/baritonehorn/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/baritonehorn/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/baritonehorn/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='euphonium' name='上低音号' path='/products/musical-instruments/winds/brass/euphonium/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_leaf id='custom' name='CUSTOM' path='/mobile/products/musical-instruments/winds/brass/euphonium/custom_products.xml'>
+</serie_leaf>
+<serie_leaf id='professional' name='专业型' path='/mobile/products/musical-instruments/winds/brass/euphonium/professional_products.xml'>
+</serie_leaf>
+<serie_leaf id='standard' name='标准型' path='/mobile/products/musical-instruments/winds/brass/euphonium/standard_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='school_tender' name='学校招标型号' path='/mobile/products/musical-instruments/winds/school_tender_products.xml'>
+<serie_leaf id='school_tender' name='学校招标型号' path='/mobile/products/musical-instruments/winds/school_tender_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='marching' name='行进乐器' path='/products/musical-instruments/winds/marching/' >
+<serie_leaf id='marchingbrass' name='行进铜管' path='/mobile/products/musical-instruments/winds/marching/marchingbrass_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='educationwind' name='教育乐器' path='/products/musical-instruments/winds/educationwind/' >
+<serie_leaf id='digitalkeyboardforband' name='乐队指导用电子琴' path='/mobile/products/musical-instruments/winds/educationwind/digitalkeyboardforband_products.xml'>
+</serie_leaf>
+<serie_leaf id='recorder' name='竖笛' path='/mobile/products/musical-instruments/winds/educationwind/recorder_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='accessories' name='配件' path='/products/musical-instruments/winds/accessories/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='CustomProducts.html'  title='CUSTOM产品' />
+<property-value value='ProfessionalProducts.html'  title='专业产品' />
+<property-value value='IntermediateProducts.html'  title='中级产品' />
+<property-value value='BasicProducts.html'  title='基础产品' />
+</property-key>
+<property-key key='placeoforigin' title='产品产地'>
+<property-value value='Domestic.html'  title='国产' />
+<property-value value='Import.html'  title='进口' />
+</property-key>
+<property-key key='recommendedgroup' title='推荐团体'>
+<property-value value='Professional.html'  title='专业爱好者' />
+<property-value value='Amateur.html'  title='业余爱好者' />
+</property-key>
+<serie_trunk id='maintenance' name='保养品' path='/products/musical-instruments/winds/accessories/maintenance/'>
+<serie_leaf id='maintenance_item' name='保养品单品' path='/mobile/products/musical-instruments/winds/accessories/maintenance/maintenance_item_products.xml'>
+</serie_leaf>
+<serie_leaf id='maintenancekit' name='保养品套装' path='/mobile/products/musical-instruments/winds/accessories/maintenance/maintenancekit_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='winds_accessories' name='管乐器配件' path='/products/musical-instruments/winds/accessories/winds_accessories/'>
+<serie_leaf id='sax_accessories' name='萨克斯配件' path='/mobile/products/musical-instruments/winds/accessories/winds_accessories/sax_accessories_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='brassmute' name='铜管静音器' path='/products/musical-instruments/winds/accessories/brassmute/'>
+<serie_leaf id='mute' name='静音器' path='/mobile/products/musical-instruments/winds/accessories/brassmute/mute_products.xml'>
+</serie_leaf>
+<serie_leaf id='mutekit' name='静音器套装' path='/mobile/products/musical-instruments/winds/accessories/brassmute/mutekit_products.xml'>
+</serie_leaf>
+<serie_leaf id='muteattachment' name='静音器附件' path='/mobile/products/musical-instruments/winds/accessories/brassmute/muteattachment_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+</series>

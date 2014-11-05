@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[ELB-01]]></title> 
+			<path>/products/musical-instruments/keyboards/electronicorgans/stagea_mini_series/ELB-01.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/elb-01/elb-01-S.jpg</thumb_image>
+			<overview><![CDATA[<p>无论是小孩还是大人都喜欢弹奏的一款双排键电子琴！浓缩了STAGEA系列双排键电子琴的魅力，有着&ldquo;STAGEA mini&rdquo;的爱称。通过内置的MDR功能可以录制数据，并可在STAGEA中高端型号上播放，同时具备STAGEA系列数据互相转换功能。</p>]]></overview>
+			<description><![CDATA[<p>无论是小孩还是大人都喜欢弹奏的一款双排键电子琴！浓缩了STAGEA系列双排键电子琴的魅力，有着&ldquo;STAGEA mini&rdquo;的爱称。通过内置的MDR功能可以录制数据，并可在STAGEA中高端型号上播放，同时具备STAGEA系列数据互相转换功能。</p>]]></description>
+			<price>14800</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[BasicKeyBoard.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Beginner.html<!#>Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/elb-01/elb-01-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/elb-01/elb-01-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/elb-01/elb-01-D.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/01-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/01-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/01.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/02-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/02-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/02.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/03-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/03-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/03.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/04-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/04-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/04.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/05-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/05-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/keyboards/electronicorgan/electronicorgans/electronicorgans/stagea.mini-series/05.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

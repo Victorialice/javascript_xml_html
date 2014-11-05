@@ -1,0 +1,205 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MTH-420]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mth/mth420.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth420/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>2500</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth420/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth420/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth420/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MTH-825]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mth/mth825.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth825/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>3200</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth825/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth825/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth825/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MTH-910]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mth/mth910.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>5300</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_1_l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth910/feature_2_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[ MTH-2010]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mth/mth2010.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth2010/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>2000</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth2010/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth2010/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth2010/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MTH-6200]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gdx/mth/mth6200.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth6200/feature_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>3700</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth6200/feature_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth6200/feature_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gdx/mth/mth6200/feature_1_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

@@ -1,0 +1,56 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CSS-1465]]></title> 
+			<path>/products/musical-instruments/percussions/drum/snaredrum/css/CSS-1465.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/drum/snaredrum/CSS-1465-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>3700</price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/drum/snaredrum/CSS-1465-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/drum/snaredrum/CSS-1465-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/drum/snaredrum/CSS-1465.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

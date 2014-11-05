@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YPC-32]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/piccolo/intermediate/YPC-32.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/piccolo/ypc-32-S.jpg</thumb_image>
+			<overview><![CDATA[<p>由于其易于演奏，具有精确的音准和特有的短笛音色。YPC-32在学生当中非常受欢迎。笛身由坚固耐用的ABS树脂制成，音色与木质短笛相似。</p>]]></overview>
+			<description><![CDATA[]]></description>
+			<price>6900</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[BasicProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Domestic.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/piccolo/ypc-32-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/piccolo/ypc-32-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/piccolo/ypc-32.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

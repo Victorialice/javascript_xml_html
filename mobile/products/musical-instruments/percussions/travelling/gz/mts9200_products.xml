@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[MTS-9213]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gz/mts9200/mts9213.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>10900</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>雪白</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>乌黑</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_2_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>喜庆红</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_3_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_3_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_3_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>蓝绿</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_4_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_4_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_4_l.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[MTS-9214]]></title> 
+			<path>/products/musical-instruments/percussions/travelling/gz/mts9200/mts9214.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>12800</price> 
+			<recommend>Yes</recommend>
+			
+
+
+
+
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>雪白</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_1_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>乌黑</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_2_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_2_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_2_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>喜庆红</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_3_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_3_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_3_l.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>蓝绿</color_description>
+					<small_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_4_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_4_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/percussions/travelling/gz/mts9200/color_4_l.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

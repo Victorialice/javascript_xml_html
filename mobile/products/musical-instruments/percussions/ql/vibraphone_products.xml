@@ -1,0 +1,198 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YV-2700]]></title> 
+			<path>/products/musical-instruments/percussions/ql/vibraphone/YV-2700.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yv2700_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>60700</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yv2700_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yv2700_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yv2700_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YV-3710]]></title> 
+			<path>/products/musical-instruments/percussions/ql/vibraphone/YV-3710.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yv3710_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>78300</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yv3710_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yv3710_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yv3710_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YV-3910M]]></title> 
+			<path>/products/musical-instruments/percussions/ql/vibraphone/YV-3910M.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yv3910m_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>102600</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yv3910m_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yv3910m_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yv3910m_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YV-4110M]]></title> 
+			<path>/products/musical-instruments/percussions/ql/vibraphone/YV-4110M.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yv4110m_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>112800</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yv4110m_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yv4110m_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yv4110m_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YV-520]]></title> 
+			<path>/products/musical-instruments/percussions/ql/vibraphone/YV-520.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YV-520-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>26000</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YV-520-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YV-520-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YV-520.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

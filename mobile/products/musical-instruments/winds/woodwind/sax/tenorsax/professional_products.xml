@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YTS-62//02]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/tenorsax/professional/20130805001.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/20130802002/yts-62_s.jpg</thumb_image>
+			<overview><![CDATA[<p>62系列是由设计者们的专心研究和技术娴熟的工匠们的精工细作打造出的畅销型号。以超群的声音效果著称。</p>]]></overview>
+			<description><![CDATA[<p>62系列是由设计者们的专心研究和技术娴熟的工匠们的精工细作打造出的畅销型号。以超群的声音效果著称。</p>]]></description>
+			<price>23400</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/20130802002/yts-62_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/20130802002/yts-62_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/20130802002/yts-62_l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YTS-62S//02]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/sax/tenorsax/professional/YTS-62S.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/sax/YTS-62S-s.jpg</thumb_image>
+			<overview><![CDATA[<p>雅马哈畅销型号的62系列是一款凭借其优异的性能和质量广州演奏者喜爱的知名乐器。<br />
+*带字母S型号为表面经镀银处理的萨克斯。</p>]]></overview>
+			<description><![CDATA[<p>雅马哈畅销型号的62系列是一款凭借其优异的性能和质量广州演奏者喜爱的知名乐器。<br />
+*带字母S型号为表面经镀银处理的萨克斯。</p>]]></description>
+			<price>27700</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/sax/YTS-62S-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/sax/YTS-62S-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/sax/YTS-62S-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+</products>

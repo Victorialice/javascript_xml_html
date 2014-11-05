@@ -1,0 +1,119 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CD-N500]]></title> 
+			<path>/products/audio-visual/hifi-components/network-player/20130521001.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-01-s.jpg</thumb_image>
+			<overview><![CDATA[<p>网络CD播放机<br />
+&nbsp;</p>]]></overview>
+			<description><![CDATA[<p>新概念Hi-Fi: 网络CD播放机<br />
+现在，您仅需拥有一个单体播放器，即可享受所有音频格式</p>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-01-s.jpg</small_image>
+					<middle_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-01-m.jpg</middle_image>
+					<large_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-01-l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-02-s.jpg</small_image>
+					<middle_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-02-m.jpg</middle_image>
+					<large_image>/images/products/audio-visual/hificomponents/network-player/CD-N500/CDN500-02-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[NP-S2000]]></title> 
+			<path>/products/audio-visual/hifi-components/network-player/NP-S2000.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-1-s.jpg</thumb_image>
+			<overview><![CDATA[<p>数字播放机</p>]]></overview>
+			<description><![CDATA[<ul>
+    <li>全程平衡式信号传输由Burr-Brown DACs开始</li>
+    <li>全独立D/A电源</li>
+    <li>XLR平衡式输出终端</li>
+    <li>iTunes兼容服务器软件</li>
+    <li>多功能网络浏览界面</li>
+    <li>兼容多类服务器软件</li>
+    <li>特殊设计底脚</li>
+    <li>终端可拆分电源线</li>
+</ul>]]></description>
+			<price></price> 
+			<recommend>No</recommend>
+			
+			
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-1-s.jpg</small_image>
+					<middle_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-1-m.jpg</middle_image>
+					<large_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-1-l.jpg</large_image>
+				</main_image>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-2-s.jpg</small_image>
+					<middle_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-2--m.jpg</middle_image>
+					<large_image>/images/products/audio-visual/hificomponents/network-player/NP-S2000/NPS2000-2-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

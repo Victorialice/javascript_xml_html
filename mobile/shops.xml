@@ -1,0 +1,3116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<shops>
+	<piano_shops>
+
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shanghai/2-1.jpg'>
+			<province>上海</province>
+			<title><![CDATA[上海知音琴行（旗舰店）]]></title>
+			<shop_hour>09：30 - 21：00</shop_hour>
+			<phone_number>021-52413737</phone_number>
+			<address>上海市长宁路1200号贝多芬广场B座二楼（近中山西路）</address>
+			<google_code>31.218042,121.414685</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/yunnan/kunming/kmhc_thumbnail.jpg'>
+			<province>云南</province>
+			<title><![CDATA[昆明华彩乐器]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address></address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/yunnan/20120416_2.jpg'>
+			<province>云南</province>
+			<title><![CDATA[大理市李光辉琴行]]></title>
+			<shop_hour>09：00 - 21：00</shop_hour>
+			<phone_number>0872-2190348</phone_number>
+			<address>大理市龙溪路艺海天成3号商铺</address>
+			<google_code>25.581535,100.221289</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/neimenggu/eerduosi/eedsyl_thumbnail.jpg'>
+			<province>内蒙古</province>
+			<title><![CDATA[鄂尔多斯艺龙]]></title>
+			<shop_hour>8:00-19:00</shop_hour>
+			<phone_number>0477-8539168 13296965666</phone_number>
+			<address>鄂尔多斯市东胜区杭锦南路（八完小对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/beijing/beijing/ssygjdk_thumbnail.jpg'>
+			<province>北京</province>
+			<title><![CDATA[北京盛世雅歌琴行（交道口店）]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>64026922（钢琴销售）64038484（中西乐器）64061088（培训中心）</phone_number>
+			<address>东城区交道口东大街6-6号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/beijing/beijing/ssygxyl_thumbnail.jpg'>
+			<province>北京</province>
+			<title><![CDATA[北京盛世雅歌琴行（学院路店）]]></title>
+			<shop_hour>9:00-20:00</shop_hour>
+			<phone_number>010-82375700</phone_number>
+			<address>海淀区清华东路25号电子六所北楼5楼</address>
+			<google_code>40.001312,116.352056</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jilin/jilin/jlwn_thumbnail.jpg'>
+			<province>吉林</province>
+			<title><![CDATA[吉林市维纳乐器有限公司]]></title>
+			<shop_hour>9:00-5:30</shop_hour>
+			<phone_number>0432-62482258</phone_number>
+			<address>吉林市解放东路96-10号（儿童公园斜对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jilin/changchun/001_s.jpg'>
+			<province>吉林</province>
+			<title><![CDATA[吉林省艺苑乐器经销有限公司]]></title>
+			<shop_hour>9:00-5:30			</shop_hour>
+			<phone_number>0431-87935559</phone_number>
+			<address>吉林省长春市同志街3199号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/sichuan/chengdu/cdazy_thumbnail.jpg'>
+			<province>四川</province>
+			<title><![CDATA[成都爱之音]]></title>
+			<shop_hour>9：00 - 18：00</shop_hour>
+			<phone_number>028-85433927</phone_number>
+			<address>成都市十二中街6号附6号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/sichuan/chengdu/cdyy_thumbnail.jpg'>
+			<province>四川</province>
+			<title><![CDATA[成都雅音]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-87017737    028-86731378</phone_number>
+			<address>成都市一环路南一段22号2楼1号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/sichuan/chengdu/cdyyqh_thumbnail.jpg'>
+			<province>四川</province>
+			<title><![CDATA[雅乐琴行]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-85054499</phone_number>
+			<address>成都市新生路5号（音乐学院正大门对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/sichuan/20120507001_thumb.jpg'>
+			<province>四川</province>
+			<title><![CDATA[成都雅音乐器城]]></title>
+			<shop_hour>9：00 - 18：00</shop_hour>
+			<phone_number>028-87017737</phone_number>
+			<address>成都市一环路南一段22号2楼1号</address>
+			<google_code>30.635099,104.079836</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/sichuan/20120426_thumb.gif'>
+			<province>四川</province>
+			<title><![CDATA[泸州市江阳区美声琴行]]></title>
+			<shop_hour>09：00--18：00(冬季)    08：30--18：00(夏季)</shop_hour>
+			<phone_number>0830-2363007</phone_number>
+			<address>泸州市江阳中路泸师附小教学综合楼负二层营业用房一号</address>
+			<google_code>28.881026,105.451874</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/anhui/hefei2/hflzdqh_thumbnail.jpg'>
+			<province>安徽</province>
+			<title><![CDATA[安徽乐之都琴行]]></title>
+			<shop_hour>9:00-18:30</shop_hour>
+			<phone_number>0551-62902904  18905517444</phone_number>
+			<address>安徽省合肥市南一环路合肥工业大学北门东100米</address>
+			<google_code>31.847932,117.297764</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/anhui/hefei/hfxhqh_thumbnail.jpg'>
+			<province>安徽</province>
+			<title><![CDATA[合肥新辉]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0551-62651618，18656152000，1391730839@qq.com</phone_number>
+			<address>安徽省合肥市庐阳区长江中路98号银泰百货中心5楼雅马哈专卖</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/jinan/jnby_thumbnail.jpg'>
+			<province>山东</province>
+			<title><![CDATA[济南历山新城乐器有限公司]]></title>
+			<shop_hour>9：00--19:00</shop_hour>
+			<phone_number>0531——88892221</phone_number>
+			<address>济南市天桥区天成路6号（汇鑫大厦102）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/linyi/lydlm_thumbnail.jpg'>
+			<province>山东</province>
+			<title><![CDATA[临沂哆来咪]]></title>
+			<shop_hour>8:00-18:00</shop_hour>
+			<phone_number>0539-2953761，0539-8116161</phone_number>
+			<address> 临沂市八一路79—1号实验中学斜对过</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/qingdao/qdth_thumbnail.jpg'>
+			<province>山东</province>
+			<title><![CDATA[青岛天合]]></title>
+			<shop_hour>8:00-18:00</shop_hour>
+			<phone_number>0532-85772812 85756552</phone_number>
+			<address>青岛市福州南路47号；/青岛市延安路142号-1</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/yantai/ytay_thumbnail.jpg'>
+			<province>山东</province>
+			<title><![CDATA[烟台爱乐琴行]]></title>
+			<shop_hour>8:00-18:00</shop_hour>
+			<phone_number>0535-6231536</phone_number>
+			<address>烟台市芝罘区解放路89号儿童影剧院2楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/zibo/zbhf_thumbnail.jpg'>
+			<province>山东</province>
+			<title><![CDATA[淄博宏福琴行有限公司]]></title>
+			<shop_hour>8:00-18:00</shop_hour>
+			<phone_number>0533-2280172</phone_number>
+			<address>淄博市张店区共青团西路71号园林大厦	</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/jinan01/thumbnail.jpg'>
+			<province>山东</province>
+			<title><![CDATA[济南博艺琴行有限公司]]></title>
+			<shop_hour>9：00--19:00</shop_hour>
+			<phone_number>0531——81319345</phone_number>
+			<address>济南市历下区文化东路62号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shandong/20120426_thumb.gif'>
+			<province>山东</province>
+			<title><![CDATA[滨州市滨城区中雅琴行]]></title>
+			<shop_hour>8：30 - 20：30</shop_hour>
+			<phone_number>0543-3223629</phone_number>
+			<address>滨州市黄河三路592号</address>
+			<google_code>37.374953,118.023972</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shanxi/201206206000.jpg'>
+			<province>山西</province>
+			<title><![CDATA[临汾市明星乐器商行]]></title>
+			<shop_hour>08：30 - 19：00</shop_hour>
+			<phone_number>0357-8930000</phone_number>
+			<address>临汾市尧都区迎春北街25号</address>
+			<google_code>36.08319,111.534648</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shanxi/taiyuan/20120424001_thumb.gif'>
+			<province>山西</province>
+			<title><![CDATA[太原市珠江琴行]]></title>
+			<shop_hour>08：30 - 19：00</shop_hour>
+			<phone_number>0351-4190002</phone_number>
+			<address>太原市解放南路52号少年宫旁边</address>
+			<google_code>37.848371,112.557846</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/zhuhai/thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[珠海新海贝琴行]]></title>
+			<shop_hour>9:30-20:30（周一至周五）<br/>8:45-20:30（周六至周日）</shop_hour>
+			<phone_number>2292368;2292922</phone_number>
+			<address>珠海市香洲柠溪路101号鸿泰溪城一楼商铺18-21号（柠溪巴士站旁）</address>
+			<google_code>22.259186,113.55033</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/chaozhou/czbyssd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[潮州宝乐琴行]]></title>
+			<shop_hour>9:00-22:00</shop_hour>
+			<phone_number>0768—2306655</phone_number>
+			<address>广东省潮州市湘桥区环城西路40号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/dongguan/dgjpssd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[东莞市晶品琴行]]></title>
+			<shop_hour>9：30-19：00</shop_hour>
+			<phone_number>0769-22484948、22496381</phone_number>
+			<address>东莞市莞城区八达路138号东豪广场一楼C3号铺</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/guangzhou/zythd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[卓越天河店]]></title>
+			<shop_hour>星期一至星期日  9:30AM--9:30PM</shop_hour>
+			<phone_number>020-81366632</phone_number>
+			<address>广州市天河路123号广州购书中心负一层</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/huizhou/dhdyssd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[惠州东艺时尚店]]></title>
+			<shop_hour>9：00- 21：00(周一至五);8：00- 21：00(周六、日)</shop_hour>
+			<phone_number>0752-2282840，2696028</phone_number>
+			<address>惠州市惠城区麦地麦兴路13号首层</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/shantou/sdsyssd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[汕头圣源琴行]]></title>
+			<shop_hour>9:00-22:00</shop_hour>
+			<phone_number>0754-86860688</phone_number>
+			<address>韩江路中泰花园108号（民生银行对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/shantou/stlhssd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[汕头蓝海琴行]]></title>
+			<shop_hour>09:00-22:00</shop_hour>
+			<phone_number>0754-88167489</phone_number>
+			<address>汕头市长平路97号蓝海琴行（会展中心正对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/shenzhen/szbwssd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[深圳保威时尚店]]></title>
+			<shop_hour>10:00-19:00</shop_hour>
+			<phone_number>0755-82796981</phone_number>
+			<address>深圳市福田区红荔西路园心苑首层4080号铺</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/shenzhen/szhmbassd_thumbnail.jpg'>
+			<province>广东</province>
+			<title><![CDATA[深圳和美宝安建安店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0755-29452626/ 29453939</phone_number>
+			<address>宝安区西乡街道建安二路166号河东骏丰园裙楼抓抓儿童城二楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/guangzhou/thumb.png'>
+			<province>广东</province>
+			<title><![CDATA[广州卓越琴行（时代国际大厦店）]]></title>
+			<shop_hour>10:30-18:00 （周一至四）; 10:00-18:30 （周五至日）</shop_hour>
+			<phone_number>020-81366632</phone_number>
+			<address>广州市东风西路187-189号时代国际大厦首层</address>
+			<google_code>23.133005,113.253793</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangdong/shenzhen/thumb.jpg'>
+			<province>广东</province>
+			<title><![CDATA[深圳和美琴行]]></title>
+			<shop_hour>10:00-22:00</shop_hour>
+			<phone_number>0755-83638876</phone_number>
+			<address>深圳市福田区上步南路1069号</address>
+			<google_code>22.538313,114.096103</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangxi/20120507_thumb.jpg'>
+			<province>广西</province>
+			<title><![CDATA[柳州市音乐之声琴行]]></title>
+			<shop_hour>周一至周五：10：00—21：00，周末：8：30—21：00</shop_hour>
+			<phone_number>0772-3605959</phone_number>
+			<address>柳州市桂中大道南端阳光100城市广场第16栋</address>
+			<google_code>24.323873,109.435167</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/guangxi/20120507002_thumb.jpg'>
+			<province>广西</province>
+			<title><![CDATA[南宁悦之声琴行（旗舰店）]]></title>
+			<shop_hour>9：00 - 21：30</shop_hour>
+			<phone_number>0771-2818231</phone_number>
+			<address>南宁市古城路7-7号</address>
+			<google_code>22.808062,108.336238</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jiangsu/nanjing/xinjiekou/thumbnail.jpg'>
+			<province>江苏</province>
+			<title><![CDATA[南京知音琴行（新街口店）]]></title>
+			<shop_hour>9:30 - 18:00</shop_hour>
+			<phone_number>025- 84600348</phone_number>
+			<address>江苏省南京市中山南路224号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jiangsu/nanjing/thumb.png'>
+			<province>江苏</province>
+			<title><![CDATA[南京知音琴行（奥体店）]]></title>
+			<shop_hour>10：00 - 17：00</shop_hour>
+			<phone_number>025- 87708399</phone_number>
+			<address>南京市建邺区庐山路158号嘉业国际购物广场B1</address>
+			<google_code>31.999096,118.72882</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jiangsu/nantong/nantong1_thumb.gif'>
+			<province>江苏</province>
+			<title><![CDATA[南通明星琴行]]></title>
+			<shop_hour>08：30 - 18：00</shop_hour>
+			<phone_number>0513-85150098</phone_number>
+			<address>南通市环城东路88号晏园一号楼</address>
+			<google_code>32.018865,120.869281</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jiangsu/suzhou/thumb.jpg'>
+			<province>江苏</province>
+			<title><![CDATA[苏州飞音琴行（干将店）]]></title>
+			<shop_hour>08：00 - 20：00</shop_hour>
+			<phone_number>0512-68660661</phone_number>
+			<address>苏州市金阊区干将西路1077号</address>
+			<google_code>31.302489,120.587885</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/jiangsu/xuzhou/20120425_thumb.gif'>
+			<province>江苏</province>
+			<title><![CDATA[徐州琴海乐器商行]]></title>
+			<shop_hour>09：00 - 18：00 (周一至周五)    08：30 - 18：00(周末)</shop_hour>
+			<phone_number>0516-83757900</phone_number>
+			<address>徐州市云龙区建国东路82号</address>
+			<google_code>34.258444,117.197806</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hebei/20120416thumb.jpg'>
+			<province>河北</province>
+			<title><![CDATA[邯郸市学步琴行]]></title>
+			<shop_hour>08：00 - 19：00</shop_hour>
+			<phone_number>0310-3086609</phone_number>
+			<address>邯郸市邯山区和平路321同仁花园1-1-1号</address>
+			<google_code>36.601822,114.502978</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/henan/anyang/aydlm_thumbnail.jpg'>
+			<province>河南</province>
+			<title><![CDATA[安阳哆来咪]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address></address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/henan/zhengzhou/001_s.jpg'>
+			<province>河南</province>
+			<title><![CDATA[郑州丽声琴行]]></title>
+			<shop_hour>夏季08:30-20:00  冬季 08:45-19:00</shop_hour>
+			<phone_number>0371-66240318</phone_number>
+			<address>总店：郑州市管城区西大街84号（西大街与南顺城街交叉口） 金鼎华府一楼 文化路店：郑州市金水区文化路2号 中州索克电影院旁</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/hangzhou/hzxsj_thumbnail.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[杭州新世纪]]></title>
+			<shop_hour>8：30---20：30</shop_hour>
+			<phone_number>0571-82654118/ 82654918</phone_number>
+			<address>杭州市萧山区市心南路417号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/hangzhou/zjzm_thumbnail.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[杭州天目琴行琴行]]></title>
+			<shop_hour>9：00-20：30</shop_hour>
+			<phone_number>0571-86572602</phone_number>
+			<address>浙江省杭州市西湖区学院路180号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/ningbo/cxzy_thumbnail.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[慈溪市知音琴社]]></title>
+			<shop_hour>08:30—20:30</shop_hour>
+			<phone_number>0574-63102358</phone_number>
+			<address>慈溪市浒山街道金一路518号（虞波广场慈吉幼儿园对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/shaoxin/szyy_thumbnail.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[嵊州艺音琴行]]></title>
+			<shop_hour>9：00-20：30</shop_hour>
+			<phone_number>0575-88065812，83027876</phone_number>
+			<address>绍兴市解放南路金时代广场1129-1132号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/shaoxin/zjyh_thumbnail.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[诸暨艺海琴行]]></title>
+			<shop_hour>9:00-20:00</shop_hour>
+			<phone_number>0575 --  87373208</phone_number>
+			<address>浙江诸暨市东二路18号新世纪花园北大门旁</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/jinhua/IMG_1477_thumb.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[金华市婺城区山叶琴行]]></title>
+			<shop_hour>08：00 - 20：30</shop_hour>
+			<phone_number>0579-82321070, 82384868</phone_number>
+			<address>金华市八一北街499号</address>
+			<google_code>29.107636,119.651798</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/zhejiang/hangzhou/thumb.jpg'>
+			<province>浙江</province>
+			<title><![CDATA[浙江中盟琴行（雅马哈专卖店）]]></title>
+			<shop_hour>09：00 - 20：30</shop_hour>
+			<phone_number>0571-86572602</phone_number>
+			<address>杭州市西湖区学院路180号</address>
+			<google_code>30.28356,120.129667</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hubei/xiangfan/hbxfayqh_thumbnail.jpg'>
+			<province>湖北</province>
+			<title><![CDATA[襄樊爱乐]]></title>
+			<shop_hour>8：30-20:00</shop_hour>
+			<phone_number>0710-3424199/3012312</phone_number>
+			<address>湖北省襄阳市大庆西路115号（烟厂大门斜对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hubei/jingzhou/jzdqh_thumbnail.jpg'>
+			<province>湖北</province>
+			<title><![CDATA[荆州大琴行]]></title>
+			<shop_hour>上午09:00---晚上20:00</shop_hour>
+			<phone_number>0716-8236700</phone_number>
+			<address>湖北省荆州市沙市区文化宫路17-5号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hubei/wuhan/002_s.jpg'>
+			<province>湖北</province>
+			<title><![CDATA[武汉银可可琴行]]></title>
+			<shop_hour>08：30---17：30</shop_hour>
+			<phone_number>027-88856586</phone_number>
+			<address>武汉市武昌区彭刘杨路228号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hubei/20120426001_thumb.gif'>
+			<province>湖北</province>
+			<title><![CDATA[宜昌市银河琴行]]></title>
+			<shop_hour>09：00 - 20：00</shop_hour>
+			<phone_number>0717-6233999</phone_number>
+			<address>宜昌市东山大道142号</address>
+			<google_code>30.693067,111.300627</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hunan/changde/cdjy_thumbnail.jpg'>
+			<province>湖南</province>
+			<title><![CDATA[常德金友]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0736-7237812 13307360998</phone_number>
+			<address>湖南省常德市人民中路1755号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hunan/changsha/cslg_thumbnail.jpg'>
+			<province>湖南</province>
+			<title><![CDATA[长沙蓝光]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0731-84421467  84454971</phone_number>
+			<address>长沙市蔡锷中路28号（新怡园南行100米）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/hunan/huaihua/hhjg_thumbnail.jpg'>
+			<province>湖南</province>
+			<title><![CDATA[怀化吉光]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0745-2273606 13607412932</phone_number>
+			<address>湖南省怀化市舞水路94号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/gansu/tianshui/tszg_thumbnail.jpg'>
+			<province>甘肃</province>
+			<title><![CDATA[天水至高琴行]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0938-8218446 13893803938 0938-6812876 高庆光</phone_number>
+			<address>甘肃省天水市建设路42号会计大厦二楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/fujian/fuzhou/thumb.jpg'>
+			<province>福建</province>
+			<title><![CDATA[福州金麦克琴行]]></title>
+			<shop_hour>8：30-20：00</shop_hour>
+			<phone_number>0591-83370678</phone_number>
+			<address>福州市斗东路 5 号福州人民会堂一楼</address>
+			<google_code>26.074188,119.304604</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/fujian/quanzhou/thumb.jpg'>
+			<province>福建</province>
+			<title><![CDATA[泉州金丰琴行]]></title>
+			<shop_hour>9：00-22：00</shop_hour>
+			<phone_number>0595-22288191</phone_number>
+			<address>泉州市九一街贤銮大厦二楼（南风文化城）</address>
+			<google_code>24.904535,118.598811</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/fujian/xiamen/thumb.jpg'>
+			<province>福建</province>
+			<title><![CDATA[厦门星星河琴行]]></title>
+			<shop_hour>9：00-21：00 </shop_hour>
+			<phone_number>0592-5854773</phone_number>
+			<address>厦门市思明区湖滨南路304号</address>
+			<google_code>24.474264,118.112469</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/liaoning1/dalian/dlfyzmd_thumbnail.jpg'>
+			<province>辽宁</province>
+			<title><![CDATA[大连福音雅马哈专卖店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>大连市西岗区中山路236号福音琴行总店二楼，雅马哈专卖店（沃尔玛东门对面）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/liaoning1/shenyang/thumbnail.jpg'>
+			<province>辽宁</province>
+			<title><![CDATA[沈阳旺族琴行有限公司]]></title>
+			<shop_hour>8:30--17:30</shop_hour>
+			<phone_number>024-23892766</phone_number>
+			<address>沈阳市沈河区青年大街165-9号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/liaoning1/shenyang/sywztxd_thumbnail.jpg'>
+			<province>辽宁</province>
+			<title><![CDATA[沈阳旺族铁西店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>024-85402500</phone_number>
+			<address>沈阳市铁西区兴华南街48号303</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/sanxi/20120419001mentou.jpg'>
+			<province>陕西</province>
+			<title><![CDATA[西安雅娜琴行（南稍门分店）]]></title>
+			<shop_hour>08：30 - 19：00</shop_hour>
+			<phone_number>029-84248687    029-87885135</phone_number>
+			<address>西安市友谊东路436号（南稍门什字向东100米路南）</address>
+			<google_code>34.24116,108.94988</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/shanxi/20120528_thumb.jpg'>
+			<province>陕西</province>
+			<title><![CDATA[榆林市百灵乐器城]]></title>
+			<shop_hour>08：00 - 21：00</shop_hour>
+			<phone_number>0912-3441866</phone_number>
+			<address>榆阳区榆阳中路8号（东方商厦）</address>
+			<google_code>38.281716,109.754585</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/heilongjiang/mudanjiang/mdjymh_thumbnail.jpg'>
+			<province>黑龙江</province>
+			<title><![CDATA[牡丹江雅马哈]]></title>
+			<shop_hour>8:30-17:00</shop_hour>
+			<phone_number>0453-6296686</phone_number>
+			<address>牡丹江市西安区解放路七星街南20米</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/heilongjiang/jiamusi/jmsjj_thumbnail.jpg'>
+			<province>黑龙江</province>
+			<title><![CDATA[佳木斯佳佳琴行]]></title>
+			<shop_hour>8:00 – 17:00</shop_hour>
+			<phone_number>0454-8686543</phone_number>
+			<address>佳木斯市西林路198号，久昌七号店（原秋林公司）西200米路北</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/pianos/shop_info/list/heilongjiang/haerbin/002_s.jpg'>
+			<province>黑龙江</province>
+			<title><![CDATA[哈尔滨市新瑞海琴行]]></title>
+			<shop_hour>08:30---17:00</shop_hour>
+			<phone_number>0451-84617366</phone_number>
+			<address>道里区地段街214号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+	</piano_shops>
+	<av_shops>
+
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>a_level.html</category>
+			<title><![CDATA[上海音诚南桥家饰家专卖店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>奉贤南桥家饰家广场147号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>s_level.html</category>
+			<title><![CDATA[上海嘉定罗森广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海市嘉定区城中路138号罗森广场5楼541</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[上海东体育会路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海市东体育会路1051号606室</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>a_level.html</category>
+			<title><![CDATA[上海梅陇路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海市梅陇路255号三楼303室</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>s_level.html</category>
+			<title><![CDATA[上海荣欣大厦店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海市四川北路1851号荣欣大厦1601室</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>s_level.html</category>
+			<title><![CDATA[上海绿地灯饰广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海市柳营路8号绿地灯饰广场D1118室</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁闵行店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海闵行区吴中路1075号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁浦东第一店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海浦东新区南泉北路569号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>上海</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁五角场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海杨浦区邯郸路585号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/Shanghai/shanghailibingmeiluochengdian.jpg'>
+			<province>上海</province>
+			<category>s_level.html</category>
+			<title><![CDATA[上海力冰美罗城店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海徐汇区美罗城3楼3-1</address>
+			<google_code>31.160468,121.56314</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/Shanghai/HongXingMeiKaiLong.jpg'>
+			<province>上海</province>
+			<category>s_level.html</category>
+			<title><![CDATA[浦东红星美凯龙店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>上海市浦东新区沪南路2178号</address>
+			<google_code>31.160468,121.56314</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/shanghai2/shanghai-m.jpg'>
+			<province>上海</province>
+			<category>flagship.html</category>
+			<title><![CDATA[上海港汇旗舰店]]></title>
+			<shop_hour>10:00 - 22:00</shop_hour>
+			<phone_number>（021）64479126</phone_number>
+			<address>上海市虹桥路1号港汇广场6楼金数码世界</address>
+			<google_code>31.194558,121.437528</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/shanghai2/shanghai2-m.jpg'>
+			<province>上海</province>
+			<category>flagship.html</category>
+			<title><![CDATA[上海侨辉旗舰店]]></title>
+			<shop_hour>09:00 - 21:00</shop_hour>
+			<phone_number>（021）65523692</phone_number>
+			<address>上海市曲阳路800号商务中心家电城三楼3310-3312馆</address>
+			<google_code>31.286457,121.492248</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/yunnan/kunmingsuosichuangbai.jpg'>
+			<province>云南</province>
+			<category>s_level.html</category>
+			<title><![CDATA[昆明佰腾数码店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>15398427503</phone_number>
+			<address>昆明市圆通北路121号佰腾数码广场A座2F-212</address>
+			<google_code>25.056973,102.706453</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/YunNan/KunMing/ZhengDaDianZiCheng.jpg'>
+			<province>云南</province>
+			<category>s_level.html</category>
+			<title><![CDATA[昆明正大紫都城店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>昆明市二环西路正大紫都城南-4-30</address>
+			<google_code>25.016707,102.705345</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/neimenggu.html/TLSkeerqinbaihuodaloudian-s.jpg'>
+			<province>内蒙古</province>
+			<category>s_level.html</category>
+			<title><![CDATA[通辽市科尔沁百货大楼店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>通辽市科尔沁区明仁大街百货大楼六楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>内蒙古</province>
+			<category>s_level.html</category>
+			<title><![CDATA[青山九星东鸽店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>内蒙古包头市青山区富强中路九星国际广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>内蒙古</province>
+			<category>s_level.html</category>
+			<title><![CDATA[昆区国美达丽雅店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>包头市昆区钢铁大街达丽雅商城</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>内蒙古</province>
+			<category>s_level.html</category>
+			<title><![CDATA[呼和浩特市润宇家具城东鸽电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>呼和浩特市兴安路润宇家具城</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>内蒙古</province>
+			<category>s_level.html</category>
+			<title><![CDATA[呼和浩特市鼓楼东鸽电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>呼和浩特市新城区鼓楼立交桥东鸽电器城</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/neimenggu.html/HHHTzhongshanluguomeidianqidian-s.jpg'>
+			<province>内蒙古</province>
+			<category>s_level.html</category>
+			<title><![CDATA[中山路国美电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>呼和浩特市回居区中山西路国美电器</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/beijing.html/bjjhhz.html/new.html/bjyhhz-1-1.jpg'>
+			<province>北京</province>
+			<category>flagship.html</category>
+			<title><![CDATA[北京怡和影音旗舰店]]></title>
+			<shop_hour> 9:00 - 20:00 </shop_hour>
+			<phone_number>010-82669392,18510380512</phone_number>
+			<address>北京市朝阳区十里河101号（近星河双语学校北侧）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/beijing.html/SUNINGdianqiliyuandian-s.jpg'>
+			<province>北京</province>
+			<category>s_level.html</category>
+			<title><![CDATA[苏宁电器梨园店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>北京市通州区云景东路8号时尚街区东区16-17号楼</address>
+			<google_code>39.8823,116.667826</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/beijing.html/DAZHONGdianqimadianqiaodian-s.jpg'>
+			<province>北京</province>
+			<category>s_level.html</category>
+			<title><![CDATA[大中电器马甸桥店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>北京市海淀区北三环中路27号英斯泰克大厦</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/beijing.html/shijiazhuoyueyingyinshejishidian-s.jpg'>
+			<province>北京</province>
+			<category>s_level.html</category>
+			<title><![CDATA[世佳卓越影音设计室店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>北京市海淀区蓝靛厂金源时代购物中心居然之家装饰材料馆2-2061</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/dealers/stores/audio-visual/list/beijing/FlagShop/BeijingzhongguancunInnerPage.jpg'>
+			<province>北京</province>
+			<category>flagship.html</category>
+			<title><![CDATA[北京中关村海龙大厦旗舰店]]></title>
+			<shop_hour>09:00 - 18:00</shop_hour>
+			<phone_number>010-88577272</phone_number>
+			<address>北京市海淀区中关村大街1号海龙大厦5001商铺</address>
+			<google_code>39.983538,116.315797</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/dealers/stores/audio-visual/list/jilin/changchun/changchunouyamaichangdian.jpg'>
+			<province>吉林</province>
+			<category>s_level.html</category>
+			<title><![CDATA[长春欧亚卖场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>长春市开运街5178号欧亚卖场</address>
+			<google_code>43.834103,125.233782</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/ChengDu.html/CDguomeigaoshengqiaoDIAN.jpg'>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美高升桥店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>成都市武侯区高升桥路国美电器</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>武侯区盛和一路88号国美电器4楼(凯丹广场对面)</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁电器万年场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84303199</phone_number>
+			<address>成都市双林路2号瑞华大厦</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁电器蜀汉店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>成都市金牛区蜀汉路347号西城天下二楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁电器苏宁广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84303199</phone_number>
+			<address>成都市天府大道北段8号盛和一路苏宁广场东南角1-4楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[大成电器市场七家巷店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-86615969</phone_number>
+			<address>成都市锦江区七家巷恒通电器</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁电器建设路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>成都市建设路二号阳光新生活广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁电器双楠店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>武侯二环路西一段置信逸都城(伊藤洋华堂旁)</address>
+			<google_code>30.643072,104.024556</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>a_level.html</category>
+			<title><![CDATA[苏宁电器高升桥店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>成都市高升桥东路2号高盛中心</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[王府井总府路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>成都总府路15号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>四川</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[王府井科华路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>028-84313189</phone_number>
+			<address>成都武侯区科华中路9号(近二环路南一段)</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/SiChuanSheng/ChengDuCity/JinJiangQuJingJingFlagStore/small.jpg'>
+			<province>四川</province>
+			<category>flagship.html</category>
+			<title><![CDATA[成都锦江区晶晶旗舰店]]></title>
+			<shop_hour> 9:00 - 22:00 </shop_hour>
+			<phone_number>028-86750229</phone_number>
+			<address>成都市东玉龙街24号</address>
+			<google_code>30.664724,104.081075</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/liaoningsheng/dalianshi/dalianchangxingdian.jpg'>
+			<province>大连</province>
+			<category>s_level.html</category>
+			<title><![CDATA[大连长兴电子城店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>大连市中山区青泥洼商业街大连商场家电专区</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>大连</province>
+			<category>b_level.html</category>
+			<title><![CDATA[旅顺供销大厦店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0411-84522878</phone_number>
+			<address>大连旅顺站前供销大厦</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/henan/baidaDTAtaixiang.jpg'>
+			<province>大连</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[大连百盛DTA&台响专柜]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0411-39734367</phone_number>
+			<address>大连市沙河口区西安路百盛商场电器专区</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>大连</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[大连交电公司店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0411-84522878</phone_number>
+			<address>大连市中山区青泥洼商业街交电公司</address>
+			<google_code>38.91632,121.635639</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/liaoning/dalianshangchangDTA.jpg'>
+			<province>大连</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[大连商场DTA&台响专柜]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0411-39734367</phone_number>
+			<address>大连市中山区青泥洼商业街大连商场家电专区</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers_stores_audio-visual/TianJin/baihaodianziguflagstore/1.jpg'>
+			<province>天津</province>
+			<category>flagship.html</category>
+			<title><![CDATA[天津百豪电子谷旗舰店]]></title>
+			<shop_hour>09:00 - 17:00</shop_hour>
+			<phone_number>13820269536</phone_number>
+			<address>天津市南开区白堤路42号百豪电子谷2楼A-214</address>
+			<google_code>39.12531,117.162731</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>安徽</province>
+			<category>s_level.html</category>
+			<title><![CDATA[芜湖新百大厦店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>安徽省芜湖市镜湖区中山路1号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>山东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[烟台大岛音响环山路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>山东省烟台市环山路付14-3号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/shandong.html/ZBqisaikejishichangdian-s.jpg'>
+			<province>山东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[齐赛科技市场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>山东省淄博市张店区西六路齐赛科技市场一楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/shandong.html/QDbainaohuidian-s.jpg'>
+			<province>山东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[青岛百脑汇店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>山东省青岛市辽宁路147号百脑汇4B30</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>山西</province>
+			<category>a_level.html</category>
+			<title><![CDATA[太原天齐国美东方家园店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0351-7255513</phone_number>
+			<address>太原市长治路东方家园165号</address>
+			<google_code>37.816405,112.561799</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>山西</province>
+			<category>a_level.html</category>
+			<title><![CDATA[太原天齐国美长风店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0351-7255513</phone_number>
+			<address>太原市建设南路699号</address>
+			<google_code>37.839261,112.586384</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>山西</province>
+			<category>a_level.html</category>
+			<title><![CDATA[太原天齐国美天龙店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0351-7255513</phone_number>
+			<address>太原市迎泽大街天龙大厦4层</address>
+			<google_code>37.859102,112.551779</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>山西</province>
+			<category>a_level.html</category>
+			<title><![CDATA[太原新建路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0351-7822409</phone_number>
+			<address>太原市新建南路89号</address>
+			<google_code>37.846394,112.551777</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/sanxi/taiyuan/thumb.jpg'>
+			<province>山西</province>
+			<category>s_level.html</category>
+			<title><![CDATA[太原天齐长治路店]]></title>
+			<shop_hour>09:00 - 21:00</shop_hour>
+			<phone_number>0351-7255513</phone_number>
+			<address>太原市长治路172号新领地商铺C商-1013</address>
+			<google_code>37.814097,112.56188</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/taiyuan/taiyuanqijiandian-S.jpg'>
+			<province>山西</province>
+			<category>flagship.html</category>
+			<title><![CDATA[太原体育南路旗舰店]]></title>
+			<shop_hour>09:00 - 18:00</shop_hour>
+			<phone_number>0315-7828908</phone_number>
+			<address>太原市小店区体育南路坞城世纪花苑D座底商</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[广百中怡店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>广州市天河路200号广百中怡百货商场7楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/GuangDong/GuangZhouYouYiShangChangStore.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[广州友谊商场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>广州市环市东路371号世贸大厦友谊商场5楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/guangzhou/guangzhou-m.jpg'>
+			<province>广东</province>
+			<category>flagship.html</category>
+			<title><![CDATA[广百北京路旗舰店]]></title>
+			<shop_hour> 9:00 - 22:00 </shop_hour>
+			<phone_number></phone_number>
+			<address>广州市北京路广州百货商场8楼音响部</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[东莞先雅电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市城区江贝南城路49-53号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/guangzhou/MZjialeyinxiangdian-s.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[梅州家乐音响店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>梅州市梅江区梅江四路</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/shenzhen/SZyayinxuanyinxiangdian-s.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[深圳雅音轩音响器材店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>深圳市龙岗区中心城吉祥中路120号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[深圳华声音响店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0755-26050900</phone_number>
+			<address>深圳市南山区南海大道新保辉大厦14L</address>
+			<google_code>22.506036,113.923703</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/ZCshenghuadianqidian-s.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[增城声华电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>增城市荔城街西园路50号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guangdong/dongwanshishangdiyi.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[东莞时尚第一国际店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市城市中心区第一国际购物中心</address>
+			<google_code>23.009241,113.755191</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guangdong/changandiwangdian.jpg'>
+			<province>广东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[东莞时尚长安地王店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市长安镇青街商业广场三区</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guangdong/humendian.jpg'>
+			<province>广东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[东莞时尚虎门店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市东城中路君豪商业中心一、二楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guangdong/dongchengzhongludian.jpg'>
+			<province>广东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[东莞时尚东城中路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市虎门镇人民路167号</address>
+			<google_code>22.751462,113.679832</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guangdong/dongwanshishangnanchenghongfu.jpg'>
+			<province>广东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[东莞时尚南城鸿福店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市南城区莞太路63号鸿福广场</address>
+			<google_code>22.878706,113.841705</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/dongguan/thumb.jpg'>
+			<province>广东</province>
+			<category>flagship.html</category>
+			<title><![CDATA[东莞时尚莞城旗舰店]]></title>
+			<shop_hour>10:00 - 20:30</shop_hour>
+			<phone_number>（0769）22342220</phone_number>
+			<address>东莞市莞城区东兴路170号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/guangzhou/guangzhouyinwanghaiyindian-s.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[广州盈旺海印店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>广州市越秀区东湖西路56-58号首层海印电器总汇D17铺</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/guangzhou/GZyinwangjiangmendian-s.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[广州盈旺江门店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>江门市东华一路新华电脑城一楼112号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/guangzhou/jindaflagshipstore2013/JindaImage-1-M.jpg'>
+			<province>广东</province>
+			<category>flagship.html</category>
+			<title><![CDATA[广州佰影数码科技旗舰店]]></title>
+			<shop_hour> 9:00 - 22:00 </shop_hour>
+			<phone_number></phone_number>
+			<address>广州市越秀区大沙头路21号海印广场4楼D017铺</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/ZJyouyihaibindian-s.jpg'>
+			<province>广东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[湛江友宜音响海滨店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>湛江市海滨大道南70号兴发园首层B-3之二号商铺</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/shenzhen/thumb.jpg'>
+			<province>广东</province>
+			<category>flagship.html</category>
+			<title><![CDATA[深圳中心城旗舰店]]></title>
+			<shop_hour>09:00 - 22:00</shop_hour>
+			<phone_number>（0755）82801311,82801312 </phone_number>
+			<address>深圳市福华一路中心城负一楼</address>
+			<google_code>22.536108,114.059773</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/shenzhen/SZsuibaobaihuojingtiandian-s.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[岁宝百货景田店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>深圳市福田区新洲路岁宝商场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/store/AVStore/GuangDong/ShenZhenWanShangFlagStore/small.jpg'>
+			<province>广东</province>
+			<category>flagship.html</category>
+			<title><![CDATA[深圳万商旗舰店]]></title>
+			<shop_hour>09:00 - 22:00</shop_hour>
+			<phone_number>0755-83652799</phone_number>
+			<address>深圳市华强北路万商电器4楼</address>
+			<google_code>22.548359,114.086841</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/shantou/shantouchenghaijinyi.jpg'>
+			<province>广东</province>
+			<category>a_level.html</category>
+			<title><![CDATA[汕头澄海锦艺音响店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>汕头市澄海区文冠路雅逸园三栋5-6号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/shantou/thumbnail.jpg'>
+			<province>广东</province>
+			<category>flagship.html</category>
+			<title><![CDATA[汕头美丰音响旗舰店]]></title>
+			<shop_hour>9:00 - 22:00</shop_hour>
+			<phone_number>（0754）88832772</phone_number>
+			<address>汕头市珠江路46号创意大厦1层</address>
+			<google_code>23.35831,116.723838</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guangdong/changanshangmaodian.jpg'>
+			<province>广东</province>
+			<category>s_level.html</category>
+			<title><![CDATA[东莞时尚长安商贸店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>东莞市长安镇107国道高速路口旁</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/NJbaihuodalouchaoyangdian-s.jpg'>
+			<province>广西</province>
+			<category>a_level.html</category>
+			<title><![CDATA[南宁百货大楼朝阳店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南宁市朝阳路39号百货大楼负一楼国际视听广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/NJbaihuowuxiangdian-s.jpg'>
+			<province>广西</province>
+			<category>b_level.html</category>
+			<title><![CDATA[南宁百货五象店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南宁百货（五象广场）负一楼北区国际视听广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/NJhaoshengyinxiangchengdian-s.jpg'>
+			<province>广西</province>
+			<category>b_level.html</category>
+			<title><![CDATA[南宁浩声音响城店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南宁市人民路通银大厦二楼69号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/LZjubaodian-s.jpg'>
+			<province>广西</province>
+			<category>a_level.html</category>
+			<title><![CDATA[柳州聚宝店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>柳州市公园路79号聚宝大厦4楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/NJmengzhidaoshuijingchengdian-s.jpg'>
+			<province>广西</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[南宁梦之岛水晶城店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南宁市金湖路北段水晶城西侧负一楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/NJmengzhidaobaihuodian-s.jpg'>
+			<province>广西</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[南宁梦之岛百货店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南宁市民族大道49-1号梦之岛百货民族店6楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/Guangxi.html/NJhaoshengyinxiang4Sdian-s.jpg'>
+			<province>广西</province>
+			<category>b_level.html</category>
+			<title><![CDATA[南宁浩声音响4S店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南宁市民生路2-2-5号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>s_level.html</category>
+			<title><![CDATA[南京国美洪武路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南京市洪武路137号国美电器店</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>s_level.html</category>
+			<title><![CDATA[苏州人民商场专营店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>苏州市平江区北局路22号人民商场3楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[江阴步行街苏宁电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>江阴市澄江街道人民中路100号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>s_level.html</category>
+			<title><![CDATA[南京五星电器洪武路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南京市洪武路50号流行青年购物广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>s_level.html</category>
+			<title><![CDATA[徐州金地国美店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>徐州市中山北路6号金地商都大厦</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[盐城苏宁电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>盐城市建军中路59号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>s_level.html</category>
+			<title><![CDATA[扬州五星电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>扬州市广陵区文昌中路598号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[宜兴广汇南路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>宜兴市广汇南路50-2号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[南京音画全景影音电器中心店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南京市珠江路67号赛格数码城4楼音响区4B02</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[南京赛格数码广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南京市珠江路67号赛格数码广场4楼4B12 </address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[南京华海3C店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南京市珠江路435号华海3C广场4楼4F11</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>a_level.html</category>
+			<title><![CDATA[南京溧水区步行街店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>南京溧水大东门步行街步步高影音科技行</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>江苏</province>
+			<category>s_level.html</category>
+			<title><![CDATA[苏州红星美凯龙扬清路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>苏州市扬清路1号红星美凯龙一楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/henan.html/PDSzhongxinshangchengdian-s.jpg'>
+			<province>河南</province>
+			<category>a_level.html</category>
+			<title><![CDATA[平顶山中心商贸店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>河南省平顶山市中兴路北段西5号负一楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/henan/jianangui.jpg'>
+			<province>河南</province>
+			<category>a_level.html</category>
+			<title><![CDATA[迦南贵族音响家园店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>13639390000</phone_number>
+			<address>河南省濮阳市黄河路与长庆路交叉口东南角</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>河南</province>
+			<category>a_level.html</category>
+			<title><![CDATA[商丘旭丰音响]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>商丘市文化路与凯旋路交叉口向东50米路北</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>河南</province>
+			<category>a_level.html</category>
+			<title><![CDATA[新乡胖东来百货店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>河南省新乡市平原路与劳动路交叉口胖东来百货</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>河南</province>
+			<category>a_level.html</category>
+			<title><![CDATA[新乡胖东来生活广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>新乡市健康路与胜利路交叉口胖东来广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/zhenzhou/zhenzhou-m.jpg'>
+			<province>河南</province>
+			<category>flagship.html</category>
+			<title><![CDATA[郑州丹尼斯旗舰店]]></title>
+			<shop_hour>09:00 - 21:00</shop_hour>
+			<phone_number>（0371）60228101</phone_number>
+			<address>河南省郑州市郑东新区CBD商务内环路西半环丹尼斯百货三天地</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>s_level.html</category>
+			<title><![CDATA[诸暨竺罗东路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0575-87117160</phone_number>
+			<address>诸暨市竺罗东路735号</address>
+			<google_code>29.712336,120.249764</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[磐安宏昌家电店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>金华市磐安月山路9号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers_stores_audio-visual/ZheJiang/WenZhouXinTeng.jpg'>
+			<province>浙江</province>
+			<category>s_level.html</category>
+			<title><![CDATA[温州鑫腾家电店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0577-88728878</phone_number>
+			<address>温州市黄龙家电市场B幢88号</address>
+			<google_code>28.007811,120.626556</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[海宁富思电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0573-87419799</phone_number>
+			<address>海宁市长安青年路66号</address>
+			<google_code>30.452322,120.446225</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[杭州力信影音中心]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>杭州市萍水街新武林商业中心1184-1185号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[余杭珠琴家电店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>杭州市余杭镇禹航路928号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/zhejiang/chenzhouguoshangdian.jpg'>
+			<province>浙江</province>
+			<category>s_level.html</category>
+			<title><![CDATA[嵊州国商店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>嵊州市关河南路158号3楼</address>
+			<google_code>29.587007,120.821976</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[永康大世界店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>永康市九岭东路大世界家电</address>
+			<google_code>28.894974,120.034433</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[嘉兴宝华音响店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>嘉兴市禾兴北路嘉禾北京城J303</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/zhejiang/fuyangshi/fuyangbaishun.jpg'>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[富阳百顺电器商行店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>13606514817</phone_number>
+			<address>浙江省富阳市金桥南路858-2-1</address>
+			<google_code>30.044185,119.934628</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[杭州百合家电店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0571-86983413</phone_number>
+			<address>杭州市秋涛北路省家电市场1楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[义乌金飞电器店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>义乌市滨王路101号家电市场1号</address>
+			<google_code>29.315589,120.090983</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[余杭伟鹏下沙店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>0571-86926096</phone_number>
+			<address>下沙高沙商业街都尚超市3楼</address>
+			<google_code>30.384146,120.391865</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/zhejiang/linpingweipengdian.jpg'>
+			<province>浙江</province>
+			<category>s_level.html</category>
+			<title><![CDATA[临平伟鹏店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>13456833280</phone_number>
+			<address>杭州市临平区三号桥伟鹏家电</address>
+			<google_code>30.312986,120.340241</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/zhejiang/baihuodongmendian.jpg'>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[宁波银泰东门店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>宁波市中山东路238号银泰百货东门店</address>
+			<google_code>29.870345,121.554966</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/zhejiang/hangzhou/thumb.jpg'>
+			<province>浙江</province>
+			<category>flagship.html</category>
+			<title><![CDATA[杭州新武林商业中心旗舰店]]></title>
+			<shop_hour>08:40 - 17:00</shop_hour>
+			<phone_number>0571-87380821</phone_number>
+			<address>杭州市丰潭路388号（萍水路口）</address>
+			<google_code>30.29786,120.105874</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[台州华林家电中都店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>台州路桥电子数码成中都广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>a_level.html</category>
+			<title><![CDATA[丽水硅谷科技影音商行店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>丽水市中东街211号</address>
+			<google_code>28.449237,119.922822</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>浙江</province>
+			<category>b_level.html</category>
+			<title><![CDATA[磐安洪昌家电店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>13738988922</phone_number>
+			<address>金华市磐安县月山路9号</address>
+			<google_code>29.046683,120.44222</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/wuhan1/WHgongmaojiadianxinhuaxialudian-s.jpg'>
+			<province>湖北</province>
+			<category>a_level.html</category>
+			<title><![CDATA[武汉工贸家电新华下路店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>武汉市唐家墩路133号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/guangdong/wuhan1/WHgongmaojiadianguanggudian-s.jpg'>
+			<province>湖北</province>
+			<category>a_level.html</category>
+			<title><![CDATA[武汉工贸家电光谷店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>武汉市洪山区光谷步行街B1楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers_stores_audio-visual/HuBei/WuHanGongMaoHangKongLu.jpg'>
+			<province>湖北</province>
+			<category>s_level.html</category>
+			<title><![CDATA[武汉工贸航空路购物广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>武汉市江汉区万松园特一号工贸家电4楼</address>
+			<google_code>35.86166,104.195397</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/hubei/wuhan/thumb.jpg'>
+			<province>湖北</province>
+			<category>flagship.html</category>
+			<title><![CDATA[武汉保城路旗舰店]]></title>
+			<shop_hour>09:00 - 21:00</shop_hour>
+			<phone_number>027-82803508</phone_number>
+			<address>武汉市江岸区江汉一路59号</address>
+			<google_code>30.582368,114.29082</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/fujian/xiamenGMjimeixiangfaguangchangdian-s.jpg'>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美集美祥发广场店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市杏林东路11号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[永乐同安店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市城西路1号金安大厦1-2层</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[永乐海沧阿罗海店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市滨湖路大摩阿罗海城市广场A301 </address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美翔安马巷店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市翔安海峡商贸广场二楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/fujian/xiamenGMlongmendian-s.jpg'>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[厦门国美龙门店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市仙岳路678号龙门天下一至三楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/fujian/xiamendarunfadian-s.jpg'>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[厦门大润发店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市思明区体育路95号文化艺术中心工人体育馆负一层</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/fujian/xiamenYONGLEmingzhudian-s.jpg'>
+			<province>福建省</province>
+			<category>s_level.html</category>
+			<title><![CDATA[永乐明珠店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市嘉禾路211号之105#东方明珠购物广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[永乐海沧店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市沧虹路154号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>福建省</province>
+			<category>a_level.html</category>
+			<title><![CDATA[永乐杏林店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>厦门市杏东路5号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/local/guizhou/lantaiyanggaoqingtiyan.jpg'>
+			<province>贵州</province>
+			<category>b_level.html</category>
+			<title><![CDATA[贵阳蓝太阳高清体验店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number>13765060266</phone_number>
+			<address>贵阳市中山西路怛峰步行街负二楼苏宁电器大门入口</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>辽宁</province>
+			<category>a_level.html</category>
+			<title><![CDATA[佳丽音响大西店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>沈阳市沈河区望云寺路15-27号</address>
+			<google_code>41.798102,123.440578</google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>辽宁</province>
+			<category>a_level.html</category>
+			<title><![CDATA[长兴电子城店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>大连市沙河口区西安路长兴电子城2楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器杨家坪店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>杨家坪兴胜路32号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器石桥铺店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>九龙坡区石桥铺渝州路29号华宇名都内</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[重百电器观音桥店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市江北区观音桥步行街重百电器</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器红旗河沟店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市江北区红锦大道1号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[重百电器渝北店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>义学路2号1-1-1号</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[重百电器涪陵店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市涪陵区南门山转盘重百涪陵商场5楼 </address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[重百电器永川店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市永川市西大街渝西广场锦华楼 </address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器李家沱店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>李家沱正街160号一城百年广场负一层</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器沙坪坝店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>小新街99号立海大厦商业裙楼</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[国美电器观音桥店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市江北区观音桥黄金海岸</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[万州家用高级音响专门店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆万州区白岩路末端节点小广场</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>a_level.html</category>
+			<title><![CDATA[达州通用家电店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>四川达州市通川区文华路通用家电</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[重庆商社解放碑店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市渝中区邹容路商社电器（扬子岛酒店旁边）</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image=''>
+			<province>重庆</province>
+			<category>micro_dta_corner.html</category>
+			<title><![CDATA[世纪新都店]]></title>
+			<shop_hour></shop_hour>
+			<phone_number></phone_number>
+			<address>重庆市江北区观音桥步行街新世纪商场内</address>
+			<google_code></google_code>
+		</shop>
+		
+	
+		
+		
+	
+		<shop thumb_image='/images/dealers/stores/audio-visual/list/chongqing/chongqing/20111119001-thumb.jpg'>
+			<province>重庆</province>
+			<category>flagship.html</category>
+			<title><![CDATA[重庆晓利音响旗舰店]]></title>
+			<shop_hour>09:00 - 22:00</shop_hour>
+			<phone_number>0-13370360606</phone_number>
+			<address>重庆市渝中区新华路欧鹏电子商务大厦310</address>
+			<google_code>29.557476,106.58113</google_code>
+		</shop>
+		
+	
+	</av_shops>
+</shops>

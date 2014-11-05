@@ -1,0 +1,214 @@
+1. http://localhost/mobilesite/product_search.html?path=%2Fmobile%2Fproducts%2Fmusical-instruments%2Fpianos%2Fpianos_series.xml&name=%E9%92%A2%E7%90%B4
+
+2. http://localhost/mobilesite/product_search_result.html?name=%E9%92%A2%E7%90%B4&series_name=%E5%B0%8F%E5%9E%8B%E7%B3%BB%E5%88%97&back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fpianos%252Fpianos_series.xml%26name%3D%25E9%2592%25A2%25E7%2590%25B4&pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fpianos%2Fgrandpianos%2Fsmallsize_series_products.xml%22%5D&conditions=%7B%22order%22%3A%22asc%22%7D  # 点 "小型系列"
+
+../mobilesite/js/product_search_result.js:29:prepare = function()
+function ()
+{
+    ExpandViewGroup.initialize();
+
+    params = decodeParams(window.location.href);
+    if(!validateParams(params,keys))
+    {
+        window.location.href = "index.html"
+        return;
+    }
+
+    if(params.conditions != null)
+        params.conditions = JSON.parse(params["conditions"]);
+    if(params.pathes != null)
+        params.pathes = JSON.parse(params["pathes"]);
+
+    priceRange = params["conditions"]["price"];
+    delete params["conditions"]["price"];
+
+    if(priceRange != null)
+    {
+        var range = priceRange.split(',');
+        range[0] = range[0].length <= 0 ? 0 : parseFloat(range[0]);
+        range[1] = range[1].length <= 0 ? Infinity : parseFloat(range[1]);
+        priceRange = range;
+    }
+
+    defaultOrder = params["conditions"]["order"];
+    delete params["conditions"]["order"];
+
+    if(params["name"] == "家庭音响")
+    {
+        $("#order_asc,#order_desc").hide();
+    }
+
+    $("title").text(params["name"] + TITLE_SUFFIX);
+    $(".header_title").text(params["name"]);
+    $(".back_link").attr("href",params["back_url"]);
+    $(".title strong").text(params["series_name"]);
+
+    $("#detail_view h2 span").text(params["name"]);
+    $("#detail_view dd:eq(1) span").text(params["series_name"]);
+    var $btnReturn = $("#detail_view h2 a");
+    $btnReturn.click(function()
+    {
+        switchToList();
+        return false;
+    });
+
+    allPathes = [];
+    $.each(params["pathes"],function(i,path)
+    {
+        var objPath = {"path":path,"data":null};
+        allPathes.push(objPath);
+        featureSearch(objPath);
+    });
+}
+
+<------------------  featureSearch(objPath)  ---------------------------
+function (objPath)
+{
+    var url = URL_PREFIX + objPath["path"];
+
+    $.get(url,
+        null,
+        function(data,status)
+        {
+            if(status != "success")
+            {
+                alert("Error occured when get data from " + url + "!");
+                return;
+            }
+
+            objPath["data"] = data;
+            checkAllDataLoaded();
+        },
+        "xml");
+}
+-------------------  featureSearch(objPath)  -------------------------->
+<------------------ checkAllDataLoaded()   ---------------------------
+function ()
+{
+    var $allData = $("<products></products>")
+
+    for(var i= 0;i < allPathes.length ;i++)
+    {
+        var objPath = allPathes[i];
+        if(objPath.data == null)
+            return;
+
+        var $data = $(objPath.data);
+        var $productList = $("product",$data);
+        $allData.append($productList.clone());
+    }
+
+    $products = $("product",$allData);
+    convertData($products);
+    onDataLoaded($products);
+}
+------------------- checkAllDataLoaded()   -------------------------->
+<------------------ convertData  ---------------------------
+function ($list)
+{
+    $list.each(function(index,item)
+    {
+        var $item = $item;
+        var price = $("price",$item).text();
+        price = price.replace(/\,/gi,"");
+        var numPrice = parseFloat(price);
+        $("price",$item).text(numPrice);
+    });
+}
+------------------- convertData  -------------------------->
+<------------------ onDataLoaded  ---------------------------
+function ($products)
+{
+    filterProducts($products);
+
+    var $btnOrderAsc = $("#order_asc");
+    var $btnOrderDesc = $("#order_desc");
+    $btnOrderAsc.click(orderAsc);
+    $btnOrderDesc.click(orderDesc);
+
+    var order = defaultOrder;
+    if(order == "asc")
+        $btnOrderAsc.trigger("click");
+    else if(order== "desc")
+        $btnOrderDesc.trigger("click");
+
+    hideLoading();
+
+    if($willShowCell != null)
+        $willShowCell.trigger("click");
+}
+------------------- onDataLoaded  -------------------------->
+<------------------ filterProducts  ---------------------------
+function ($products)
+{
+    var conditions = params["conditions"];
+
+    products = [];
+
+    $products.each(function(i,product)
+    {
+        var $product = $(product);
+        if(priceRange != null)
+        {
+            var $price = $("price",$product);
+            if($price.length <= 0)
+                return;
+
+            var numPrice = parseFloat($price.text());
+            if(isNaN(numPrice))
+                return;
+
+            if(numPrice < priceRange[0] || numPrice > priceRange[1])
+                return;
+        }
+
+        for(var prop in conditions)
+        {
+            var value = $(prop,$product).text();
+            if(value.indexOf(conditions[prop]) < 0)
+                return;
+        }
+
+        products.push($product);
+    });
+}
+------------------- filterProducts  -------------------------->
+<------------------ orderAsc  ---------------------------
+var orderAsc = function()
+{
+    if(orderType == "asc")
+        return false;
+    orderType = "asc";
+
+    var $btnOrderAsc = $("#order_asc");
+    $btnOrderAsc.addClass("now");
+    var $btnOrderDesc = $("#order_desc");
+    $btnOrderDesc.removeClass("now");
+
+    var bubbleCount = 0;
+    do{
+        bubbleCount = 0;
+        for(var i = 0;i < products.length - 1;i++)
+        {
+            var $prd0 = products[i];
+            var $prd1 = products[i + 1];
+
+            var price0 = parseFloat($("price",$prd0).text());
+            var price1 = parseFloat($("price",$prd1).text());
+
+            if(price0 > price1)
+            {
+                products[i] = $prd1;
+                products[i+ 1] = $prd0;
+                bubbleCount++;
+            }
+        }
+
+    }while(bubbleCount > 0);
+
+    renderResultList(products);
+
+    return false;
+}
+------------------- orderAsc  -------------------------->
+

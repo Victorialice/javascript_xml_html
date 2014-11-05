@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YPC-62R]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/piccolo/professional/YPC-62R.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>15200</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YPC-62]]></title> 
+			<path>/products/musical-instruments/winds/woodwind/piccolo/professional/YPC-62.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62-S.jpg</thumb_image>
+			<overview><![CDATA[<p>这种短笛其出色的音质和吹奏感一直是专业音乐家的挚爱，在许多顶级管弦乐队中使用。精心风干的黑檀木制作的木笛头和笛身，令音色更加饱满温和。</p>]]></overview>
+			<description><![CDATA[]]></description>
+			<price>10600</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ProfessionalProducts.html]]></performance>
+
+
+	<placeoforigin><![CDATA[Import.html]]></placeoforigin>
+
+
+	<recommendedgroup><![CDATA[Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/winds/woodwind/piccolo/YPC-62.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

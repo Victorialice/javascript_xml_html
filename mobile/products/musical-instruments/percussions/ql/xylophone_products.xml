@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YX-500R]]></title> 
+			<path>/products/musical-instruments/percussions/ql/xylophone/YX-500R.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yx500r_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>41000</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yx500r_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yx500r_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yx500r_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YX-500F]]></title> 
+			<path>/products/musical-instruments/percussions/ql/xylophone/YX-500F.html</path>
+			<if_new>Yes</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/yx500f_a_s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>32800</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/yx500f_a_s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/yx500f_a_m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/yx500f_a.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YX-335]]></title> 
+			<path>/products/musical-instruments/percussions/ql/xylophone/YX-335.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YX-335-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>30500</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YX-335-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YX-335-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YX-335.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YX-135]]></title> 
+			<path>/products/musical-instruments/percussions/ql/xylophone/YX-135.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YX-135-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>21600</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YX-135-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YX-135-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YX-135.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YX-35G]]></title> 
+			<path>/products/musical-instruments/percussions/ql/xylophone/YX-35G.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YX-35G-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>17500</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YX-35G-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YX-35G-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YX-35G.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YX-30G]]></title> 
+			<path>/products/musical-instruments/percussions/ql/xylophone/YX-30G.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/marching/piano/YX-30G-s.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>13200</price> 
+			<recommend>No</recommend>
+			
+
+
+
+
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/marching/piano/YX-30G-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/marching/piano/YX-30G-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/marching/piano/YX-30G.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

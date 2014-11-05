@@ -1,0 +1,275 @@
+1. http://localhost/mobilesite/  点 "钢琴"
+
+2. http://localhost/mobilesite/product_search.html?path=%2Fmobile%2Fproducts%2Fmusical-instruments%2Fpianos%2Fpianos_series.xml&name=%E9%92%A2%E7%90%B4
+
+3. http://localhost/mobilesite/product_search_result.html?name=%E9%92%A2%E7%90%B4&series_name=%E5%B0%8F%E5%9E%8B%E7%B3%BB%E5%88%97&back_url=http%3A%2F%2Flocalhost%2Fmobilesite%2Fproduct_search.html%3Fpath%3D%252Fmobile%252Fproducts%252Fmusical-instruments%252Fpianos%252Fpianos_series.xml%26name%3D%25E9%2592%25A2%25E7%2590%25B4&pathes=%5B%22%2Fmobile%2Fproducts%2Fmusical-instruments%2Fpianos%2Fgrandpianos%2Fsmallsize_series_products.xml%22%5D&conditions=%7B%22order%22%3A%22asc%22%7D  # 点 "小型系列"
+<------------------  js ---------------------
+http://localhost/mobilesite/js/search.js
+http://localhost/mobilesite/js/common.js
+http://localhost/mobilesite/js/expand_view.js
+http://localhost/mobilesite/js/easing.js
+http://localhost/mobilesite/js/raphael.js
+http://localhost/mobilesite/js/content_scroller.js
+http://localhost/mobilesite/js/series_inspector.js
+http://localhost/mobilesite/js/product_search.js
+------------------  js --------------------->
+
+./js/product_search.js:7:prepare = function()
+prepare = function()
+{
+  currentURL = window.location.href;
+  var params = decodeParams(currentURL);
+  if(!validateParams(params,["path","name"]))
+  {
+    window.location.href = "index.html"
+      return;
+  }
+
+  name = params.name;
+
+  $("title").text(name + TITLE_SUFFIX);
+  $("#header_title").text(name);
+
+  loadData(URL_PREFIX + params["path"]);
+}
+
+<------------------  loadData ---------------------------
+loadData
+function (url)
+{
+    $.get(url,
+          null,
+          function(data,status)
+          {
+              if(status != "success")
+              {
+                  alert("Error occured when get data from " + url + "!");
+                  return;
+              }
+
+              var $trunkContainer = $(".products");
+              $trunkContainer.empty();
+              seriesInspector = [];
+
+              var $fTrunkContainer = $(".features");
+              $fTrunkContainer.empty();
+              featureInspector = [];
+
+              var $trunks = $("series > serie_trunk",$(data));
+              $trunks.each(function(i,trunk)
+              {
+                  var inspector = new SeriesInspector($(trunk),"series",i,true);
+                  if(inspector.$view != null)
+                  {
+                      $trunkContainer.append(inspector.$view); // <div class="productImg" style="display: block;">
+                      seriesInspector.push(inspector);
+                  }
+
+                  var fInspector = new FeatureInspector($(trunk),"features",i,true);
+                  if(fInspector.$view != null)
+                  {
+                      $fTrunkContainer.append(fInspector.$view);
+                      featureInspector.push(fInspector);
+                  }
+              });
+
+              hideLoading();
+              ContentScroller.initialize();
+              ExpandViewGroup.initialize();
+
+              if(name == "家庭音响")
+              {
+                  $(".feature_search").hide();
+              }
+          },
+          null);
+}
+------------------  loadData  -------------------------->
+
+<------------------ SeriesInspector ---------------------------
+SeriesInspector
+function ($trunk,expandId,index,isRoot)
+{
+    this.$trunk = $trunk;
+    this.isRoot = isRoot;
+    this.expandId = expandId;
+    this.index = index;
+
+    this.subInspectors = [];
+
+    if(this.isRoot)
+    {
+        this.$view = $("div.root_demo").clone();
+        this.$view.removeClass("root_demo");
+    }else{
+        this.$view = $(".trunk_demo").clone();
+        this.$view.removeClass("trunk_demo");
+    }
+    this.$view.show();
+
+    $("h4 > span",this.$view).text(this.$trunk.attr("name"));
+    $("h4",this.$view).attr("expand-group",this.expandId);
+
+    this.$btnSearch = $("a.search",this.$view);
+
+    this.$subLeavesWrap = $(".sub_series:eq(0)",this.$view);
+    this.$subLeavesBox = $("<ul></ul>");
+    this.$subLeavesBox.addClass("searchList");
+    this.$subLeavesWrap.append(this.$subLeavesBox);
+    this.$subTrunkBox = $(".sub_series:eq(1)",this.$view);
+
+    var $subTrunks = $("> serie_trunk",$trunk);
+    var $subLeaves = $("> serie_leaf",$trunk);
+
+    if($subTrunks.length == 0 && $subLeaves.length == 0) {
+        this.$view = null;
+        return;
+    }
+
+    this.renderLeaves($subLeaves);
+    this.renderTrunks($subTrunks);
+
+    var self = this;
+    this.$btnSearch.click(function()
+    {
+        var $data = self.$selectedLeaf.data;
+
+        var pathes = [];
+        var seriesName = null;
+        if($data.attr("id") == "all")
+        {
+            seriesName = self.$trunk.attr("name");
+
+            $allLeaves = $("serie_leaf",self.$trunk);
+            $allLeaves.each(function(i,leaf)
+            {
+                pathes.push($(leaf).attr("path"));
+            });
+        }else{
+            seriesName = $data.attr("name");
+            pathes.push($data.attr("path"));
+        }
+
+        search(seriesName,pathes,null);
+
+        return false;
+    });
+}
+
+<...............
+var $subTrunks = $("> serie_trunk",$trunk);
+var $subLeaves = $("> serie_leaf",$trunk);
+this.renderLeaves($subLeaves);
+this.renderTrunks($subTrunks);
+...............>
+------------------  SeriesInspector  -------------------------->
+
+<------------------ FeatureInspector ---------------------------
+FeatureInspector
+function ($trunk,expandId,index,isRoot)
+{
+    this.$trunk = $trunk;
+    this.expandId = expandId;
+    this.index = index;
+    this.isRoot = isRoot;
+
+    this.inspectors = [];
+
+    if(this.isRoot)
+    {
+        this.$view = $("div.root_demo").clone();
+        this.$view.removeClass("root_demo");
+    }else{
+        this.$view = $(".trunk_demo").clone();
+        this.$view.removeClass("trunk_demo");
+    }
+    this.$view.show();
+
+    this.$btnSearch = $("a.search",this.$view);
+
+    $("h4 > span",this.$view).text(this.$trunk.attr("name"));
+    $("h4",this.$view).attr("expand-group",this.expandId);
+
+    this.$subLeavesBox = $(".sub_series:eq(0)",this.$view);
+    this.$subTrunkBox = $(".sub_series:eq(1)",this.$view);
+    this.$subTrunkBox.hide();
+
+    var $properties = $("> property-key",$trunk);
+    var $subTrunks = $("> serie_trunk",$trunk);
+
+    if($properties.length > 0 || $subTrunks.length <= 0)
+    {
+        this.renderProperties($properties);
+    }else{
+        var subProp =  $("property-key",$trunk);
+        if(subProp.length > 0)
+            this.renderTrunks($subTrunks);
+        else
+            this.renderProperties($properties);
+    }
+
+    var self = this;
+    this.$btnSearch.click(function()
+    {
+        var $slectors = $("select",self.$view);
+        var options = {};
+
+        $slectors.each(function(i,select)
+        {
+            var $select = $(select);
+
+            if($select.val() != null && $select.val().length > 0)
+                options[$select.attr("name")] = $select.val();
+        });
+
+        var $leaves = $("serie_leaf",self.$trunk);
+        var pathes = [];
+
+        $leaves.each(function(j,leaf)
+        {
+            var $leaf = $(leaf);
+            pathes.push($leaf.attr("path"));
+        });
+
+        search(self.$trunk.attr("name"),pathes,options);
+        return false;
+    });
+}
+
+<...............
+var $properties = $("> property-key",$trunk);
+var $subTrunks = $("> serie_trunk",$trunk);
+this.renderProperties($properties);
+this.renderTrunks($subTrunks);
+...............>
+------------------  FeatureInspector -------------------------->
+
+./js/series_inspector.js:3:var SeriesInspector = function($trunk,expandId,index,isRoot)
+./js/content_scroller.js:36:ContentScroller.initialize = function()
+./js/expand_view.js:158:ExpandViewGroup.initialize = function()
+./js/series_inspector.js:3:var SeriesInspector = function($trunk,expandId,index,isRoot)
+./js/series_inspector.js:210:FeatureInspector = function($trunk,expandId,index,isRoot)
+
+
+
+<------------------  ExpandViewGroup ---------------------------
+ExpandViewGroup.initialize
+function ()
+{
+    var $groupHeaders = $("*[expand-group]");
+    $groupHeaders.each(function(index,header)
+    {
+        var $header = $(header);
+        var groupId = $header.attr("expand-group");
+        var group = ExpandViewGroup.getGroup(groupId); // expand-group="series"  expand-group="features"
+        if(group == null)
+            group = ExpandViewGroup.addGroup(groupId);
+
+        var viewId = groupId + "_" + group.count();
+        $header.attr("id",viewId);
+        var $content = $("#"+viewId+" + *");
+        var view = ExpandView.addView(viewId,$header,$content);
+        group.addView(view);
+    });
+}
+------------------  ExpandViewGroup --------------------------->

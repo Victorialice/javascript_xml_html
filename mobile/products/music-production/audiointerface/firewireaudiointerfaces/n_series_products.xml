@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[n8]]></title> 
+			<path>/products/music-production/audiointerface/firewireaudiointerfaces/n_series/n8.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n8/n8_Front_v-S.jpg</thumb_image>
+			<overview><![CDATA[<p>用数字的方式控制模拟的声音</p>]]></overview>
+			<description><![CDATA[<p>用数字的方式控制模拟的声音</p>]]></description>
+			<price>12090</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[8Input.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n8/n8_Front_v-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n8/n8_Front_v-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n8/n8_Front_v.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[n12]]></title> 
+			<path>/products/music-production/audiointerface/firewireaudiointerfaces/n_series/n12.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n12/n12_Front_v-S.jpg</thumb_image>
+			<overview><![CDATA[<p>用数字的方式控制模拟的声音</p>]]></overview>
+			<description><![CDATA[<p>用数字的方式控制模拟的声音</p>]]></description>
+			<price>15620</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[12Input.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n12/n12_Front_v-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n12/n12_Front_v-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/musicalproduction/audiointerface/n_series/n12/n12_Front_v.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

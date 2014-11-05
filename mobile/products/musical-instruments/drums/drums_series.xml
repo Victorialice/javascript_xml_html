@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='爵士鼓'>
+<serie_trunk id='acousticdrum' name='原声鼓' path='/mobile/products/musical-instruments/drums/acousticdrum_products.xml'>
+<serie_leaf id='acousticdrum' name='原声鼓' path='/mobile/products/musical-instruments/drums/acousticdrum_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='electronicdrum' name='电子鼓' path='/products/musical-instruments/drums/electronicdrum/' >
+<property-key key='price' title='价格'>
+<property-value value='11999'  title='8000-12000元' />
+<property-value value='19999'  title='12000-20000元' />
+<property-value value='29999'  title='20000-30000元' />
+<property-value value='40000'  title='30000-40000元' />
+<property-value value='40001'  title='40000以上' />
+</property-key>
+<serie_leaf id='dtx400_series' name='DTX400系列' path='/mobile/products/musical-instruments/drums/electronicdrum/dtx400_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='dtx500_series' name='DTX500系列' path='/mobile/products/musical-instruments/drums/electronicdrum/dtx500_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='dtx502_series' name='DTX502系列' path='/mobile/products/musical-instruments/drums/electronicdrum/dtx502_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='dtx700_series' name='DTX700系列' path='/mobile/products/musical-instruments/drums/electronicdrum/dtx700_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='dtx900_series' name='DTX900系列' path='/mobile/products/musical-instruments/drums/electronicdrum/dtx900_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>

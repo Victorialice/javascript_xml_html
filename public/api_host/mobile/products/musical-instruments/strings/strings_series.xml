@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='弦乐器'>
+<serie_trunk id='muteviolin' name='静音提琴' path='/products/musical-instruments/strings/muteviolin/' >
+<serie_leaf id='muteviola' name='静音中提琴' path='/mobile/products/musical-instruments/strings/muteviolin/muteviola_products.xml'>
+</serie_leaf>
+<serie_leaf id='silentcello' name='静音大提琴' path='/mobile/products/musical-instruments/strings/muteviolin/silentcello_products.xml'>
+</serie_leaf>
+<serie_leaf id='silentviolin' name='静音小提琴' path='/mobile/products/musical-instruments/strings/muteviolin/silentviolin_products.xml'>
+</serie_leaf>
+<serie_leaf id='silentbass' name='静音贝斯' path='/mobile/products/musical-instruments/strings/muteviolin/silentbass_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>
+

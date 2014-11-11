@@ -1,0 +1,202 @@
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+<series name='音乐制作产品'>
+<serie_trunk id='synthesizer' name='合成器' path='/products/music-production/synthesizer/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='61Keys.html'  title='61键' />
+<property-value value='76Keys.html'  title='76键' />
+<property-value value='88Keys.html'  title='88键' />
+<property-value value='FSXKeyboard.html'  title='FSX键盘' />
+<property-value value='CHSKeyboard.html'  title='GHS逐级配重键盘' />
+<property-value value='LCKeyboard.html'  title='LC键盘' />
+<property-value value='SemiWeightKeyboard.html'  title='半配重键盘' />
+<property-value value='BalanceHammerKeyboard.html'  title='平衡击锤键盘' />
+<property-value value='InitialTouchKeyboard.html'  title='键盘初始触感' />
+<property-value value='KeyboardAftertouch.html'  title='键盘触后' />
+</property-key>
+<serie_leaf id='moxf_series' name='MOXF系列' path='/mobile/products/music-production/synthesizer/moxf_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='mx_series' name='MX系列' path='/mobile/products/music-production/synthesizer/mx_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='motif-xf_series' name='MOTIF XF系列' path='/mobile/products/music-production/synthesizer/motif-xf_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='mox_series' name='MOX系列' path='/mobile/products/music-production/synthesizer/mox_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='soundsource' name='音源' path='/mobile/products/music-production/soundsource_products.xml'>
+<serie_leaf id='soundsource' name='音源' path='/mobile/products/music-production/soundsource_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='stagepiano' name='舞台钢琴' path='/products/music-production/stagepiano/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='GHKeyboard.html'  title='GH逐级配重键盘' />
+<property-value value='NW-StageWoodKeyboard.html'  title='NW-Stage木质配重键盘' />
+<property-value value='built-ineffects.html'  title='内置效果器' />
+<property-value value='MicrophoneInput.html'  title='带话筒输入' />
+</property-key>
+<serie_leaf id='cp_stage_series' name='CP Stage系列' path='/mobile/products/music-production/stagepiano/cp_stage_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='audiointerface' name='音频接口' path='/products/music-production/audiointerface/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='10Input.html'  title='10路输入' />
+<property-value value='12Input.html'  title='12路输入' />
+<property-value value='8Input.html'  title='8路输入' />
+<property-value value='built-inDSPEffect.html'  title='内置DSP效果器' />
+<property-value value='withController.html'  title='自带控制器' />
+<property-value value='video.html'  title='视屏' />
+<property-value value='lightweightPortable.html'  title='轻巧便携' />
+</property-key>
+<serie_trunk id='usb' name='usb音频接口' path='/products/music-production/audiointerface/usb/'>
+<serie_leaf id='ci_series' name='CI系列' path='/mobile/products/music-production/audiointerface/usb/ci_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='mw_series' name='MW系列' path='/mobile/products/music-production/audiointerface/usb/mw_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='firewireaudiointerfaces' name='火线音频接口' path='/products/music-production/audiointerface/firewireaudiointerfaces/'>
+<serie_leaf id='mr816_series' name='MR816系列' path='/mobile/products/music-production/audiointerface/firewireaudiointerfaces/mr816_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='n_series' name='N系列' path='/mobile/products/music-production/audiointerface/firewireaudiointerfaces/n_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='steinberg' name='Steinberg产品' path='/products/music-production/steinberg/' >
+<serie_trunk id='cubase' name='Cubase' path='/products/music-production/steinberg/cubase/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='64Audio128MIDI32InstrumentalTrack.html'  title='64条音频、128条MIDI，32条乐器轨道' />
+<property-value value='48Audio64MIDI24InstrumentalTrack.html'  title='支持VST Expression 2.0' />
+<property-value value='UnlimitedAudioMIDIInstrumentalTrack.html'  title='无限音频、MIDI，乐器轨道' />
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='Software.html'  title='软件' />
+</property-key>
+<serie_leaf id='cubase7_series' name='Cubase 7 系列' path='/mobile/products/music-production/steinberg/cubase/cubase7_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='nuendo' name='Nuendo' path='/products/music-production/steinberg/nuendo/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='Software.html'  title='软件' />
+</property-key>
+<serie_leaf id='nuendo6_series' name='Nuendo 6 系列' path='/mobile/products/music-production/steinberg/nuendo/nuendo6_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='usb' name='usb音频接口' path='/products/music-production/steinberg/usb/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='PedalControl.html'  title='可踏板控制' />
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='WithController.html'  title='自带控制器' />
+<property-value value='Software.html'  title='软件' />
+</property-key>
+<serie_leaf id='cl_series' name='CI系列' path='/mobile/products/music-production/steinberg/usb/cl_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='UR' name='UR系列' path='/mobile/products/music-production/steinberg/usb/UR_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='vsti' name='VSTi软件音源' path='/products/music-production/steinberg/vsti/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='IntegratedAudio.html'  title='综合音源' />
+<property-value value='Software.html'  title='软件' />
+<property-value value='Sampler.html'  title='采样器' />
+<property-value value='PianoSoundSource.html'  title='钢琴音源' />
+<property-value value='DrumSoundSource.html'  title='鼓音源' />
+</property-key>
+<serie_leaf id='grooveagent3_series' name='Groove Agent 3系列' path='/mobile/products/music-production/steinberg/vsti/grooveagent3_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='halion4_series' name='HALion 4系列' path='/mobile/products/music-production/steinberg/vsti/halion4_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='halionsonic_series' name='HALion Sonic系列' path='/mobile/products/music-production/steinberg/vsti/halionsonic_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='thegrand3_series' name='The Grand 3系列' path='/mobile/products/music-production/steinberg/vsti/thegrand3_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='vst' name='VST插件' path='/products/music-production/steinberg/vst/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='Compressor.html'  title='压缩器' />
+<property-value value='GuitarEffects.html'  title='吉他特效器' />
+<property-value value='Equalizer.html'  title='均衡器' />
+<property-value value='OpeningMachine.html'  title='开盘机' />
+<property-value value='SupportVST3.0.html'  title='支持VST 3.0' />
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='Software.html'  title='软件' />
+</property-key>
+<serie_leaf id='rndporticoplugins_series' name='RND Portico插件系列' path='/mobile/products/music-production/steinberg/vst/rndporticoplugins_series_products.xml'>
+</serie_leaf>
+<serie_leaf id='yamahaclassicaccessories_series' name='YAMAHA经典插件合集' path='/mobile/products/music-production/steinberg/vst/yamahaclassicaccessories_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='wavelab' name='WaveLab' path='/products/music-production/steinberg/wavelab/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='384kHzSamplingRate.html'  title='null' />
+<property-value value='UnlimitedAudio96kHzSamplingRate.html'  title='无限音最高96kHz采样率' />
+<property-value value='2AudioTrack.html'  title='最多2条音频轨道' />
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='MoreThan2000AudioTrack.html'  title='超过1000条音频轨道' />
+<property-value value='Software.html'  title='软件' />
+<property-value value='FrequencySpectrumPhaseMeter.html'  title='频谱、相位测量表' />
+</property-key>
+<serie_leaf id='wavelab7_series' name='WaveLab 7' path='/mobile/products/music-production/steinberg/wavelab/wavelab7_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='synchronizer' name='同步器' path='/products/music-production/steinberg/synchronizer/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='Software.html'  title='软件' />
+</property-key>
+<serie_leaf id='nuendosyncstation' name='Nuendo SyncStation系列' path='/mobile/products/music-production/steinberg/synchronizer/nuendosyncstation_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='thecontroller' name='控制器' path='/products/music-production/steinberg/thecontroller/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='Hardware.html'  title='硬件' />
+<property-value value='Software.html'  title='软件' />
+</property-key>
+<serie_leaf id='CMC_series' name='cc121系列' path='/mobile/products/music-production/steinberg/thecontroller/CMC_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='firewireaudiointerfaces' name='火线音频接口' path='/products/music-production/steinberg/firewireaudiointerfaces/'>
+<property-key key='performance' title='产品性能'>
+<property-value value='10Input.html'  title='10路输入' />
+<property-value value='12Input.html'  title='12路输入' />
+<property-value value='8Input.html'  title='8路输入' />
+<property-value value='builtinDSPEffect.html'  title='内置DSP效果器' />
+<property-value value='withcontroller.html'  title='自带控制器' />
+<property-value value='lightweightportable.html'  title='轻巧便携' />
+</property-key>
+<serie_leaf id='mr816_series' name='MR 816系列' path='/mobile/products/music-production/steinberg/firewireaudiointerfaces/mr816_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</serie_trunk>
+<serie_trunk id='mixer' name='调音台' path='/products/music-production/mixer/' >
+<property-key key='performance' title='产品性能'>
+<property-value value='10Input.html'  title='10路输入' />
+<property-value value='12Input.html'  title='12路输入' />
+<property-value value='8Input.html'  title='8路输入' />
+<property-value value='built-inEffects.html'  title='内置效果器' />
+</property-key>
+<serie_leaf id='mw_series' name='MW系列' path='/mobile/products/music-production/mixer/mw_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='monitorspeakers' name='监听音箱' path='/products/music-production/monitorspeakers/' >
+<serie_leaf id='hs_series' name='HS系列' path='/mobile/products/music-production/monitorspeakers/hs_series_products.xml'>
+</serie_leaf>
+</serie_trunk>
+<serie_trunk id='recordingpen' name='录音笔' path='/mobile/products/music-production/recordingpen_products.xml'>
+<serie_leaf id='recordingpen' name='录音笔' path='/mobile/products/music-production/recordingpen_products.xml'>
+</serie_leaf>
+</serie_trunk>
+</series>
+

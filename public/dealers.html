@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+    <title>经销商－雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+    <link href="css/expand_view.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/expand_view.js"></script>
+
+    <script type="text/javascript" src="js/dealers.js"></script>
+</head>
+
+<body>
+<div class="sale contact" style="display: none">
+	<div class="header">
+    </div>
+    <h2><a href="index.html"><img src="images/icon04.png"/></a>经销商查询</h2>
+    <h3><img src="images/icon05.png"/>按地区搜索</h3>
+
+    <div class="choose" id="district_search">
+        <div class="select_wrap"><select class="provinces"><option>请选择省份</option></select></div>
+        <div class="select_wrap"><select class="cities"><option>请选择城市</option></select></div>
+        <div class="select_wrap"><select class="products"><option>请选择产品</option></select></div>
+        <a href="#" class="search"><img src="images/searchBtn.png"/></a>
+        <p class="result_info" style="display: none">你搜索的地区'<span></span>'，产品种类'<span></span>'，找到'<span></span>'家经销商</p>
+    </div>
+    <div class="result"></div>
+    <h3 class="bg05"><img src="images/icon06.png"/>按经销商信息查询</h3>
+
+    <div class="choose" id="keyword_search">
+    	<div class="select_wrap"><select class="products"><option>请选择产品</option></select></div>
+        <input class="keywords" type="text" default-value="请输入关键词"/>
+        <a href="#" class="search"><img src="images/searchBtn.png"/></a>
+        <p class="result_info" style="display: none">你搜索的地区'<span></span>'，产品种类'<span></span>'，找到'<span></span>'家经销商</p>
+    </div>
+    <div class="result"></div>
+
+    <div id="result_view" style="display: none">
+        <h4>上海知音琴行</h4>
+        <ul class="contactList">
+            <li><p>地址： <span class="dealer_address">上海市长宁路1200号贝多芬广场三楼（近凯旋路）</span></p></li>
+            <li class="tel_con"><p>电话： <a href="#" class="dealer_tel">025-5510480</a></p></li>
+            <li>
+                <p>经销产品</p>
+                <div class="product_icons">
+                    <img src="images/saleIcon01.png"/>
+                    <img src="images/saleIcon02.png"/>
+                    <img src="images/saleIcon03.png"/>
+                    <img src="images/saleIcon04.png"/>
+                    <img src="images/saleIcon05.png"/>
+                </div>
+                <a href="#" class="btn_map"><img src="images/contactBtn02.png" class="dealer_map"/></a>
+            </li>
+        </ul>
+        <div class="clear"></div>
+        <div class="map_container" style="display: none">
+            <img class="google_map"/>
+        </div>
+    </div>
+
+    <div class="foot"></div>
+</div>
+</body>
+</html>

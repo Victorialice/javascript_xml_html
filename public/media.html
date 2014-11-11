@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+    <title>APP下载-雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+    <link href="css/expand_view.css"  rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/expand_view.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript">
+        prepare = function()
+        {
+            $.get("http://www.yamaha.com.cn/news_events/media/index.html",
+                    null,
+                    function(data,status)
+                    {
+                        if(status != "success")
+                        {
+                            alert("Error occured when get data from http://www.yamaha.com.cn/mobile/app_list.xml!");
+                            return;
+                        }
+
+                        var content = data.replace(/img/gi,"link");
+                        var $html = $(content);
+                        var $medias = $('.col1,.col2',$html);
+
+                        var $box1 = $(".box:eq(0)");
+                        var $box2 = $(".box:eq(1)");
+                        var $demo = $(".box .item");
+                        $box1.empty();
+                        var $btnExpand = $("div[expand=more_media]");
+
+                        if($medias.length <= 8)
+                            $btnExpand.hide();
+
+                        $medias.each(function(i,media)
+                        {
+                            var $media = $(media);
+                            var link = $("a:eq(0)",$media).attr("href");
+                            var image = URL_PREFIX + $(".pict link",$media).attr("src");
+                            var title = $(".desc dt:eq(0)",$media).text();
+                            var subtitle = $(".desc dd:eq(0) p",$media).text();
+
+                            var $mediaView = $demo.clone();
+                            $(".img img",$mediaView).attr("src",image);
+                            $(".title",$mediaView).text(title);
+                            $(".subtitle",$mediaView).text(subtitle);
+                            $(".follow a",$mediaView).attr("href",link);
+
+                            if(i < 8)
+                                $box1.append($mediaView);
+                            else
+                                $box2.append($mediaView);
+                        });
+
+                        ExpandView.initialize();
+                        hideLoading();
+                    },"text");
+        }
+    </script>
+</head>
+
+<body>
+<div class="media" style="display: none">
+	<div class="header"></div>
+    <h2><a href="index.html"><img src="images/icon04.png"/></a>雅马哈微博</h2>
+    <div class="box">
+        <div class="item">
+            <div class="img"><img src="images/weibo_header.jpg"/></div>
+            <div class="des">
+                <div class="title">雅马哈音乐广场</div>
+                <div class="subtitle">雅马哈（中国）品牌微博。</div>
+                <div class="follow"><a href="#" target="_blank"><img src="images/btn_follow.png"/></a></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div expand="more_media" state="close">查看更多</div>
+    <div class="box"></div>
+    <div class="foot"></div>
+</div>
+</body>
+</html>

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+<title>首页－雅马哈中国</title>
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/yamaha-57.png">  
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/yamaha-72.png">  
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/yamaha-114.png">  
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/yamaha-144.png">  
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+    <link href="css/scroller.css" rel="stylesheet" type="text/css"/>
+    <link href="css/expand_view.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript">
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-27886109-1']);
+  	_gaq.push(['_setDomainName', 'none']);
+  	_gaq.push(['_trackPageview']);
+
+  	(function() {
+    		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  	})();
+
+	</script>	
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/expand_view.js"></script>
+
+    <script type="text/javascript" src="js/easing.js"></script>
+    <script type="text/javascript" src="js/raphael.js"></script>
+    <script type="text/javascript" src="js/content_scroller.js"></script>
+
+    <script type="text/javascript">
+        var prepare = function()
+        {
+            $.get(URL_PREFIX + "/mobile/hotspots.xml?a=123",
+                    null,
+                    function(data,status)
+                    {
+                        if(status != "success")
+                        {
+                            alert("Error occured when get data from http://www.yamaha.com.cn/mobile/hotspots.xml!");
+                            return;
+                        }
+
+                        var $hotspots = $("hotspot",data);
+                        var $hsContainer = $("#hotspot_container");
+                        var $hsContent = $(".content",$hsContainer);
+                        $hsContainer.empty();
+
+                        $hotspots.each(function(i,hotspotItem)
+                        {
+                            var $hostspotItem = $(hotspotItem);
+                            $hsContent = $hsContent.clone();
+                            $("a",$hsContent).attr("href","http://www.yamaha.com.cn" + $hostspotItem.attr("link"));
+                            $("img",$hsContent).attr("src", URL_PREFIX + $hostspotItem.attr("thumbnail"));
+
+                            var title = $("title",$hostspotItem).text();
+//                            title = title.length > 16 ? title.substr(0,16) + "..." : title;
+                            $(".hs_title",$hsContent).text(title);
+
+                            var overview = $("overview",$hostspotItem).text();
+                            var $temp = $("<div></div>");
+                            $temp.html(overview);
+                            $("span",$hsContent).html($temp.text());
+//                            overview = $("span",$hsContent).text();
+//                            overview = overview.length > 35 ? overview.substr(0,35) + "..." : overview;
+//                            $("span",$hsContent).html(overview);
+
+                            $hsContainer.append($hsContent);
+                        });
+
+                        hideLoading();
+                        ContentScroller.initialize();
+                        ExpandView.initialize();
+                    },
+                    "xml");
+        }
+
+    </script>
+</head>
+
+<body>
+<div class="home" style="display: none">
+	<div class="header">
+    </div>
+    <div class="ad">
+    	<div scroller="kv_scroller">
+            <div class="container">
+                <img class="content" src="images/kv_02.jpg"/>
+                <img class="content" src="images/kv_03.jpg"/>
+            </div>
+            <div class="dot_container"></div>
+        </div>
+    </div>
+    <div class="search">
+    	<p>欢迎您来到雅马哈中国！<br/><span>请输入您想要搜索的产品型号</span></p>
+        <div class="input-append" product-search="index_search" all-site="true">
+            <form>
+            <button class="btn" type="submit" class="btn_product_search"><img class="search_btn" src="images/search.png" data-role="none"/></button>
+            <input class="text" id="appendedInputButton" type="text"/>
+            <div class="input_loading"><img src="images/input_loading.gif"/></div>
+            </form>
+        </div>
+    </div>
+    <div style="background-color:white;"><div style="margin-left:5%; width:90%;"><a href="#" onClick="_gaq.push(['_trackEvent', 'Download_QQ_Mobile', 'Banner', 'Mobile QQ download link']);setTimeout(function(){window.location='download_qq.html';}, 200);"><img src="images/qq_entry.png"/></a></div></div>
+    <ul class="homeList">
+    	<a href="product_search.html?path=/mobile/products/musical-instruments/pianos/pianos_series.xml&name=钢琴" encode="true"><li><em class="icon01"></em><p>钢琴<br/><span>三角钢琴、立式钢琴</span></p></li></a>
+        <a href="product_search.html?path=/mobile/products/musical-instruments/keyboards/keyboards_series.xml&name=电子键盘" encode="true"><li><em class="icon02"></em><p>电子键盘<br/><span>电子琴、电钢琴、双排键电子琴</span></p></li></a>
+        <a href="product_search.html?path=/mobile/products/musical-instruments/guitars/guitars_series.xml&name=吉他" encode="true"><li><em class="icon07"></em><p>吉他<br/><span>原声吉他、电吉他、电贝司</span></p></li></a>
+        <a href="product_search.html?path=/mobile/products/musical-instruments/winds/winds_series.xml&name=管乐器" encode="true"><li><em class="icon03"></em><p>管乐器<br/><span>长笛、萨克斯、小号、单簧管</span></p></li></a>
+    </ul>
+    <div expand="more_musical_instrument" state="close">更多乐器产品</div>
+    <ul class="homeList">
+        <a href="product_search.html?path=/mobile/products/musical-instruments/drums/drums_series.xml&name=爵士鼓" encode="true"><li><em class="icon08"></em><p>爵士鼓<br/><span>原声鼓、电子鼓</span></p></li></a>
+        <a href="product_search.html?path=/mobile/products/musical-instruments/percussions/percussions_series.xml&name=打击乐器" encode="true"><li><em class="icon10"></em><p>打击乐器<br/><span>鼓类、管钟、行进打击乐、琴类</span></p></li></a>
+        <a href="product_search.html?path=/mobile/products/musical-instruments/strings/strings_series.xml&name=弦乐器" encode="true"><li><em class="icon09"></em><p>弦乐器<br/><span>静音提琴</span></p></li></a>
+    </ul>
+    <ul class="homeList">
+    	<a href="product_search.html?path=/mobile/products/audio-visual/av_series.xml&name=家庭音响" encode="true"><li><em class="icon04"></em><p>家庭音响<br/><span>家庭影院、HiFi产品、音箱、桌面音响</span></p></li></a>
+        <a href="product_search.html?path=/mobile/products/music-production/mp_series.xml&name=音乐制作产品" encode="true"><li><em class="icon05"></em><p>音乐制作产品<br/><span>合成器、音频接口</span></p></li></a>
+    </ul>
+    <div expand="other_products" state="close">其他产品</div>
+    <ul class="homeList">
+    	<a href="http://www.yamaha.com.cn/pa/" target="_blank"><li class="list02"><em class="icon06"></em><p>专业音响<br/><span>家庭影院、HiFi产品、音箱、桌面音响</span></p></li></a>
+        <a href="http://www.yamaha.com.cn/products/it/index.html" target="_blank"><li class="list02 listLine"><em class="icon11"></em><p>半导体/网络会议产品</p></li></a>
+    </ul>
+    <div class="homeApp">
+    	<div class="title">客户支持</div>
+        <ul>
+        	<li><a href="dealers.html" class="icon01"><div>经销商</div></a></li>
+            <li><a href="shops.html" class="icon02"><div>专卖店</div></a></li>
+            <li><a href="stations.html" class="icon03"><div>维修站</div></a></li>
+            <li><a href="download.html" class="icon04"><div>APP下载</div></a></li>
+        </ul>
+    </div>
+    <div class="homeHot">
+    	<div class="title">热点关注</div>
+        <div id="hotspot_scroller" scroller="hotspot_scroller" fix-height="true">
+            <div class="container" id="hotspot_container">
+                <div class="content">
+                    <div class="thumb"><a href="#" target="_blank"><img src="images/ad02.jpg"/></a></div>
+                    <div class="right_content">
+                        <div>
+                            <a href="#" class="hs_title" target="_blank">雅马哈全系列耳机网络首发</a><br/>
+                            <span>雅马哈全系列耳机即将于2013年1月起在京东商城、亚马逊、易讯、苏宁易购和新蛋网首发。</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="dot_container"></div>
+        </div>
+    </div>
+    <div style="width:100%;">
+        <a href="http://m-musicschool.yamaha.com.cn"><img width="100%" src="images/musicschool.jpg" /></a>
+    </div>
+    <div class="foot">
+    </div>
+</div>
+</body>
+</html>

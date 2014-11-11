@@ -1,0 +1,174 @@
+#kv_scroller
+{
+    width: 640px;
+    height: 199px;
+    overflow: hidden;
+    position: relative;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#kv_scroller .container,
+#kv_scroller .content
+{
+    position: absolute;
+    left:0px;
+    top:0px;
+    width:100%;
+    height:100%;
+}
+
+#kv_scroller .dot_container
+{
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    height: 6px;
+    width: 36px;
+}
+
+#hotspot_scroller
+{
+    width:auto;
+    height: 116px;
+    margin: 10px 10px 10px 60px;
+    overflow: hidden;
+    position: relative;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#hotspot_scroller .container,
+#hotspot_scroller .content
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#hotspot_scroller .thumb
+{
+    width: 43px;
+    height: 43px;
+    position: absolute;
+    margin-top: -21.5px;
+    top:50%;
+}
+
+#hotspot_scroller .right_content
+{
+    position: absolute;
+    left:58px;
+    width: 75%;
+    word-wrap: break-word;
+    text-align: justify;
+    height: 100%;
+    vertical-align: middle;
+    line-height: 20px;
+    display: table;
+}
+
+#hotspot_scroller .right_content div
+{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+#hotspot_scroller .description
+{
+    float:left;
+    width: auto;
+    height: 100%;
+}
+
+#hotspot_scroller a
+{
+    font-size: 15px;
+    color:#000000;
+}
+
+#hotspot_scroller .content
+{
+    color:#808080;
+    line-height: 16px;
+    font-size: 13px;
+}
+
+#hotspot_scroller .dot_container
+{
+    position: absolute;
+    left: 3px;
+    top: 50%;
+    height: 6px;
+    width: 36px;
+    margin-top: 27px;
+}
+
+.feature_container
+{
+    width: 60%;
+    display: block;
+    float: left;
+}
+
+.feature
+{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    height: 20px;
+}
+
+.feature .container,.feature .content
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-size: 14px;
+}
+
+.feature_dot
+{
+    position: absolute;
+    top:30px;
+    left:67.5%;
+    margin-left:-18px;
+    width: 36px;
+    height: 6px;
+}
+
+.feature_dot_2
+{
+    position: absolute;
+    top:30px;
+    left:67.5%;
+    margin-left:-12px;
+    width: 24px;
+    height: 6px;
+}
+
+div.scroller_dot
+{
+    position: absolute;
+    width:6px;
+    height: 6px;
+    background: url(../images/dots.png) no-repeat;
+    background-size: 12px 6px;
+    top:50%;
+    margin-top: -3px;
+}
+
+div.scroller_dot_selected
+{
+    background-position: -6px 0;
+}

@@ -1,0 +1,87 @@
+<div class="logo"><a href="index.html"><img src="images/logo.png"/></a></div>
+<ul class="menu">
+    <li><a href="#products" id="btn_header_products"><em class="icon01"></em>产品</a></li>
+    <li><a href="contact.html"><em class="icon02"></em>联系我们</a></li>
+    <li><a href="#search" id="btn_header_search"><em class="icon03"></em>搜索</a></li>
+</ul>
+<div id="header_search" style="display: none">
+    <div class="arrow"></div>
+    <div class="content">
+        <div class="background"></div>
+        <div class="search_wrap">
+            <div class="search_box" product-search="top_search" all-site="true">
+                <form>
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="input"><input type="text" id="txt_header_search"/></td>
+                        <td class="button"><button class="btn" type="submit" class="btn_product_search"><img class="search_btn" src="images/search.png"></button></td>
+                    </tr>
+                </table>
+                <div class="input_loading"><img src="images/input_loading.gif"/></div>
+                </form>
+            </div>
+            <div class="hotproducts">热门产品：<a href="all_site_search.html?keyword=YU118" encode="true">YU118</a> | <a href="all_site_search.html?keyword=thr10" encode="true">THR10</a></div>
+        </div>
+    </div>
+</div>
+<div id="products_float" style="display: none">
+    <div class="arrow"></div>
+    <div class="content">
+        <div class="background"></div>
+        <div class="categories">
+            <div class="category_wrap">
+                <div class="category_wrap2">
+                    <div class="category_item"><a class="gray" href="product_search.html?path=/mobile/products/musical-instruments/pianos/pianos_series.xml&name=钢琴" encode="true">钢琴</a></div>
+                    <div class="category_item"><a href="product_search.html?path=/mobile/products/musical-instruments/keyboards/keyboards_series.xml&name=电子键盘" encode="true">电子键盘</a></div>
+                    <div class="category_item"><a class="gray" href="product_search.html?path=/mobile/products/musical-instruments/winds/winds_series.xml&name=管乐器" encode="true">管乐器</a></div>
+                    <div class="clear"></div>
+                    <div class="category_item"><a href="product_search.html?path=/mobile/products/musical-instruments/guitars/guitars_series.xml&name=吉他" encode="true">吉他</a></div>
+                    <div class="category_item"><a class="gray" href="product_search.html?path=/mobile/products/musical-instruments/drums/drums_series.xml&name=爵士鼓" encode="true">爵士鼓</a></div>
+                    <div class="category_item"><a href="product_search.html?path=/mobile/products/musical-instruments/strings/strings_series.xml&name=弦乐器" encode="true">弦乐器</a></div>
+                    <div class="clear"></div>
+                    <div class="category_item"><a class="gray" href="product_search.html?path=/mobile/products/musical-instruments/percussions/percussions_series.xml&name=打击乐器" encode="true">打击乐器</a></div>
+                    <div class="category_item"><a href="product_search.html?path=/mobile/products/audio-visual/av_series.xml&name=家庭音响" encode="true">家庭音响</a></div>
+                    <div class="category_item"><a class="gray" href="product_search.html?path=/mobile/products/music-production/mp_series.xml&name=音乐制作产品" encode="true">音乐制作产品</a></div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var productsHide = true;
+    $("#btn_header_products").click(function()
+    {
+        if(productsHide)
+            $("#products_float").fadeIn(400);
+        else
+            $("#products_float").fadeOut(400);
+        productsHide = !productsHide;
+
+        if(!searchHide)
+        {
+            $("#header_search").fadeOut(200);
+            searchHide = true;
+        }
+
+        return false;
+    })
+
+    var searchHide = true;
+    $("#btn_header_search").click(function()
+    {
+        if(searchHide)
+            $("#header_search").fadeIn(400);
+        else
+            $("#header_search").fadeOut(400);
+        searchHide = !searchHide;
+
+        if(!productsHide)
+        {
+            $("#products_float").fadeOut(200);
+            productsHide = true;
+        }
+        return false;
+    });
+</script>

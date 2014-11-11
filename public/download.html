@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+    <title>APP下载-雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+
+    <script type="text/javascript">
+        prepare = function()
+        {
+            $.get("http://www.yamaha.com.cn/mobile/app_list.xml",
+                  null,
+                  function(data,status)
+                  {
+                      if(status != "success")
+                      {
+                            alert("Error occured when get data from http://www.yamaha.com.cn/mobile/app_list.xml!");
+                            return;
+                      }
+
+                      var $apps = $("app",data);
+
+                      var $appContainer = $("#appContainer");
+                      var $appView = $(".appStore",$appContainer);
+                      $appContainer.empty();
+
+                      $apps.each(function(i,appItem)
+                      {
+                         var $appItem = $(appItem);
+                         $appView = $appView.clone();
+                         $(".icon",$appView).attr("src",URL_PREFIX + $appItem.attr("icon"));
+                         $(".title",$appView).text($appItem.find("title").text());
+                         $(".system",$appView).text($appItem.find("system").text());
+                         $(".overview",$appView).html($appItem.find("overview").text());
+
+                          var $androidNode = $("android",$appItem);
+                          if($androidNode.length > 0)
+                          {
+                              $("a.android",$appView).show();
+                              $("a.android",$appView).attr("href",$androidNode.text());
+                          }else{
+                              $("a.android",$appView).hide();
+                          }
+
+                         var $ipadNode = $("ipad",$appItem);
+                         if($ipadNode.length > 0)
+                         {
+                              $("a.ipad",$appView).show();
+                              $("a.ipad",$appView).attr("href",$ipadNode.text());
+                         }else{
+                              $("a.ipad",$appView).hide();
+                         }
+
+                          var $iphoneNode = $("iphone",$appItem);
+                          if($iphoneNode.length > 0)
+                          {
+                              $("a.iphone",$appView).show();
+                              $("a.iphone",$appView).attr("href",$iphoneNode.text());
+                          }else{
+                              $("a.iphone",$appView).hide();
+                          }
+
+                          $appView.show();
+                          $appContainer.append($appView);
+                      });
+
+                      hideLoading();
+
+                  },
+                  "xml");
+        }
+
+    </script>
+</head>
+
+<body>
+<div class="download" style="display: none">
+	<div class="header"></div>
+    <h2><a href="index.html"><img src="images/icon04.png"/></a>APP应用程序</h2>
+    <div id="appContainer">
+        <dl class="appStore">
+            <dt><img src="images/appImg04.jpg" class="icon"/></dt>
+            <div class="clear"/>
+            <dd><strong class="title">管乐小百科</strong><span class="system">系统要求：iOS 4.0 或更高版本</span></dd>
+            <div class="clear"/>
+            <dd class="overview">以介绍雅马哈萨克斯、长笛等管乐器产品为基础，同时拥有产品选购指南、管乐器保养方法等实用功能的应用程序</dd>
+            <div class="clear"/>
+            <dd class="store">
+                <div>
+                    <a href="#" target="_blank" class="ipad"><span>iPad版</span><br/><img src="images/appStore01.png"/></a>
+                </div>
+                <div>
+                    <a href="#" target="_blank" class="iphone"><span class="iphone">iPhone版</span><br/><img src="images/appStore02.png"/></a>
+                </div>
+                <div>
+                    <a href="#" target="_blank" class="android"><span class="android">Android版</span><br/><img src="images/android_icon.png"/></a>
+                </div>
+            </dd>
+            <div class="clear"/>
+        </dl>
+    </div>
+    <div class="foot"></div>
+</div>
+</body>
+</html>

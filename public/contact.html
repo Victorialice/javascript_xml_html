@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+    <title>联系我们-雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function()
+        {
+            var $buttons = $(".btn_map");
+            var $maps = $(".map_container");
+
+            $buttons.each(function(i,button)
+            {
+                var $map = $($maps[i]);
+                var coordinate = $("img",$map).attr("coordinate");
+                var src = generateMap(coordinate,600,400);
+                var mapLink = generateMapLink(coordinate);
+
+                var $btnScale = $("<a></a>");
+                $btnScale.addClass("btn_scale_map");
+                $btnScale.attr("href",mapLink);
+                $btnScale.attr("target","yamaha_map");
+                $map.append($btnScale);
+
+                $(button).click(function()
+                {
+                    $(".google_map",$map).attr("src",src);
+                    $map.slideToggle();
+
+                    return false;
+                });
+            });
+
+        });
+
+    </script>
+</head>
+
+<body>
+<div class="contact">
+	<div class="header">
+    </div>
+    <h2><a href="index.html"><img src="images/icon04.png"/></a>联系我们</h2>
+    <h3>上海总部</h3>
+    <h4>雅马哈乐器音响（中国）投资有限公司</h4>
+    <ul class="contactList">
+        <li><img src="images/contactIcon01.png"/><p>200042</p><img src="images/contactIcon02.png"/><p>021-62472211 021-61321111</p></li>
+        <li><img src="images/contactIcon03.png"/><p>上海市静安区新闸路1818号云和大厦1-3楼</p></li>
+        <li><a href="tel:02161321111"><img src="images/contactBtn01.png"/></a><a href="#" class="btn_map"><img src="images/contactBtn02.png"/></a></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="map_container" style="display: none">
+        <img class="google_map" coordinate="31.228087,121.44315"/>
+    </div>
+    <h4>雅马哈客户服务部</h4>
+    <ul class="contactList">
+        <li><img src="images/contactIcon01.png"/><p>200042</p><img src="images/contactIcon02.png"/><p>400-051-7700(乐器类咨询)<br/>400-051-7700 (家庭影院咨询)</p></li>
+        <li><img src="images/contactIcon03.png"/><p>上海市静安区新闸路1818号云和大厦2楼</p></li>
+        <li><a href="#" class="btn_map"><img src="images/contactBtn02.png"/></a><em></em></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="map_container" style="display: none">
+        <img class="google_map" coordinate="31.228087,121.44315"/>
+    </div>
+    <h3>分支机构</h3>
+    <h4>雅马哈北京办事处</h4>
+    <ul class="contactList">
+        <li><img src="images/contactIcon01.png"/><p>100028</p><img src="images/contactIcon02.png"/><p>010-84498266</p></li>
+        <li><img src="images/contactIcon03.png"/><p>北京市朝阳区西坝河南路甲2号</p></li>
+        <li><a href="tel:01084498266"><img src="images/contactBtn01.png"/></a><a href="#" class="btn_map"><img src="images/contactBtn02.png"/></a></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="map_container" style="display: none">
+        <img class="google_map" coordinate="39.958997,116.435144"/>
+    </div>
+    <h4>雅马哈广州办事处</h4>
+    <ul class="contactList">
+        <li><img src="images/contactIcon01.png"/><p>510055</p><img src="images/contactIcon02.png"/><p>020-83738383</p></li>
+        <li><img src="images/contactIcon03.png"/><p>广州市中山三路33号中华国际中心B塔1305-06室</p></li>
+        <li><a href="02083738383"><img src="images/contactBtn01.png"/></a><a href="#" class="btn_map"><img src="images/contactBtn02.png"/></a></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="map_container" style="display: none">
+        <img class="google_map" coordinate="23.127297,113.282776"/>
+    </div>
+    <div class="foot">
+    </div>
+</div>
+</body>
+</html>

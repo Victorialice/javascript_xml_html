@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+    <title>专卖店－雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript" src="http://ditu.google.cn/maps/api/js?key=AIzaSyAX-sXllxS5529cLMUWf2Nm7QU2wCTWB-4&sensor=false&language=zh-CN&&region=zh-CN">
+    </script>
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type ="text/javascript" src="js/regions.js"></script>
+    <script type="text/javascript" src="js/shops.js"></script>
+</head>
+<body>
+<div class="sale contact" style="display: none">
+	<div class="header"></div>
+    <h2><a href="index.html"><img src="images/icon04.png"/></a>专卖店查询</h2>
+    <div class="choose">
+        <div class="select_wrap"><select id="province_selector"><option>请选择省份</option></select></div>
+        <div class="select_wrap"><select id="shop_selector"><option>请选择产品</option></select></div>
+        <a href="#" class="search"><img src="images/searchBtn.png"/></a>
+        <p id="result_info"></p>
+        <div class="map" style="display: none"></div>
+    </div>
+    <div class="clear"></div>
+    <div id="result_container">
+
+    </div>
+    <div id="result_demo" style="display: none">
+        <h4>上海知音琴行（旗舰店）</h4>
+        <ul class="contactList">
+            <li><img class="hours_icon" src="images/contactIcon01.png"/><p class="hours">09：30 - 21：00</p><img src="images/contactIcon02.png" class="phone_num_icon"/><p class="phone_num">021-52413737</p></li>
+            <li><img src="images/contactIcon03.png"/><p class="address">上海市长宁路1200号贝多芬广场B座二楼(近中山西路)</p></li>
+            <li><a href="#" class="phone_num_link"><img src="images/contactBtn01.png"/></a><a href="#" class="btn_map"><img src="images/contactBtn02.png"/></a></li>
+        </ul>
+        <div class="clear"></div>
+        <div class="map_container"><img class="google_map"/></div>
+    </div>
+    <div class="foot"></div>
+</div>
+</body>
+</html>

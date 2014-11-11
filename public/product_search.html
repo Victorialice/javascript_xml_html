@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=no"/>
+    <title>产品搜索－雅马哈中国</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/base.css"  rel="stylesheet" type="text/css" />
+    <link href="css/scroller.css" rel="stylesheet" type="text/css"/>
+    <link href="css/expand_view.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
+    <script type="text/javascript" src="js/search.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/expand_view.js"></script>
+
+    <script type="text/javascript" src="js/easing.js"></script>
+    <script type="text/javascript" src="js/raphael.js"></script>
+    <script type="text/javascript" src="js/content_scroller.js"></script>
+    <script type="text/javascript" src="js/series_inspector.js"></script>
+    <script type="text/javascript" src="js/product_search.js"></script>
+</head>
+
+<body>
+<div class="Product Search" style="display: none">
+    <div class="header"></div>
+    <h2><a href="index.html"><img src="images/icon04.png"/></a><span id="header_title">家庭音响</span></h2>
+    <div class="ad">
+        <div scroller="kv_scroller">
+            <div class="container">
+                <img class="content" src="images/kv_02.jpg"/>
+                <img class="content" src="images/kv_03.jpg"/>
+            </div>
+            <div class="dot_container"></div>
+        </div>
+    </div>
+    <h3 class="bg04">按系列搜索</h3>
+    <div class="productView products"></div>
+
+    <div class="productImg root_demo" style="display: none">
+        <h4><span class="series_title">家庭影院</span><img src="images/subtract.png"/></h4>
+        <div>
+            <div class="sub_series"></div>
+            <div class="clear"></div>
+            <a href="#" class="search"><img src="images/searchBtn.png"/></a>
+            <div class="sub_series"></div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <div class="sub_series_block trunk_demo" style="display: none">
+        <h4><span class="series_title">家庭影院</span><img src="images/subtract.png"/></h4>
+        <div>
+            <div class="sub_series"></div>
+            <div class="clear"></div>
+            <a href="#" class="search"><img src="images/searchBtn.png"/></a>
+        </div>
+    </div>
+
+    <div class="series_search leaf_demo" style="display: none">
+        <ul class="searchList">
+            <li><a href="#">AVENTAGE/DSP-Z</a></li>
+            <li><a href="#">AV放大器</a></li>
+            <li><a href="#">蓝光/DVD播放器</a></li>
+            <li><a href="#">数字投音机</a></li>
+            <li><a href="#">家庭影院系统</a></li>
+            <li><a href="#">家庭影院系统</a></li>
+        </ul>
+    </div>
+
+    <div class="clear"></div>
+    <h3 class="bg04 feature">或 按性能搜索</h3>
+    <div class="productView features"></div>
+
+
+    <div class="clear"></div>
+    <div class="feature_search feature_demo" style="display: none">
+        <ul class="searchCategory">
+            <li class="list">
+                <span class="title">价格范围</span>
+                <div class="feature_container">
+                    <div class="feature">
+                        <select>
+                            <option value="all">所有</option>
+                            <option value="0-10000">¥1,0000以下</option>
+                            <option value="10000-20000">￥10,000-￥20,000</option>
+                            <option value="20000-Infinity">￥20,000以上</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </li>
+            <li class="list">
+                <span class="title">排列顺序</span>
+                <div class="feature_container">
+                    <div class="feature">
+                        <select>
+                            <option value="asc">升序</option>
+                            <option value="desc">降序</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </li>
+        </ul>
+    </div>
+
+    <div class="foot"></div>
+</div>
+</body>
+</html>

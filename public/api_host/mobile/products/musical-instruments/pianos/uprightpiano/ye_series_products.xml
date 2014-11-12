@@ -1,0 +1,144 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YE116]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/ye_series/YE116.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE116-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>15800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Domestic.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE116-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE116-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE116.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YE121]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/ye_series/YE121.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE121-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>19800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Domestic.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE121-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE121-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE121.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YE118]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/ye_series/YE118.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE118-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>17800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Domestic.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Amateur.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE118-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE118-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/ye_series/YE118.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

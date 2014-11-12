@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[U3]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/u_series/U3.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U3/u3_pe_a_2001_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>采用了与三角钢琴类似的浮动支撑系统提高了中音和低音的深度感和风格<br />
+高档立式钢琴的代表<br />
+特制弦槌：特制内衬羊毛弦槌<br />
+装有缓降式键盘盖<br />
+采用浮动式音板支持结构<br />
+使用被三角钢琴采用的弦码调节螺钮</p>]]></overview>
+			<description><![CDATA[<p>采用了与三角钢琴类似的浮动支撑系统提高了中音和低音的深度感和风格<br />
+高档立式钢琴的代表<br />
+特制弦槌：特制内衬羊毛弦槌<br />
+装有缓降式键盘盖<br />
+采用浮动式音板支持结构<br />
+使用被三角钢琴采用的弦码调节螺钮</p>
+<p>U3PE&nbsp;&nbsp; 77700元 <br />
+U3PM&nbsp;&nbsp; 102700元 <br />
+U3PWH&nbsp; 102700元</p>]]></description>
+			<price>77700</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Import.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Amateur.html<!#>Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U3/u3_pe_a_2001_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U3/u3_pe_a_2001_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U3/u3_pe_a_2001_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[U1]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/u_series/U1.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pe_a_1001_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>特制弦槌：特制内衬羊毛弦槌<br />
+装有缓降式键盘盖<br />
+使用被三角钢琴采用的弦码调节螺钮</p>]]></overview>
+			<description><![CDATA[<p>特制弦槌：特制内衬羊毛弦槌<br />
+装有缓降式键盘盖<br />
+使用被三角钢琴采用的弦码调节螺钮<br />
+U1PE&nbsp; &nbsp; &nbsp; 66800元 <br />
+U1PM&nbsp; &nbsp;&nbsp; 91800元 <br />
+U1PWH&nbsp; 91800元&nbsp;</p>]]></description>
+			<price>66800/91800/91800</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Import.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Amateur.html<!#>Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>乌黑色</color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pe_a_1001_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pe_a_1001_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pe_a_1001_f.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>桃花心木色</color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pm_a_5001_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pm_a_5001_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/u-series/U1/u1_pm_a_5001_f.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>胡桃木色</color_description>
+					<small_image></small_image>
+					<middle_image></middle_image>
+					<large_image></large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

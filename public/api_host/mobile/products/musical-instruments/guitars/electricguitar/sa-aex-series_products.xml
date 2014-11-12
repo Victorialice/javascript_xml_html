@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[AEX1500]]></title> 
+			<path>/products/musical-instruments/guitars/electricguitar/sa-aex-series/AEX1500.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_gu-s.jpg</thumb_image>
+			<overview><![CDATA[<p>拥有和你心目中的明星一样的电吉他吧！</p>]]></overview>
+			<description><![CDATA[<p>拥有和你心目中的明星一样的电吉他吧！</p>]]></description>
+			<price>26130</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>古典色</color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_gu-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_gu-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_gu.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>原木色</color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_he-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_he-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/aex1500/aex1500_he.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[SA2200]]></title> 
+			<path>/products/musical-instruments/guitars/electricguitar/sa-aex-series/SA2200.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/sa2200/sa2200_a-S.jpg</thumb_image>
+			<overview><![CDATA[<p>拥有和你心目中的明星一样的电吉他吧！</p>]]></overview>
+			<description><![CDATA[<p>拥有和你心目中的明星一样的电吉他吧！</p>]]></description>
+			<price>21000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>太阳渐变色</color_description>
+					<small_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/sa2200/sa2200_a-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/sa2200/sa2200_a-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/electricguitar/saaex_series/sa2200/sa2200_a.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

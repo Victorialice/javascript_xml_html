@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YC121D ]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/yc_series/YC121D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC121D-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>YC121PE&nbsp;&nbsp; 43800元<br />
+YC121PEM&nbsp; 43800元</p>
+<p>&nbsp;</p>]]></description>
+			<price>43800（起）</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[Domestic.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>乌黑色</color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC121D-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC121D-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC121D.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>黑色</color_description>
+					<small_image></small_image>
+					<middle_image></middle_image>
+					<large_image></large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>桃花心木色</color_description>
+					<small_image></small_image>
+					<middle_image></middle_image>
+					<large_image></large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YC131D ]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/yc_series/YC131D.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC131D-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>YC131DPE&nbsp;&nbsp; 50300元 <br />
+YC131DPEM&nbsp;&nbsp; 50300元</p>]]></description>
+			<price>50300</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[Domestic.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>乌黑色</color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC131D-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC131D-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/yc-series/YC131D.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>黑色</color_description>
+					<small_image></small_image>
+					<middle_image></middle_image>
+					<large_image></large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>桃花心木色</color_description>
+					<small_image></small_image>
+					<middle_image></middle_image>
+					<large_image></large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

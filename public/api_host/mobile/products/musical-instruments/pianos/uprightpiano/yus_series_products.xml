@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[YUS5]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/yus_series/YUS5.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus5_pe_a_5002_f-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>98000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Import.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus5_pe_a_5002_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus5_pe_a_5002_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus5_pe_a_5002_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YUS3]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/yus_series/YUS3.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus3_pe_a_5002_f-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[]]></description>
+			<price>86500</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Import.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus3_pe_a_5002_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus3_pe_a_5002_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus3_pe_a_5002_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[YUS1]]></title> 
+			<path>/products/musical-instruments/pianos/uprightpiano/yus_series/YUS1.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus1_pe_a_5002_f-S.jpg</thumb_image>
+			<overview><![CDATA[]]></overview>
+			<description><![CDATA[<p>YUS1PE&nbsp;&nbsp; 76100元 <br />
+YUS1PM&nbsp;&nbsp; 101100元</p>]]></description>
+			<price>76100/101100</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Import.html]]></performance>
+
+
+
+	<recommendedgroup><![CDATA[Artist.html<!#>Professional.html]]></recommendedgroup>
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus1_pe_a_5002_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus1_pe_a_5002_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/uprightpiano/yus_series/yus1_pe_a_5002_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

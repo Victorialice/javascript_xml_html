@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[CFX]]></title> 
+			<path>/products/musical-instruments/pianos/grandpianos/cf_series/CFX.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cfx_a_0002_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>历经19年的潜心研制与开发，<br />
+融入了雅马哈最先进的制造工艺和世界众多顶级艺术家对钢琴的需求和期望，<br />
+使得这台全尺寸音乐会三角钢琴真正成为&ldquo;苛求完美，再塑卓越&rdquo;的实例。</p>]]></overview>
+			<description><![CDATA[<p>历经19年的潜心研制与开发，<br />
+融入了雅马哈最先进的制造工艺和世界众多顶级艺术家对钢琴的需求和期望，<br />
+使得这台全尺寸音乐会三角钢琴真正成为&ldquo;苛求完美，再塑卓越&rdquo;的实例。</p>]]></description>
+			<price>1500000</price> 
+			<recommend>Yes</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+	<recommendedsites><![CDATA[Concert.html]]></recommendedsites>
+
+	
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cfx_a_0002_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cfx_a_0002_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cfx_a_0002_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CF6]]></title> 
+			<path>/products/musical-instruments/pianos/grandpianos/cf_series/CF6.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf6_a_0002_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>全尺寸三角钢琴CFX的缩小版。</p>]]></overview>
+			<description><![CDATA[<p>全尺寸三角钢琴CFX的缩小版。</p>]]></description>
+			<price>950000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+	<recommendedsites><![CDATA[Concert.html]]></recommendedsites>
+
+	
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf6_a_0002_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf6_a_0002_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf6_a_0002_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CF4]]></title> 
+			<path>/products/musical-instruments/pianos/grandpianos/cf_series/CF4.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf4_a_0002_f-S.jpg</thumb_image>
+			<overview><![CDATA[<p>全尺寸三角钢琴CFX的缩小版。</p>]]></overview>
+			<description><![CDATA[<p>全尺寸三角钢琴CFX的缩小版。</p>]]></description>
+			<price>800000</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[]]></performance>
+
+
+
+
+	<recommendedsites><![CDATA[Concert.html]]></recommendedsites>
+
+	
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf4_a_0002_f-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf4_a_0002_f-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/pianos/grandpianos/cf-series/cf4_a_0002_f.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

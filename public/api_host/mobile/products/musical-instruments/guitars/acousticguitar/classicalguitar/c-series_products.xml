@@ -1,0 +1,305 @@
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+<products>
+
+		
+		
+		
+		<product>
+			<title><![CDATA[C40M]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/C40M.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/C40M/c40m-s.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>880</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/C40M/c40m-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/C40M/c40m-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/C40M/c40m-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CM40]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/CM40.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cm40/CM40-s.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>820</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cm40/CM40-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cm40/CM40-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cm40/CM40-L.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CS40]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/CS40.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cs40/CS40-s.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>760</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cs40/CS40-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cs40/CS40-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cs40/CS40.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[CX40]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/CX40.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cx40/CX40-yuanmu-s.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>1230</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[ElectricBox.html<!#>Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cx40/CX40-yuanmu-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cx40/CX40-yuanmu-m.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/cx40/CX40-yuanmu-l.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[C80]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/C80.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c80/c80_hi-S.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>1290</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c80/c80_hi-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c80/c80_hi-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c80/c80_hi.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[C70]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/C70.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c70/c70_hi-S.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>960</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+				<main_image>
+					<color_description></color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c70/c70_hi-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c70/c70_hi-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c70/c70_hi.jpg</large_image>
+				</main_image>
+				
+			</main_images>
+			
+			<color_images>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+		
+		
+		
+		<product>
+			<title><![CDATA[C40]]></title> 
+			<path>/products/musical-instruments/guitars/acousticguitar/classicalguitar/c-series/C40.html</path>
+			<if_new>No</if_new> 
+			<thumb_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_hi-s.jpg</thumb_image>
+			<overview><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></overview>
+			<description><![CDATA[<p>C系列是一款适合古典吉他学习入门的经典型号</p>]]></description>
+			<price>840</price> 
+			<recommend>No</recommend>
+			
+			
+	<performance><![CDATA[Plywood.html]]></performance>
+
+
+
+
+
+			
+			<main_images>
+				
+			</main_images>
+			
+			<color_images>
+				
+				<color_image>
+					<color_description>原木色</color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_hi-s.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_hi-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_hi.jpg</large_image>
+				</color_image>
+				
+				<color_image>
+					<color_description>黑色</color_description>
+					<small_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_pe-S.jpg</small_image>
+					<middle_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_pe-M.jpg</middle_image>
+					<large_image>/images/products/musical-instruments/guitars/acousticguitar/classicalguitar/c_series/c40/c40_pe.jpg</large_image>
+				</color_image>
+				
+			</color_images>
+			
+		</product>
+		
+		
+	
+</products>

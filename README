@@ -1,6 +1,6 @@
 Introduction:
   The aim of this repository is to demonstrate how to generate html smartly using javascript and xml.
-  Here the ruby gem "Sinatra" only plays the role of web server, on the miracle is in public directory.
+  Here the ruby gem "Sinatra" only plays the role of web server, all the miracle is in public directory.
 
 How to Kick Off:
   1. bundle install

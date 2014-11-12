@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apps>
+	<app icon="/images/support/personal/download/app_list/mg_rec_play.jpg">
+		<category>music-production</category>
+		<title><![CDATA[MG Rec & Play]]></title>
+		<system><![CDATA[iOS7或更高]]></system>
+		<overview><![CDATA[当您连接MG系列调音台和您的iPhone或iPad后，MG REC & PLAY 可以帮助您快速录制现场演出或者进行音乐播放。（-录音和播放不能同时进行；-支持的MG系列型号为MG20XU, MG16XU, MG12XU, MG10XU；-连接苹果端设备至MG调音台需要使用Camera connection kit 或者 Lightning to USB camera adapter以及USB 方口线缆。）]]></overview>
+		<iphone><![CDATA[https://itunes.apple.com/cn/app/mg-rec-play/id836487316?mt=8]]></iphone>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/mg-rec-play/id836487316?mt=8]]></ipad>
+	</app>
+	<app icon="/images/support/personal/download/app_list/home_theater.jpg">
+		<category>audio-visual</category>
+		<title>HOME THEATER CONTROLLER</title>
+		<system><![CDATA[iOS 5.1 或更高版本]]></system>
+		<overview><![CDATA[通过HT Controller App，您可以使用苹果设备（iPhone/iPod touch/iPad）来轻松操作雅马哈家庭影院系统。主要特点:1) 基本功能控制，如音量调节，输入选择和设置模式选择 2) 精确的音束调整（针对YSP-1400）3) 环绕声模式选择，比遥控器上附带的提供更多选择（ 针对YAS-152, YAS-103 ）。此款APP需要您的雅马哈数字投音机和您的移动设备之间存在有效的蓝牙无线连接，请务必先建立连接。<br/>语言: 丹麦文, 博克马尔文，挪威文, 土耳其文, 德文, 意大利文, 日文, 法文, 波兰文, 瑞典文, 芬兰文, 英文, 荷兰文, 葡萄牙文, 西班牙文]]></overview>
+		<iphone><![CDATA[https://itunes.apple.com/cn/app/home-theater-controller/id669331208?mt=8]]></iphone>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/home-theater-controller/id669331208?mt=8]]></ipad>
+		<android><![CDATA[https://play.google.com/store/apps/details?id=com.yamaha.av.htcontroller]]></android>
+	</app>
+	<app icon="/images/support/personal/download/app_list/dta_controller.jpg">
+		<category>audio-visual</category>
+		<title>DTA Controller</title>
+		<system><![CDATA[iOS5.0或更高版本/Android OS2.3.3或更高版本]]></system>
+		<overview><![CDATA[通过DTA Controller App，您可以使用苹果设备（iPhone//iPad）以及安卓设备来无线遥控Yamaha的DTA产品中的部分功能，如智能闹铃设置，输入源（网络收音，USB，FM/AM 等）切换等。支持各种屏幕尺寸的平板电脑。<br/>语言：德文, 意大利文, 日文, 法文, 简体中文, 英文, 西班牙文。]]></overview>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/dta-controller/id550121273?mt=8]]></ipad>
+		<android><![CDATA[https://play.google.com/store/apps/details?id=com.yamaha.av.dtacontroller]]></android>
+	</app>
+	<app icon="/images/support/personal/download/app_list/dtx400_touch.jpg">
+		<category>drums</category>
+		<title>DTX400 TOUCH</title>
+		<system><![CDATA[iOS6.1或更高版本]]></system>
+		<overview><![CDATA[开创了全新的互动模式，让您的DTX400系列电鼓尽在掌握！轻松定制您想要的一切音色！<br/>语言：英语、日语]]></overview>
+		<iphone><![CDATA[https://itunes.apple.com/cn/app/id626699938]]></iphone>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/id626699938]]></ipad>
+	</app>
+	<app icon="/images/support/personal/download/app_list/av_controller.jpg">
+		<category>audio-visual</category>
+		<title>AV CONTROLLER</title>
+		<system><![CDATA[iOS4.3或更高版本/Android OS2.1或更高版本]]></system>
+		<overview><![CDATA[通过AV Controller App，您可以使用苹果设备（iPhone/iPod touch/iPad）来无线遥控Yamaha的AV功放等网络产品，如控制AV功放的开关机，音量调节，静音，输入源（网络收音，USB，FM/AM 等）切换等。此外，您还可以通过此软件，将苹果设备中的音乐经Wi-Fi无线网发送到AV功放，尽情享受苹果设备中的高音质音乐。支持各种屏幕尺寸的平板电脑。<br/>语言：中文，英文，法文，德文，日文，俄文，西班牙文等。]]></overview>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/av-controller/id418512183?mt=8]]></ipad>
+		<android><![CDATA[https://play.google.com/store/apps/details?id=com.yamaha.av.avcontroller]]></android>
+	</app>
+	<app icon="/images/support/personal/download/app_list/np_controller.jpg">
+		<category>music-production</category>
+		<title>NETWORK PLAYER CONTROLLER</title>
+		<system><![CDATA[iOS4.3或更高版本/Android OS2.1或以上]]></system>
+		<overview><![CDATA[NETWORK PLAYER CONTROLLER（简称NP Controller），是一款让您使用iPhone/iPod touch/iPad/Android设备通过网络就可以操控雅马哈网络播放器的应用程序。<br/>语言：中文，英文，法文，德文，日文，俄文，西班牙文。]]></overview>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/network-player-controller/id390113840?mt=8]]></ipad>
+		<android><![CDATA[https://play.google.com/store/apps/details?id=com.yamaha.npcontroller&feature=more_from_developer#?t=W251bGwsMSwxLDEwMiwiY29tLnlhbWFoYS5ucGNvbnRyb2xsZXIiXQ..]]></android>
+	</app>
+	<app icon="/images/support/personal/download/app_list/songbeat_download_icon.jpg">
+		<category>drums</category>
+		<title>Song Beats</title>
+		<system>ios 5.0 或更高版本</system>
+		<overview><![CDATA[一款难以置信的鼓演奏支援应用程序，帮助您轻松学会用鼓演奏您最喜爱的歌曲！<br/>语言：英语、德语、法语、西班牙语、意大利语、日语]]></overview>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/song-beats/id546319014?mt=8]]></ipad>
+		<iphone><![CDATA[https://itunes.apple.com/cn/app/song-beats/id546319014?mt=8]]></iphone>
+	</app>
+	<app icon="/images/support/personal/download/app_list/ekb2_app.jpg">
+		<category>keyboards</category>
+		<title>电子键盘乐器</title>
+		<system>iOS 4.0 或更高版本</system>
+		<overview><![CDATA[以介绍雅马哈电子琴、电钢琴产品为基础，同时拥有产品选购指南、新品推荐、演示视频等实用功能的应用程序。]]></overview>
+		<ipad><![CDATA[https://itunes.apple.com/cn/app/dian-zi-jian-pan-le-qi/id475685267?mt=8]]></ipad>
+	</app>
+	<app icon="/images/support/personal/download/app_list/dta_app.jpg">
+		<category>music-production</category>
+		<title>桌面音频产品</title>
+		<system>iOS 4.0 或更高版本</system>
+		<overview><![CDATA[以介绍雅马哈桌面音响产品为基础,同时拥有产品功能展示、选购指南、新品推荐等实用功能的应用程序。]]></overview>
+		<ipad><![CDATA[http://itunes.apple.com/us/app/id538304386?mt=8]]></ipad>
+	</app>
+	<app icon="/images/support/personal/download/app_list/winds_app.jpg">
+		<category>winds</category>
+		<title>管乐小百科</title>
+		<system>iOS 4.0 或更高版本</system>
+		<overview><![CDATA[以介绍雅马哈萨克斯、长笛等管乐器产品为基础，同时拥有产品选购指南、管乐器保养方法等实用功能的应用程序。]]></overview>
+		<ipad><![CDATA[http://itunes.apple.com/us/app/id546275403?mt=8]]></ipad>
+		<iphone><![CDATA[http://itunes.apple.com/cn/app/guan-le-xiao-bai-ke/id549413365?mt=8]]></iphone>
+		<android><![CDATA[http://apk.hiapk.com/html/2014/04/2598589.html?module=256&info=oXtQTg9cfnbReQ%3D%3D]]></android>
+	</app>
+	<app icon="/images/support/personal/download/app_list/piano_app.jpg">
+		<category>pianos</category>
+		<title>雅马哈钢琴</title>
+		<system>iOS 5.0 或更高版本</system>
+		<overview><![CDATA[雅马哈钢琴借助iPad绚丽的高清屏幕，使用户更直观，更快捷的了解雅马哈钢琴。]]></overview>
+		<ipad><![CDATA[https://itunes.apple.com/us/app/ya-ma-ha-gang-qin/id576992473?mt=8]]></ipad>
+	</app>
+	<app icon="/images/support/personal/download/app_list/thr_app.jpg">
+		<category>guitars</category>
+		<title>THR Session</title>
+		<system>iOS 5.0 或更高版本</system>
+		<overview><![CDATA[这款应用对于拥有Yamaha THR 功放的吉他使用者来说是一款完美的音频工具应用，它能带给你前所未有的体验。]]></overview>
+		<iphone><![CDATA[http://itunes.apple.com/us/app/thr-session-us/id488364313?ls=1&mt=8]]></iphone>
+	</app>
+	<app icon="/images/support/personal/download/app_list/mgp_app.jpg">
+		<category>music-production</category>
+		<title>MGP Editor</title>
+		<system>iOS 4.3 或更高版本</system>
+		<overview><![CDATA[这是一款针对Yamaha  MGP系列调音台的应用工具，能够帮助您通过iPhone，iPod touch以及iPad实现对调音台DSP单元的额外控制，这其中包括音量调整、效果器参数微调、自动校平器控制以及Ducker功能调整等等。]]></overview>
+		<iphone><![CDATA[http://itunes.apple.com/us/app/thr-session-us/id488364313?ls=1&mt=8]]></iphone>
+	</app>
+</apps>

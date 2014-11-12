@@ -16,7 +16,7 @@
     <script type="text/javascript">
         prepare = function()
         {
-            $.get("http://www.yamaha.com.cn/mobile/app_list.xml",
+            $.get(URL_PREFIX + "/api_host/mobile/app_list.xml",
                   null,
                   function(data,status)
                   {

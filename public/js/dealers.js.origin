@@ -13,13 +13,13 @@ prepare = function()
         }
     }
 
-    $.get(URL_PREFIX + "/dealers/dealers/audio-visual/data.txt",
+    $.get("http://www.yamaha.com.cn/dealers/dealers/audio-visual/data.txt",
           null,
           function(data,status)
           {
               if(status != "success")
               {
-                  alert("Error occured when get data from /dealers/dealers/audio-visual/data.txt!");
+                  alert("Error occured when get data from http://www.yamaha.com.cn/dealers/dealers/audio-visual/data.txt!");
                   return;
               }
 
@@ -29,13 +29,13 @@ prepare = function()
           },
           "text");
 
-    $.get(URL_PREFIX + "/dealers/dealers/music-production/data.txt",
+    $.get("http://www.yamaha.com.cn/dealers/dealers/music-production/data.txt",
         null,
         function(data,status)
         {
             if(status != "success")
             {
-                alert("Error occured when get data from /dealers/dealers/music-production/data.txt!");
+                alert("Error occured when get data from http://www.yamaha.com.cn/dealers/dealers/music-production/data.txt!");
                 return;
             }
 
@@ -45,13 +45,13 @@ prepare = function()
         },
         "text");
 
-    $.get(URL_PREFIX + "/dealers/dealers/musical-instruments/data.txt",
+    $.get("http://www.yamaha.com.cn/dealers/dealers/musical-instruments/data.txt",
         null,
         function(data,status)
         {
             if(status != "success")
             {
-                alert("Error occured when get data from /dealers/dealers/musical-instruments/data.txt!");
+                alert("Error occured when get data from http://www.yamaha.com.cn/dealers/dealers/musical-instruments/data.txt!");
                 return;
             }
 

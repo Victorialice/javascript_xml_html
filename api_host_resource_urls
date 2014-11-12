@@ -69,3 +69,11 @@ http://localhost:4567/api_host/products/musical-instruments/guitars/electricguit
 /images/products/musical-instruments/guitars/electricguitar/pacifica_series/pacifia012/pacifica012_pe.jpg
 /images/products/musical-instruments/guitars/electricguitar/pacifica_series/pacifia012/pacifica012_red.jpg
 /images/products/musical-instruments/guitars/electricguitar/pacifica_series/pacifia012/pacifica012_lan.jpg
+
+/dealers/dealers/audio-visual/data.txt
+/dealers/dealers/music-production/data.txt
+/dealers/dealers/musical-instruments/data.txt
+/mobile/shops.xml
+/support/personal/maintenance/audio-visual/data.txt
+/support/personal/maintenance/proaudio/data.txt
+/support/personal/maintenance/music-instruments/data.txt

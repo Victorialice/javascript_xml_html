@@ -13,13 +13,13 @@ prepare = function()
         }
     }
 
-    $.get(URL_PREFIX + "/support/personal/maintenance/audio-visual/data.txt",
+    $.get("http://www.yamaha.com.cn/support/personal/maintenance/audio-visual/data.txt",
         null,
         function(data,status)
         {
             if(status != "success")
             {
-                alert("Error occured when get data from /support/personal/maintenance/audio-visual/data.txt!");
+                alert("Error occured when get data from http://www.yamaha.com.cn/support/personal/maintenance/audio-visual/data.txt!");
                 return;
             }
 
@@ -29,13 +29,13 @@ prepare = function()
         },
         "text");
 
-    $.get(URL_PREFIX + "/support/personal/maintenance/proaudio/data.txt",
+    $.get("http://www.yamaha.com.cn/support/personal/maintenance/proaudio/data.txt",
         null,
         function(data,status)
         {
             if(status != "success")
             {
-                alert("Error occured when get data from /support/personal/maintenance/proaudio/data.txt!");
+                alert("Error occured when get data from http://www.yamaha.com.cn/support/personal/maintenance/proaudio/data.txt!");
                 return;
             }
 
@@ -45,13 +45,13 @@ prepare = function()
         },
         "text");
 
-    $.get(URL_PREFIX + "/support/personal/maintenance/music-instruments/data.txt",
+    $.get("http://www.yamaha.com.cn/support/personal/maintenance/music-instruments/data.txt",
         null,
         function(data,status)
         {
             if(status != "success")
             {
-                alert("Error occured when get data from /support/personal/maintenance/music-instruments/data.txt!");
+                alert("Error occured when get data from http://www.yamaha.com.cn/support/personal/maintenance/music-instruments/data.txt!");
                 return;
             }
 

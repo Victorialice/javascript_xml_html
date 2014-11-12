@@ -77,3 +77,10 @@ http://localhost:4567/api_host/products/musical-instruments/guitars/electricguit
 /support/personal/maintenance/audio-visual/data.txt
 /support/personal/maintenance/proaudio/data.txt
 /support/personal/maintenance/music-instruments/data.txt
+
+
+http://localhost:4567/api_host/images/dealers/instrument_logo/keyboards.jpg
+http://localhost:4567/api_host/images/dealers/instrument_logo/pianos.jpg
+http://localhost:4567/api_host/images/dealers/instrument_logo/drums.jpg
+http://localhost:4567/api_host/images/dealers/instrument_logo/guitars.jpg
+http://localhost:4567/api_host/images/dealers/instrument_logo/winds.jpg

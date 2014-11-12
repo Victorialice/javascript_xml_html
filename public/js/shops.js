@@ -195,7 +195,7 @@ var region = null;
 
 var loadData = function()
 {
-    $.get("http://www.yamaha.com.cn/mobile/shops.xml",
+    $.get(URL_PREFIX + "/mobile/shops.xml",
           null,
           function(data,status)
           {
